@@ -1,0 +1,87 @@
+{
+  "session": 53,
+  "videoId": "6LTNwhtLDJE",
+  "youtubeTitle": "The Gospel and Soul Health Session 53 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 3 (Session 8)",
+  "topic": "The black hole: core pain and its defences",
+  "summary": "Bruce recaps his 'black hole' model of the soul. At the core is deep pain (feeling alone, scared and hurt, and 'not a person'), surrounded by terror of that pain, then a need for control, then frustration and anger when anyone comes close. Magical thinking turns the pain into 'I failed, so I'm bad', and to escape it we build a false self: 'I will not be separated, unsafe or bad; I will perform and make a name for myself', which fuels addictions and empire-building. He sees personality models like the Enneagram as useful maps of the false self, our attempts to be acceptable, when acceptance has already been given. The healing answer is that Jesus has gone to the bottom of our black hole: he is in you, he shares the Father's love, and the Holy Spirit takes that love into the hurting child within, so you can hold that part of yourself and pray for it.",
+  "keyPoints": [
+    "At the core of the human soul is a 'black hole' of pain, wrapped in terror of that pain, so we put boundaries around it and don't go near it.",
+    "Around the terror sits a need for control; when control is breached we feel frustration and then anger, often disproportionate because someone has come near our core loss.",
+    "Rather than running from strong emotional reactions, chase them and go towards them: as we age, they are the clues to deep, unhealed areas.",
+    "The Enneagram and many personality models describe the false self, our strategies to be accepted, which are useful but not the bottom; beneath them we are children of Father, Son and Spirit.",
+    "Healthy development runs connected, loved and safe, free to become a person; when that fails it darkens into alone, scared and hurt, and 'I'm not a person, I have no value, I'm nothing'.",
+    "Magical thinking makes the child conclude: 'I failed to make them love me, so I'm a failure, so I'm bad.'",
+    "To escape that pain we recreate ourselves into a false self: 'I will not be separated, unsafe or bad; I will perform and have esteem', which can spill over into addictions and empire-building.",
+    "'I am bad' is a lie: the Father wanted you before creation, and the only beloved Son from the Father's bosom now holds you from within.",
+    "The three truths for prayer: Jesus Christ is in you and you never put him there; he brings the love he and the Father share; the Spirit takes what is his and shares it with you.",
+    "Practise holding the little child within ('little Bruce'), praying that the Spirit share the Father's love with that alone, scared, hurt part.",
+    "Jesus' love is not butterflies and unicorns; he went to the cross so the Father's love for him would reach the core of human darkness and aloneness (John 17:26).",
+    "The Trinity 'doesn't do abandonment' (Baxter Kruger): they will never leave nor forsake us."
+  ],
+  "keyTerms": [
+    {"term": "Black hole", "definition": "The core pain of feeling alone, scared, hurt and of no value, around which the soul builds defences."},
+    {"term": "False self", "definition": "The self we construct to escape core pain and be accepted, through performance, control and esteem."},
+    {"term": "Magical thinking", "definition": "A child's belief that they cause what happens, leading to the conclusion 'I'm bad'."},
+    {"term": "Enneagram", "definition": "A personality model Bruce sees as a useful map of our false selves and strategies for acceptability."},
+    {"term": "Three truths", "definition": "Christ is in you; he shares the Father's love; the Spirit shares what is his with you."}
+  ],
+  "scriptures": ["John 17:26", "John 1:18", "Hebrews 13:5", "Ephesians 1:4"],
+  "quotes": [
+    "Chase your emotional reactions; don't run from them, go towards them.",
+    "'I am bad' is a lie, because Dad has always loved me.",
+    "This is not airy-fairy love with unicorns and silver sprinkles; this is love into the core of human darkness.",
+    "Dad doesn't know how to do abandonment."
+  ],
+  "diagram": {
+    "type": "layers",
+    "title": "The structure around our black hole",
+    "nodes": [
+      {"id": "a", "label": "False self", "detail": "I will perform, achieve esteem, and never be bad or unsafe."},
+      {"id": "b", "label": "Anger", "detail": "Erupts when someone breaches our control."},
+      {"id": "c", "label": "Frustration", "detail": "The first reaction when control is threatened."},
+      {"id": "d", "label": "Need for control", "detail": "Keeps people and situations away from the pain."},
+      {"id": "e", "label": "Terror of the pain", "detail": "Fear that walls off the core."},
+      {"id": "f", "label": "Core pain (black hole)", "detail": "Alone, scared, hurt; I'm nothing, I'm bad."},
+      {"id": "g", "label": "Jesus at the bottom", "detail": "Christ in you, sharing the Father's love beneath it all."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "b", "to": "c"},
+      {"from": "c", "to": "d"},
+      {"from": "d", "to": "e"},
+      {"from": "e", "to": "f"},
+      {"from": "f", "to": "g", "label": "held by"}
+    ],
+    "note": "Outer layers defend the core pain; Jesus has gone beneath the black hole, so healing comes from the bottom up."
+  },
+  "caseStudy": {
+    "title": "The overachiever's outburst",
+    "scenario": "Sam is a high-performing lawyer known for long hours and perfectionism. When his wife gently suggests he seems lonely, he snaps at her and storms out, then feels baffled at how angry he became. He relaxes only with a few drinks every night.",
+    "analysis": "In Bruce's model, his wife's comment came near Sam's core pain of aloneness. The layers activated in turn: terror, the need for control, then frustration and anger. His performance-driven identity is a false self built on 'I will have value', and the nightly drinking may be the pain spilling into comforting.",
+    "pathway": [
+      "Treat the outburst as a clue: go towards it and ask 'what did that touch in me?'",
+      "Name the core feelings beneath the anger: alone, scared, hurt.",
+      "Pray the three truths over the 'little Sam' who felt he had to earn love.",
+      "Notice where performance is a strategy for worth, and practise receiving love apart from achievement.",
+      "Apologise to his wife and share what he is discovering.",
+      "Get support from a counsellor or GP about his alcohol use if it is hard to reduce."
+    ]
+  },
+  "practices": [
+    {"name": "Holding the little one", "how": "Picture yourself as a child at a painful moment. Put your arms around that child inwardly and pray: 'Holy Spirit, take the love Jesus has from the Father and share it with this little one.'"},
+    {"name": "Chase the reaction", "how": "After a disproportionate anger or frustration, write: what happened, what I was protecting, what core feeling (alone, scared, hurt, worthless) sits underneath."},
+    {"name": "Three truths breath prayer", "how": "Breathe in 'Christ is in me', out 'sharing the Father's love'; in 'Spirit', out 'share it with me'. Repeat for a few minutes daily."}
+  ],
+  "reflection": [
+    "Which of the outer layers (control, frustration, anger) do you notice most in yourself?",
+    "What does your false self insist on ('I will never be...') to avoid the core pain?",
+    "What would it be like to believe the Father wanted you before creation, apart from your performance?"
+  ],
+  "quiz": [
+    {"q": "In Bruce's model, what directly surrounds the core pain of the black hole?", "options": ["Joy", "Terror or fear of the pain", "The Holy Spirit", "Ambition"], "answer": 1, "explain": "Fear of the pain walls it off, then control, frustration and anger follow outward."},
+    {"q": "How does Bruce view the Enneagram?", "options": ["As the definitive map of the true self", "As useless", "As a spiritual gift", "As a useful model of our false selves"], "answer": 3, "explain": "It describes strategies to be accepted, when acceptance is already given."},
+    {"q": "Which of these is NOT one of Bruce's three truths for prayer?", "options": ["Christ is in you and you never put him there", "He shares the love he has with the Father", "You must first confess every sin to be loved", "The Spirit takes what is his and shares it with you"], "answer": 2, "explain": "His truths are all gifts already given, not conditions to meet."}
+  ]
+}

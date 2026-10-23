@@ -1,0 +1,412 @@
+{
+  "thesis": "A 59-session journey from the love of the Father, Son and Spirit, through the darkness of the human “flesh”, to practical soul healing: the conscience, the spin, grief, injustice, the black hole and trauma. Each session is distilled into visual maps, concept cards, case studies, practices and quizzes.",
+  "verse": { "text": "In that day you will know that I am in my Father, and you in me, and I in you.", "ref": "John 14:20" },
+  "careNote": "This app summarises a teaching series for learning and reflection. It is not therapy or medical advice. If you are in crisis, or working through trauma, abuse, addiction or depression, please involve a qualified counsellor, doctor or trusted pastor.",
+
+  "framework": {
+    "type": "cycle",
+    "title": "The love story",
+    "centre": "John 14:20",
+    "nodes": [
+      { "id": "a", "label": "Father, Son and Spirit in love", "detail": "One God, a communion of mutual love and service with no hierarchy and no ‘outside’. This is the Who of the universe (Sessions 2, 30)." },
+      { "id": "b", "label": "Dream: adopted as children", "detail": "Before creation they purposed to include us in their love as sons and daughters. This is the Why (Sessions 3, 7)." },
+      { "id": "c", "label": "Made and held in Christ", "detail": "All things are made in, through and for the Son and sustained by his life (zoe). There is no separation from God (Sessions 4, 10)." },
+      { "id": "d", "label": "Alone, blind: the flesh", "detail": "Adam alone in plenty, the accusing conscience, the split self and the black hole. Darkness is life lived without love (Sessions 10–13)." },
+      { "id": "e", "label": "Christ enters our darkness", "detail": "The Word became flesh, our flesh, and beat his way through it to the bottom. What is not assumed is not healed (Sessions 5, 14–15)." },
+      { "id": "f", "label": "Cross, Hades, rising: us too", "detail": "We killed him; our deicide was our suicide. Whatever happened to him happened to us, so we died, rose and ascended in him (Sessions 6, 16–21)." },
+      { "id": "g", "label": "Spirit unveils Christ in us", "detail": "In ‘that day’ we come to know he is already in us. Love is received at the bottom of our pain and flows out to others (Sessions 22–26, 31)." }
+    ],
+    "edges": [
+      { "from": "a", "to": "b", "label": "dream" },
+      { "from": "b", "to": "c", "label": "create" },
+      { "from": "c", "to": "d", "label": "go dark" },
+      { "from": "d", "to": "e", "label": "entered" },
+      { "from": "e", "to": "f", "label": "through" },
+      { "from": "f", "to": "g", "label": "poured out" },
+      { "from": "g", "to": "a", "label": "caught up" }
+    ],
+    "note": "The overarching love story behind all 59 sessions. Tap a stage to see where it is taught."
+  },
+
+  "bigIdeas": [
+    { "title": "Union, not separation", "text": "Christ is in the Father, we are in Christ and Christ is in us. There is no ‘outside’ of God, only darkness and blindness that is lifting.", "ref": "John 14:20 · Colossians 1:17", "sessions": [1, 2, 6, 26] },
+    { "title": "Darkness is life without love", "text": "Evil has no power source of its own. It is Christ’s own life (zoe) twisted through fear, control and power. Light is life lived in love.", "ref": "John 1:3–5", "sessions": [4, 17, 43, 55] },
+    { "title": "The factory, not just the fruit", "text": "Sins are fruit of the flesh: aloneness, an accusing conscience, a split self and buried pain. Jesus came to heal the factory, not merely to forgive the fruit.", "ref": "Matthew 1:21 · Galatians 5", "sessions": [12, 13, 16, 31] },
+    { "title": "Deicide was suicide", "text": "The Father never demanded blood or turned his face away. We killed Jesus, and in union our violence became our healing, a non-violent ‘judo throw’.", "ref": "Psalm 22:24 · Acts 2:23", "sessions": [6, 16, 17, 20] },
+    { "title": "The conscience is not God", "text": "The fallen conscience is an internal accuser with a law, records, scales and a verdict. It is to be dethroned and redeemed to serve the Tree of Life.", "ref": "1 John 3:20 · Revelation 12:10", "sessions": [11, 38, 39, 40, 41, 42] },
+    { "title": "Faith receives a spoken relationship", "text": "Faith is not climbing or believing hard enough. It is receiving, on the inside, ‘You are my son, my daughter, and I love you’.", "ref": "Genesis 15:6 · 2 Corinthians 13:5", "sessions": [14, 24, 41] },
+    { "title": "Christ at the bottom of the black hole", "text": "Under our core pain of being alone, scared, hurt and ‘not a person’ are the Everlasting Arms. Jesus has gone deeper than our deepest pain.", "ref": "Deuteronomy 33:27 · John 17:26", "sessions": [10, 36, 51, 52, 53] },
+    { "title": "A love story, not a horror movie", "text": "The brain runs on love or fear. A gospel of threat keeps the amygdala in fear, while the gospel of union lets people process, heal and integrate.", "ref": "1 John 4:18", "sessions": [9, 54, 56] },
+    { "title": "Healing is recursive", "text": "Not ABCD steps, but a spiral that goes deeper each time. It moves inside-out and bottom-up as the Spirit takes what is Jesus’ and shares it with us.", "ref": "John 16:13–15", "sessions": [33, 36, 59] }
+  ],
+
+  "pathway": {
+    "type": "cycle",
+    "title": "How soul healing unfolds",
+    "centre": "Recursive, not linear",
+    "nodes": [
+      { "id": "a", "label": "Hear the gospel of union", "detail": "No separation running in the background. Christ is in you and you never put him there (Sessions 26, 59)." },
+      { "id": "b", "label": "Dethrone the accuser", "detail": "Answer the inner judge: no law, no records, no scales. Guilt drops, fear loosens and the amygdala can switch to love (Sessions 38–42)." },
+      { "id": "c", "label": "Drop defences, accept self", "detail": "As striving stops, the wall between ‘good’ and ‘bad’ parts falls and buried feelings return (Sessions 33–34)." },
+      { "id": "d", "label": "Notice the spin and coping", "detail": "Observe how you manage pain and where the problem-solving mind spins, without judgment (Sessions 35, 46, 48)." },
+      { "id": "e", "label": "Grieve and unlock injustice", "detail": "Grieve what cannot be fixed, close soul ties and hand justice to Jesus so forgiveness can flow (Sessions 49–50)." },
+      { "id": "f", "label": "Welcome parts home", "detail": "Split-off parts return as accusations and lies are removed. Everything of the Trinity leads to integration (Sessions 36, 56)." },
+      { "id": "g", "label": "Meet Christ in the black hole", "detail": "At the core pain, the Spirit shares the Father’s love for Jesus with the hurting child within (Sessions 51–53)." },
+      { "id": "h", "label": "Love flows out", "detail": "Life-giving relationships, healthy boundaries and communication without judgment (Sessions 32, 47, 57)." }
+    ],
+    "note": "Session 59 reviews healing as a spiral: each person’s order is unique, and you will pass through each stage more than once."
+  },
+
+  "cases": [
+    {
+      "initials": "DM", "title": "The pastor who could not stop", "who": "Daniel, 48, senior pastor, married with three teenagers",
+      "story": "Daniel preaches five times a week, answers messages until midnight and has not taken a real holiday in four years. He describes a constant inner voice that says, ‘You could have done more.’ His wife says he is ‘there but not there’. Last month he snapped at an elder in a meeting, then spent two nights awake replaying it, convinced God was disappointed in him. He has started drinking two or three glasses of wine every night to ‘switch off’.",
+      "lenses": [
+        { "lens": "The accusing conscience", "insight": "Daniel’s inner voice runs on a law (‘a good pastor never says no’), keeps records and weighs him on scales. Because he assumes this voice is God, he cannot rest (Sessions 38–40)." },
+        { "lens": "The stairway to heaven", "insight": "He is climbing toward an acceptance he already has. In Bruce’s words, the hamster is dead but the wheel is still turning (Session 38)." },
+        { "lens": "The spin and pain management", "insight": "The replaying at night is the problem-solving mind spinning on something it cannot fix. The wine is self-comfort in the body, which creates new losses that feed the guilt (Sessions 35, 46, 48)." },
+        { "lens": "Responsible to, not for", "insight": "He has taken responsibility for his congregation’s feelings and choices, so his locus of control sits outside himself (Sessions 32, 57)." }
+      ],
+      "plan": [
+        "Name the inner voice as his conscience, not God, and answer it: ‘You have no basis. I am a child of God and Christ is in me’ (Session 42).",
+        "Each evening, write down the day’s ‘records’ and pray over them with the New Covenant promise: ‘I will remember their sins no more’ (Sessions 41, 44).",
+        "Replace the wine ritual with a ten-minute John 16:14 prayer: ask the Spirit to share Jesus’ rest with him in the tired place (Session 48).",
+        "Agree a sustainable workload with his elders, practising being responsible to the church but not for it (Session 32).",
+        "Meet monthly with a counsellor or supervisor to look at the drinking and the deeper ‘I will be’ drive (Sessions 52–53)."
+      ],
+      "sessions": [32, 38, 40, 42, 46, 48, 52],
+      "journey": {
+        "type": "flow", "title": "Daniel’s journey",
+        "nodes": [
+          { "id": "a", "label": "Inner judge says ‘more’", "detail": "Law, records and scales drive his schedule." },
+          { "id": "b", "label": "Spin and wine", "detail": "Unsolvable replaying, then numbing comforts." },
+          { "id": "c", "label": "Name and dethrone", "detail": "The conscience is not God; answer it with the gospel." },
+          { "id": "d", "label": "Receive, then give", "detail": "‘Let me love you’ comes before ministry." },
+          { "id": "e", "label": "Boundaries and rest", "detail": "Responsible to, not for. Sabbath without guilt." }
+        ],
+        "edges": [ { "from": "a", "to": "b" }, { "from": "b", "to": "c" }, { "from": "c", "to": "d" }, { "from": "d", "to": "e" } ]
+      },
+      "caution": "Nightly drinking to cope deserves attention from a doctor or addiction counsellor as well as spiritual care."
+    },
+    {
+      "initials": "RW", "title": "Grief with nowhere to go", "who": "Ruth, 67, widowed eight months ago",
+      "story": "Ruth’s husband of 41 years died suddenly. She still sets two cups out in the morning, and she can’t stop going over the hospital decisions: if only they had gone to emergency sooner. Friends at church told her he is ‘in a better place’ and she should be thankful, which leaves her feeling guilty for how angry she is. She sleeps badly, has lost interest in her garden and says, ‘It feels like my life is pouring out of a hole.’",
+      "lenses": [
+        { "lens": "Life pouring into the dust", "insight": "Her soul keeps reaching for the flow of life she shared with her husband. With no reciprocation, life pours out, which is exactly the image she uses (Session 49)." },
+        { "lens": "The spin", "insight": "‘If only’ is the problem-solving mind spinning on a problem that cannot be solved, only grieved (Sessions 35, 46)." },
+        { "lens": "Powerless rage", "insight": "Her anger is the rage of being trapped by a loss she could not prevent. Being told to be thankful adds guilt, which ‘turbocharges’ the spin (Session 48)." },
+        { "lens": "Moralised comfort", "insight": "A good/bad frame (‘you shouldn’t feel this’) suppresses emotion and blocks the flow of life. Her feelings need welcome, not correction (Sessions 33, 47)." }
+      ],
+      "plan": [
+        "Give the anger and ‘if onlys’ permission. Write them out without judging them (Session 47).",
+        "Make a montage: gather photos and memories of her husband and say everything that still needs to be said (Session 49).",
+        "Ask the Holy Spirit to close off her side of the soul tie. This does not cut him off; he is alive in the risen Christ (Session 49).",
+        "When the spin starts, stop trying to solve it and pray: ‘Spirit, take Jesus’ comfort with his Father and share it with me here’ (Session 48).",
+        "Return to one small life-giving routine, such as ten minutes in the garden, and invite one friend who can sit with sadness without fixing it."
+      ],
+      "sessions": [35, 46, 47, 48, 49],
+      "journey": {
+        "type": "flow", "title": "Ruth’s journey",
+        "nodes": [
+          { "id": "a", "label": "Loss and ‘if only’", "detail": "The mind spins on an unsolvable problem." },
+          { "id": "b", "label": "Rage plus guilt", "detail": "Powerless anger, turbocharged by ‘be thankful’." },
+          { "id": "c", "label": "Permission to grieve", "detail": "Grief is grieved, not fixed." },
+          { "id": "d", "label": "Montage and closure", "detail": "Say it all, then close her side of the soul tie." },
+          { "id": "e", "label": "Life returns", "detail": "Comfort received from within, and small routines restored." }
+        ],
+        "edges": [ { "from": "a", "to": "b" }, { "from": "b", "to": "c" }, { "from": "c", "to": "d" }, { "from": "d", "to": "e" } ]
+      },
+      "caution": "If grief comes with persistent hopelessness or thoughts of not wanting to live, contact a GP or grief counsellor promptly."
+    },
+    {
+      "initials": "SK", "title": "When forgiveness will not come", "who": "Sam, 39, discovered a spouse’s long-term affair",
+      "story": "Sam has been told repeatedly that a Christian must forgive, and has ‘forgiven’ out loud many times. But every time the spouse mentions the other person, Sam feels hot rage, then shame for still not forgiving. Sam lies awake rehearsing speeches. The couple are in counselling, but Sam feels stuck: ‘How can I let it go when nothing was ever made right?’",
+      "lenses": [
+        { "lens": "The injustice lock", "insight": "Made in the image of a just God, Sam rightly senses the wrong. Justice and mercy feel like they clash, so the soul locks and stays bound to the offender (Session 50)." },
+        { "lens": "Forgiveness as a moral demand", "insight": "Treating forgiveness as law (‘you must’) only adds the accuser’s condemnation. The gospel is relationship, not morality (Sessions 31, 41)." },
+        { "lens": "Asking for what Jesus has", "insight": "In Session 31 Bruce speaks with someone in this exact pain: when we cannot forgive, we ask the Spirit to share Jesus’ own forgiveness with us (John 16:13–15)." },
+        { "lens": "Judgment versus feelings", "insight": "Rehearsed speeches are judgments. Naming observations, feelings and needs opens the way to honest repair in the marriage (Sessions 42, 47)." }
+      ],
+      "plan": [
+        "List the abuse and neglect done to Sam, and honestly Sam’s own part, under the finished work of Christ (Session 50).",
+        "Voice the hurt aloud from a position of power: ‘What you did was wrong, and it cost me this.’",
+        "Hand the spouse and the other person to Jesus, to whom all judgment is given (John 5:22), and ask the Spirit to share Jesus’ forgiveness.",
+        "Notice any part of Sam that is not yet willing, and welcome it rather than forcing it (Sessions 50, 56).",
+        "In counselling, practise non-violent communication: observation, feeling, need and request (Session 47)."
+      ],
+      "sessions": [31, 32, 41, 47, 50],
+      "journey": {
+        "type": "flow", "title": "Sam’s journey",
+        "nodes": [
+          { "id": "a", "label": "Betrayal", "detail": "A real injustice." },
+          { "id": "b", "label": "Lock: justice vs mercy", "detail": "Cannot let go, so stays bound to the offender." },
+          { "id": "c", "label": "Name it from power", "detail": "List the abuse, own your part, voice the hurt." },
+          { "id": "d", "label": "Hand judgment to Jesus", "detail": "Justice is placed in safe hands." },
+          { "id": "e", "label": "Forgiveness flows", "detail": "Received from Jesus, not manufactured." }
+        ],
+        "edges": [ { "from": "a", "to": "b" }, { "from": "b", "to": "c" }, { "from": "c", "to": "d" }, { "from": "d", "to": "e" } ]
+      },
+      "caution": "Forgiveness is not the same as reconciliation or staying in an unsafe situation. Where there is ongoing abuse, safety comes first."
+    },
+    {
+      "initials": "AJ", "title": "The anxious high achiever", "who": "Amara, 29, lawyer, top of every class she has been in",
+      "story": "Amara is admired at work and in her church’s young adults group. Inside, any hint of criticism sends her into panic, and she will rewrite an email twelve times. She keeps relationships at arm’s length: ‘If people really knew me, they’d leave.’ Growing up, her parents were loving but often absent, working long hours, and she learned early that good grades brought their attention.",
+      "lenses": [
+        { "lens": "The black hole", "insight": "Beneath her success sits early attachment pain: alone, scared and ‘not a person’. Magical thinking turned it into ‘they didn’t stay, so I must be bad’ (Sessions 51–53)." },
+        { "lens": "‘I am not’ and ‘I will be’", "insight": "Her achievements are a false ‘I will be’ (valued, safe, not separated) that no success can satisfy, because what is missing is relationship (Session 52)." },
+        { "lens": "Defences around the pain", "insight": "Terror of the pain leads to control. Anyone who gets close meets frustration, which is why she keeps people at a distance (Session 53)." },
+        { "lens": "Christ at the bottom", "insight": "Jesus has gone to the bottom of her black hole. Under it are the Everlasting Arms, which she discovers rather than creates (Sessions 36, 51)." }
+      ],
+      "plan": [
+        "Map her ‘I will be’ strategies, such as perfect work, never needing anyone and staying in control, without judging them (Session 52).",
+        "Use the Circle of Security idea for herself: ask Jesus in her to be both a secure base and a safe haven (Session 51).",
+        "When panic rises, picture the hurting younger part and pray that the Spirit takes the Father’s love into that child (Session 53).",
+        "Practise sending one ‘good enough’ email a day and notice what happens in her body.",
+        "Let one trusted friend see a vulnerable part of her story. Healing happens in relationship (Session 33)."
+      ],
+      "sessions": [10, 36, 51, 52, 53],
+      "journey": {
+        "type": "layers", "title": "Amara’s black hole",
+        "nodes": [
+          { "id": "a", "label": "Performance: ‘I will be’", "detail": "Achievement, control and perfectionism on the surface." },
+          { "id": "b", "label": "Frustration when close", "detail": "Keeping people at arm’s length." },
+          { "id": "c", "label": "Need for control", "detail": "Rewrites, checks, never relies on anyone." },
+          { "id": "d", "label": "Terror of the pain", "detail": "Panic at any hint of rejection." },
+          { "id": "e", "label": "Core pain: alone, ‘not a person’", "detail": "Early attachment wound and ‘I am bad’." },
+          { "id": "f", "label": "Everlasting Arms", "detail": "Christ already at the bottom, holding her." }
+        ]
+      }
+    },
+    {
+      "initials": "MT", "title": "Triggered in the body", "who": "Marcus, 34, survivor of a violent assault three years ago",
+      "story": "Marcus jumps at sudden noises, sits with his back to the wall in every room and has unexplained shoulder pain that doctors can’t resolve. At church he was told that if he had enough faith the fear would go, so he now feels like a spiritual failure too. Sometimes he ‘goes blank’ in conversations and loses minutes.",
+      "lenses": [
+        { "lens": "The amygdala’s love/fear switch", "insight": "His brain is stuck in the fear world: hypervigilance, freeze and flight. A ‘more faith’ message adds threat and keeps the switch on fear (Session 54)." },
+        { "lens": "Unprocessed memory", "insight": "Fear past a threshold stopped the memory being filed, so it replays when triggered, including as body memory such as chronic pain (Session 55)." },
+        { "lens": "Personal space", "insight": "Violation pushed his personal field far out, leaving him guarding an impossibly wide boundary (Session 57)." },
+        { "lens": "Parts and the body", "insight": "‘Going blank’ suggests dissociation. A part holding the trauma carries emotion, a frozen age and meaning. The body is central to healing (Sessions 34, 56)." }
+      ],
+      "plan": [
+        "Start with the foundation, not the darkness: rest in union and the New Covenant before revisiting the memory (Session 56).",
+        "Work with a trauma-informed therapist using body-based approaches, at his own pace.",
+        "Practise drawing his personal space back into his body while breathing slowly, and notice the peace (Session 57).",
+        "Swap the ‘more faith’ message for ‘stand’: like Jesus on the cross, staying present and unafraid, held from within (Session 55).",
+        "Treat each return of symptoms as part of the spiral, not as failure (Sessions 35, 59)."
+      ],
+      "sessions": [34, 54, 55, 56, 57],
+      "journey": {
+        "type": "contrast", "title": "Fear world and love world", "leftTitle": "Fear", "rightTitle": "Love",
+        "nodes": [
+          { "id": "a", "label": "Hypervigilance", "detail": "Scanning every room for danger.", "side": "left" },
+          { "id": "b", "label": "Freeze and blanking", "detail": "Dissociation when overwhelmed.", "side": "left" },
+          { "id": "c", "label": "Body memory: pain", "detail": "Unprocessed trauma held in the body.", "side": "left" },
+          { "id": "d", "label": "Trust and warmth", "detail": "Safety is felt in relationship.", "side": "right" },
+          { "id": "e", "label": "Processing and filing", "detail": "Memory can be laid down as past.", "side": "right" },
+          { "id": "f", "label": "Embodied peace", "detail": "Field drawn in, able to stand.", "side": "right" }
+        ],
+        "edges": [ { "from": "a", "to": "d" }, { "from": "b", "to": "e" }, { "from": "c", "to": "f" } ]
+      },
+      "caution": "Trauma recovery should be paced with a qualified, trauma-informed professional. Do not push to recover memories."
+    },
+    {
+      "initials": "LH", "title": "Raised on a horror-movie gospel", "who": "Leah, 22, university student",
+      "story": "Leah grew up hearing that God is holy and can’t look on sin, that sin separates us from him, and that only the right prayer keeps you out of hell. She has prayed ‘the sinner’s prayer’ more than a hundred times ‘just in case’. She confesses every small failing several times a day and still feels dirty. Now she wonders if it would be easier to stop believing altogether.",
+      "lenses": [
+        { "lens": "The dodgy gospel", "insight": "Her gospel is a ‘cut-down Neoplatonism’ of separation, climbing and payment, love framed in threat (Sessions 1, 27, 37)." },
+        { "lens": "Propitiation reframed", "insight": "Jesus is the mercy seat, the meeting place of God and humanity, not a payment to an angry Father. The verses she was given are misread (Sessions 20, 28)." },
+        { "lens": "Confession and the records", "insight": "Confession does not obtain forgiveness, which the Lamb has already given. Her repeated confessions feed ‘sin consciousness’ (Sessions 44, 45)." },
+        { "lens": "Wrath and judgment", "insight": "Wrath is God’s opposition to whatever stops us receiving love. Judgment centres on Jesus asking, ‘Will you let me love you?’ (Session 29)." }
+      ],
+      "plan": [
+        "Read John 14:20 and Colossians 1:17 daily for a month and ask: ‘If this is true, where am I right now?’ (Sessions 2, 26).",
+        "Work through the Volume 2 questions (Session 30) with a friend, noticing where Greek assumptions crept in.",
+        "Swap confession for checking for ‘hidden parts’: ‘Is there anything in me I am hiding from myself?’ (Session 45).",
+        "Take communion as a celebration of Christ in her, not as grovelling (Sessions 21, 41).",
+        "If religious anxiety looks like compulsive checking, talk with a counsellor familiar with scrupulosity."
+      ],
+      "sessions": [1, 20, 27, 28, 29, 30, 44, 45],
+      "journey": {
+        "type": "contrast", "title": "Two gospels", "leftTitle": "Separation", "rightTitle": "Union",
+        "nodes": [
+          { "id": "a", "label": "God can’t look on sin", "detail": "A misreading of Habakkuk 1:13.", "side": "left" },
+          { "id": "b", "label": "Blood pays the Father", "detail": "The Molech picture.", "side": "left" },
+          { "id": "c", "label": "Confess to stay forgiven", "detail": "Records and a ledger.", "side": "left" },
+          { "id": "d", "label": "Father never turned away", "detail": "Psalm 22:24.", "side": "right" },
+          { "id": "e", "label": "Jesus the mercy seat", "detail": "The meeting place of God and humanity.", "side": "right" },
+          { "id": "f", "label": "Forgiven before time", "detail": "Confession is for healing.", "side": "right" }
+        ],
+        "edges": [ { "from": "a", "to": "d" }, { "from": "b", "to": "e" }, { "from": "c", "to": "f" } ]
+      }
+    }
+  ],
+
+  "situations": [
+    {
+      "id": "anxiety", "name": "Anxiety and fear", "hint": "On edge, dread, panic",
+      "understanding": "The amygdala works almost like a switch between two neurohormonal worlds: love and fear. Fear has layers: hypervigilance, freeze, fight, flight or faint, and submission. A gospel framed in threat keeps that switch on fear. The way through is not trying harder, but receiving love at the place of fear. Guilt locks fear in, so removing the inner judge loosens it.",
+      "flow": { "type": "flow", "title": "The fear lock and its key", "nodes": [
+        { "id": "a", "label": "Inner judge", "detail": "The conscience accuses." },
+        { "id": "b", "label": "Guilt", "detail": "Locks the fear in place." },
+        { "id": "c", "label": "Fear and freeze", "detail": "The amygdala switches to the fear world." },
+        { "id": "d", "label": "No condemnation", "detail": "Christ’s forgiveness shuts down the judge." },
+        { "id": "e", "label": "Switch to love", "detail": "Trust, warmth and processing become possible." } ],
+        "edges": [ { "from": "a", "to": "b", "label": "locks" }, { "from": "b", "to": "c", "label": "locks" }, { "from": "c", "to": "d", "label": "met by" }, { "from": "d", "to": "e", "label": "frees" } ] },
+      "steps": [ "Notice which fear layer you are in: watchful, frozen, fighting, fleeing or giving in.", "Check for a hidden accusation underneath: ‘What am I afraid I deserve?’", "Answer it with Romans 8:1: there is no condemnation in Christ.", "Breathe slowly and ask the Spirit to share Jesus’ peace with his Father in your body (John 14:27).", "Move toward one safe relationship. Love is felt in connection." ],
+      "practices": [ { "name": "Love/fear check-in", "how": "Three times a day, ask: ‘Am I in the love world or the fear world right now?’ Just notice, without judging." }, { "name": "Everlasting Arms breath", "how": "Breathe in on ‘Underneath me…’ and out on ‘…are the Everlasting Arms’ (Deuteronomy 33:27). Repeat for two minutes." } ],
+      "sessions": [11, 32, 54, 55], "scripture": [ "1 John 4:18", "Deuteronomy 33:27", "Romans 8:1", "John 14:27" ]
+    },
+    {
+      "id": "shame", "name": "Guilt and the inner critic", "hint": "Never good enough",
+      "understanding": "The fallen conscience is an accuser that entered through the serpent. It uses a law, keeps records, weighs you on scales and delivers a verdict. While you believe it is God’s voice, you are in serious trouble. Scripture dethrones it: God is greater than a condemning heart. Then it is redeemed to ask one question: ‘Is life flowing in love?’",
+      "flow": { "type": "flow", "title": "The conscience’s court, dismantled", "nodes": [
+        { "id": "a", "label": "Law", "detail": "Christ is the end of the law (Romans 10:4)." },
+        { "id": "b", "label": "Records", "detail": "‘I will remember them no more’ (Hebrews 8:12)." },
+        { "id": "c", "label": "Scales", "detail": "No condemnation in Christ (Romans 8:1)." },
+        { "id": "d", "label": "Verdict", "detail": "The accuser is overcome by the Lamb (Revelation 12:10–11)." },
+        { "id": "e", "label": "Redeemed conscience", "detail": "It now serves the Tree of Life: is this love?" } ] },
+      "steps": [ "Write down exactly what the inner critic says.", "Identify the law it is using, the record it is quoting and the scale it is weighing on.", "Answer it aloud: ‘You have no basis. I am a child of God and Christ is in me.’", "Ask the redeemed question instead: ‘Is life flowing in love here?’", "If real harm was done, own it and repair it from love, not to win acceptance." ],
+      "practices": [ { "name": "Courtroom journal", "how": "Divide a page into Law, Records, Scales and Verdict, and write the gospel reply beside each one." }, { "name": "Who told you?", "how": "When you feel ‘naked’ or exposed, ask, as in Genesis 3:11, ‘Who told you that?’ and trace the assumption." } ],
+      "sessions": [11, 12, 38, 39, 40, 41, 42], "scripture": [ "1 John 3:20", "Revelation 12:10-11", "Hebrews 10:22", "Romans 8:1" ]
+    },
+    {
+      "id": "grief", "name": "Grief and loss", "hint": "Death, divorce, endings",
+      "understanding": "Life (zoe) flows between people in relationship. When a loved one dies or a relationship ends, the soul keeps reaching, and life pours ‘into the dust’. Grief cannot be fixed, only grieved. The bleeding can be stopped by saying everything that needs to be said and asking the Spirit to close your side of the soul tie.",
+      "flow": { "type": "flow", "title": "From bleeding to grieving", "nodes": [
+        { "id": "a", "label": "Loss", "detail": "The flow of life is interrupted." },
+        { "id": "b", "label": "Soul keeps reaching", "detail": "Life pours out with no return." },
+        { "id": "c", "label": "Montage", "detail": "Reconstruct the person and say it all." },
+        { "id": "d", "label": "Close the soul tie", "detail": "Ask the Spirit to close your side." },
+        { "id": "e", "label": "Call life back", "detail": "Life returns to you, washed in Christ." } ] },
+      "steps": [ "Stop trying to solve the loss. Some things can only be grieved.", "Gather a montage of photos, objects and memories.", "Say everything that needs saying: thanks, regret, anger, love.", "Ask the Holy Spirit to close off your side of the soul tie (not to cut off the person).", "Ask Jesus to call your life back to you, washed in him." ],
+      "practices": [ { "name": "Unsent letter", "how": "Write to the person you have lost, then read it aloud in a quiet place with Jesus present." }, { "name": "Grief window", "how": "Set aside 20 minutes a day to feel the loss on purpose, so it doesn’t have to leak out all day." } ],
+      "sessions": [35, 46, 49], "scripture": [ "Isaiah 53:3-4", "John 11:35", "John 20:19" ]
+    },
+    {
+      "id": "injustice", "name": "Can’t forgive", "hint": "Resentment, injustice",
+      "understanding": "Because we are made in the image of a just God, we rightly sense injustice, and the clash between justice and mercy locks the soul to the offender. For some people, simply asking the Spirit to share Jesus’ forgiveness is enough. For others, justice must first be seen to be done: name the wrong, own your part and hand the person to Jesus, to whom all judgment is given.",
+      "flow": { "type": "flow", "title": "Unlocking injustice", "nodes": [
+        { "id": "a", "label": "List the harm", "detail": "Abuse (what was done) and neglect (what wasn’t)." },
+        { "id": "b", "label": "Own your part", "detail": "Under the finished work of Christ." },
+        { "id": "c", "label": "Voice it from power", "detail": "‘That was wrong, and it cost me this.’" },
+        { "id": "d", "label": "Hand to Jesus", "detail": "All judgment is given to the Son (John 5:22)." },
+        { "id": "e", "label": "Release", "detail": "Ask for Jesus’ forgiveness to flow through you." } ] },
+      "steps": [ "Admit that what happened was unjust. Don’t minimise it.", "Write the list of abuse and neglect.", "Confess your own part, held in Christ’s finished work.", "Speak the hurt aloud from a position of power, not victimhood.", "Hand the person to Jesus for judgment and ask the Spirit to share his forgiveness. Notice any parts that are not yet willing." ],
+      "practices": [ { "name": "Two-column release", "how": "In two columns, list ‘What they did’ and ‘What I did’, then pray the whole page into Jesus’ hands." }, { "name": "Borrowed forgiveness", "how": "Pray: ‘Spirit, take Jesus’ forgiveness for this person and share it with me. I can’t make it myself.’" } ],
+      "sessions": [31, 50], "scripture": [ "John 5:22", "John 16:13-15", "Romans 12:19" ],
+      "caution": "Forgiving does not mean returning to an unsafe person or situation."
+    },
+    {
+      "id": "spin", "name": "Overthinking", "hint": "Spinning, can’t switch off",
+      "understanding": "The problem-solving mind tries doors until one opens. When every door is shut and the problem feels vital to who we are, it spins faster like a tornado, wearing out our brain chemistry and producing fatigue, angst and sometimes depression. Powerless rage fuels the spin and guilt turbocharges it. Trying harder cannot stop it. Something good has to flow in.",
+      "flow": { "type": "cycle", "title": "The spin and escape cycle", "centre": "The spin", "nodes": [
+        { "id": "a", "label": "Unsolvable problem", "detail": "A loss, injustice or conflict." },
+        { "id": "b", "label": "Mind spins", "detail": "Same doors, faster and faster." },
+        { "id": "c", "label": "Powerless rage", "detail": "The anger of being trapped." },
+        { "id": "d", "label": "Escape comforts", "detail": "Food, screens, shopping, substances." },
+        { "id": "e", "label": "New losses and guilt", "detail": "These feed the spin again." } ] },
+      "steps": [ "Name it: ‘I am spinning.’", "Ask: ‘Can this be solved, or does it need to be grieved?’", "Acknowledge any powerless rage underneath.", "Put down the guilt. It only turbocharges the loop.", "Pray John 16:14: ask the Spirit to take what is Jesus’ and share it with you right where it hurts." ],
+      "practices": [ { "name": "Solve or grieve?", "how": "Write the problem, then two columns: ‘What I can actually do’ and ‘What I must grieve’." }, { "name": "Interrupt with presence", "how": "When you notice the spin, put a hand on your chest and say: ‘Jesus is here, and I didn’t put him here.’" } ],
+      "sessions": [35, 46, 48], "scripture": [ "John 16:12-15", "Zechariah 4:6", "Matthew 11:28-30" ]
+    },
+    {
+      "id": "comfort", "name": "Addictive comforts", "hint": "Numbing, escaping, habits",
+      "understanding": "We manage pain in four ways: numbing or suppressing it, self-comfort in the body, self-comfort in the mind, and dissociation. Many strategies create new losses that trigger the accuser, which drives us back to the comfort. Preaching law makes it worse (Romans 7). Jesus is enfleshed and present even in our acting out, and observing without judgment is where change begins.",
+      "flow": { "type": "contrast", "title": "Four ways we manage pain", "leftTitle": "Comfort", "rightTitle": "Removal", "nodes": [
+        { "id": "a", "label": "Body comfort", "detail": "Food, sex, substances, shopping.", "side": "left" },
+        { "id": "b", "label": "Mind comfort", "detail": "Fantasy, daydreams, screens.", "side": "left" },
+        { "id": "c", "label": "Numb and suppress", "detail": "Busyness, shutting feelings down.", "side": "right" },
+        { "id": "d", "label": "Dissociate", "detail": "Leaving the body or the moment.", "side": "right" } ] },
+      "steps": [ "Observe your pattern for a week without judging it.", "Ask what pain each comfort is managing.", "Remember that Jesus is present in your body, even in the acting out.", "Ask the Spirit to bring comfort to the pain directly.", "Get support. Healing happens in relationship and community." ],
+      "practices": [ { "name": "Pattern log", "how": "Each time you reach for a comfort, write down the time, the feeling just before it and the need underneath." }, { "name": "Pause and invite", "how": "Before acting, pause for 60 seconds and pray: ‘Jesus, you are here in this craving. Show me what hurts.’" } ],
+      "sessions": [34, 35, 46, 48], "scripture": [ "Romans 7:15-25", "Romans 8:3-4", "John 1:14" ],
+      "caution": "Substance dependence can be medically dangerous to stop suddenly. Involve a doctor."
+    },
+    {
+      "id": "burnout", "name": "Burnout and striving", "hint": "Exhausted from trying",
+      "understanding": "The Western gospel leaves many people on a ‘stairway to heaven’, climbing back toward a God they think they are separated from. Bruce puts it this way: the hamster is dead but the wheel’s still turning. The new command starts with ‘let me love you’. Abiding means remaining: staying with Christ in your flesh and weariness rather than climbing.",
+      "flow": { "type": "contrast", "title": "Climbing and abiding", "leftTitle": "Climbing", "rightTitle": "Abiding", "nodes": [
+        { "id": "a", "label": "Earn acceptance", "detail": "Performance as a ladder.", "side": "left" },
+        { "id": "b", "label": "Love God, love others", "detail": "As a law to keep.", "side": "left" },
+        { "id": "c", "label": "Escape the body", "detail": "A Neoplatonic upward pull.", "side": "left" },
+        { "id": "d", "label": "Already included", "detail": "Union is an indicative fact.", "side": "right" },
+        { "id": "e", "label": "‘Let me love you’", "detail": "Receive first, then love flows out.", "side": "right" },
+        { "id": "f", "label": "Remain in the flesh", "detail": "Christ is with you in your weariness.", "side": "right" } ],
+        "edges": [ { "from": "a", "to": "d" }, { "from": "b", "to": "e" }, { "from": "c", "to": "f" } ] },
+      "steps": [ "Name the stairway: what are you trying to earn?", "Hear the indicative: you are already in Christ, and he is in you.", "Practise ‘let me love you’ before serving.", "Set boundaries: be responsible to people, not for them.", "Expect pushback from the system you are in. That is normal family-systems dynamics." ],
+      "practices": [ { "name": "Receive first", "how": "Before any task, take one minute to simply receive: ‘Father, I’m letting you love me right now.’" }, { "name": "To, not for", "how": "List the people you feel responsible for. Rewrite each line as ‘responsible to’." } ],
+      "sessions": [25, 26, 32, 34, 38], "scripture": [ "John 15:4-9", "Matthew 11:28-30", "Ephesians 2:4-6" ]
+    },
+    {
+      "id": "lonely", "name": "Loneliness and emptiness", "hint": "Aching, bottomless pain",
+      "understanding": "The first ‘not good’ in Scripture is aloneness: Adam alone in the middle of plenty. That attachment pain runs through human history and through incomplete parenting. It becomes a ‘black hole’ with a big ‘I am not’, which we try to fill with a false ‘I will be’. Jesus has gone to the bottom of it, and underneath are the Everlasting Arms.",
+      "flow": { "type": "layers", "title": "The black hole", "nodes": [
+        { "id": "a", "label": "‘I will be’ false self", "detail": "Achievement, image, empire-building." },
+        { "id": "b", "label": "Anger when close", "detail": "Frustration when people approach." },
+        { "id": "c", "label": "Control", "detail": "Keeping the pain away." },
+        { "id": "d", "label": "Terror of the pain", "detail": "Fear of falling in." },
+        { "id": "e", "label": "Alone, scared, hurt", "detail": "Core attachment pain: ‘I am not’." },
+        { "id": "f", "label": "Christ and the Everlasting Arms", "detail": "Found, not created." } ] },
+      "steps": [ "Notice your ‘I will be’ strategies with curiosity.", "Identify the core sensitivity: alone, unsafe, or ‘not a person’.", "Picture the younger you who first felt it.", "Ask the Spirit to take the Father’s love for Jesus into that child (John 17:26).", "Let a safe person know a little of this. Attachment heals in relationship." ],
+      "practices": [ { "name": "Hold the child", "how": "Imagine holding your younger self while Jesus holds you both. Stay with it for three minutes." }, { "name": "Secure base, safe haven", "how": "Each morning, ask Jesus within to be your secure base for the day and your safe haven when it hurts." } ],
+      "sessions": [10, 36, 51, 52, 53], "scripture": [ "Genesis 2:18", "Deuteronomy 33:27", "Hebrews 13:5", "John 17:26" ]
+    },
+    {
+      "id": "conflict", "name": "Relationship conflict", "hint": "Arguments, right vs wrong",
+      "understanding": "Every encounter carries our internal judge, our pain and our unmet needs. Good/bad judging, even praise, turns relating into a courtroom and brings death into the interaction. Feelings belong to me and come from my values, needs, experiences and parts, while others are only the stimulus. Vulnerably speaking observations, feelings and needs, as in Nonviolent Communication, lets life flow.",
+      "flow": { "type": "contrast", "title": "Judgment and connection", "leftTitle": "Judgment", "rightTitle": "Connection", "nodes": [
+        { "id": "a", "label": "‘You always…’", "detail": "Evaluation dressed as fact.", "side": "left" },
+        { "id": "b", "label": "‘You made me angry’", "detail": "Treating the other as the source.", "side": "left" },
+        { "id": "c", "label": "Win the argument", "detail": "Right versus wrong.", "side": "left" },
+        { "id": "d", "label": "‘When I saw…’", "detail": "A plain observation.", "side": "right" },
+        { "id": "e", "label": "‘I felt… because I need…’", "detail": "Owning feelings and needs.", "side": "right" },
+        { "id": "f", "label": "‘Would you be willing…?’", "detail": "A clear request.", "side": "right" } ],
+        "edges": [ { "from": "a", "to": "d" }, { "from": "b", "to": "e" }, { "from": "c", "to": "f" } ] },
+      "steps": [ "Before speaking, separate what happened from your judgment of it.", "Name your feeling and the need or value behind it.", "Remember you are responsible to the other person, not for their feelings.", "Make a request, not a demand.", "Listen for their feelings and needs behind their judgments." ],
+      "practices": [ { "name": "OFNR card", "how": "Keep a card with Observation, Feeling, Need and Request, and use it for one hard conversation this week." }, { "name": "Judgment fast", "how": "For one day, notice every good/bad label you put on people, including praise, and swap it for a feeling or a thank-you." } ],
+      "sessions": [32, 42, 47, 57], "scripture": [ "John 13:34", "Romans 13:8", "Ephesians 4:15" ]
+    },
+    {
+      "id": "trauma", "name": "Trauma and triggers", "hint": "Flashbacks, body memories",
+      "understanding": "When fear passes a threshold, the amygdala stops a memory being processed and filed. It stays raw and replays when triggered, including as body memory. Severe trauma can split off parts with their own emotions, frozen age and beliefs, and violation can push our personal space far out. Healing starts from the foundation of union, embraces the body and draws boundaries back in. Christ at the core cannot be reached by any trauma.",
+      "flow": { "type": "flow", "title": "From trigger to integration", "nodes": [
+        { "id": "a", "label": "Trigger", "detail": "A sound, smell or tone." },
+        { "id": "b", "label": "Raw memory replays", "detail": "Unprocessed, including in the body." },
+        { "id": "c", "label": "Ground in union", "detail": "Christ is at the core, untouched." },
+        { "id": "d", "label": "Process in the body", "detail": "With safe support, at your pace." },
+        { "id": "e", "label": "Parts come home", "detail": "Integration, not fragmentation." } ] },
+      "steps": [ "Begin with safety and the foundation of union, not with the darkness.", "Find a trauma-informed therapist.", "Learn your triggers and your fear layers.", "Practise drawing your personal space back into your body.", "Let body sensations be felt gently. Body memory is part of healing." ],
+      "practices": [ { "name": "Draw the field in", "how": "Sit, breathe slowly and imagine your personal space gently drawing back to about an arm’s length around you." }, { "name": "Stand, not flee", "how": "When triggered, plant your feet, feel the ground and pray: ‘Jesus, you stood unafraid. Stand in me.’" } ],
+      "sessions": [54, 55, 56, 57, 58], "scripture": [ "Ephesians 6:13-14", "Psalm 23:4", "Jeremiah 31:33" ],
+      "caution": "Please work with a qualified trauma professional. Pace matters, and you should never force memories."
+    },
+    {
+      "id": "religious", "name": "Religious fear", "hint": "Hell, wrath, spiritual abuse",
+      "understanding": "Much Western teaching is ‘Christian fish in Greek soup’: a distant God, separation, a ladder of climbing and payment to an angry deity. The New Covenant removes vertical spiritual authority, because no one has to teach their neighbour ‘know the Lord’. Wrath is opposition to whatever stops you receiving love, and judgment centres on Jesus asking, ‘Will you let me love you?’",
+      "flow": { "type": "contrast", "title": "Greek soup and the gospel", "leftTitle": "Greek soup", "rightTitle": "Gospel", "nodes": [
+        { "id": "a", "label": "Distant, unmoved God", "detail": "Plotinus’ perfect sphere.", "side": "left" },
+        { "id": "b", "label": "Hell as separation", "detail": "Dualism.", "side": "left" },
+        { "id": "c", "label": "Spiritual hierarchy", "detail": "Vertical authority and control.", "side": "left" },
+        { "id": "d", "label": "Relational Trinity", "detail": "Love that stoops and enters.", "side": "right" },
+        { "id": "e", "label": "All held in Christ", "detail": "No outside of God.", "side": "right" },
+        { "id": "f", "label": "Every rank: child", "detail": "The New Covenant’s second clause.", "side": "right" } ],
+        "edges": [ { "from": "a", "to": "d" }, { "from": "b", "to": "e" }, { "from": "c", "to": "f" } ] },
+      "steps": [ "List the beliefs that frighten you and ask where each came from.", "Test each against Jesus, our only epistemological centre.", "Work through the Volume 2 questions (Session 30).", "Step away from accusatory systems where you can.", "Find a safe community where questions are welcome." ],
+      "practices": [ { "name": "Jesus lens", "how": "For each frightening verse, ask: ‘Does this look like the Father Jesus revealed?’ (John 14:9)." }, { "name": "Furniture check", "how": "Name one image of God you inherited, such as a judge, accountant or distant king, and replace it with a Gospel scene of Jesus." } ],
+      "sessions": [8, 20, 27, 28, 29, 30, 37], "scripture": [ "John 14:9", "Jeremiah 31:34", "Hebrews 1:3", "1 John 4:18" ],
+      "caution": "If you have experienced spiritual abuse, a counsellor experienced in religious trauma can help."
+    },
+    {
+      "id": "far", "name": "God feels far away", "hint": "Dry, absent, outside",
+      "understanding": "Salvation is an unveiling, not an arrival. God revealed his Son ‘in’ Paul, and the scales fell from his eyes. Christ is already in you, and you never put him there. Faith is receiving that spoken relationship on the inside, and the ‘test of faith’ is knowing Jesus Christ is in you. Abiding means staying, not climbing.",
+      "flow": { "type": "flow", "title": "Unveiling, not arrival", "nodes": [
+        { "id": "a", "label": "Feels outside", "detail": "Darkness experiences God as external." },
+        { "id": "b", "label": "Already within", "detail": "Christ is in you; you never put him there." },
+        { "id": "c", "label": "Ask for unveiling", "detail": "‘Spirit, open my eyes to Christ in me.’" },
+        { "id": "d", "label": "Release agreements", "detail": "With darkness and with lies." },
+        { "id": "e", "label": "Abide", "detail": "Stay present with him, even in the parts you dislike." } ] },
+      "steps": [ "Stop climbing. You are not trying to get God to come.", "Pray the unveiling prayer daily (2 Corinthians 4:6).", "Ask the Spirit to expose any agreements with darkness, and release them.", "Sit with Jesus in the parts of yourself you dislike. That is where he dwells.", "Look for him in other people too, since Christ is in all." ],
+      "practices": [ { "name": "Unveiling prayer", "how": "‘Holy Spirit, open my eyes to see Christ in me, in my darkness and in others.’ Pray it slowly each morning." }, { "name": "Remain", "how": "For five minutes, don’t pray upward. Simply stay, aware: ‘You are here, in me, now.’" } ],
+      "sessions": [22, 23, 24, 25, 45], "scripture": [ "Galatians 1:15-16", "2 Corinthians 13:5", "Colossians 1:27", "John 15:4" ]
+    }
+  ]
+}

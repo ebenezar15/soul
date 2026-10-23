@@ -1,0 +1,90 @@
+{
+  "session": 16,
+  "videoId": "cIxJ1jja1Ek",
+  "youtubeTitle": "The Gospel and Soul Health Session 16 - Dr Bruce Wauchope",
+  "volume": "Volume 1",
+  "chapter": "Chapter 3, Session 3 (Key Themes: Restoring our Identity as Children of God - Healing our flesh; Jesus undoes our conscience-based approach to living; Why did Jesus have to die?)",
+  "topic": "Jesus Undoes Conscience Living; Why He Died",
+  "summary": "Drawing on Torrance's two movements of Christ (God to humanity and humanity to God), Bruce shows that Jesus never operated from aloneness, separation, a sense that God was not good, rejection, fear, shame, a false self or the accuser. He rereads John 16: the Spirit does not mainly dig up personal sins but convicts the world that it is wrong about sin (treating the fruit rather than the factory), righteousness (climbing by our own effort) and judgment (it is the ruler of this world who is judged, and Christ frees those held in Hades). Jesus completely healed the flesh in his own being so the ruler of this world had nothing in him. Yet the outflow (addictions, othering, violence, subservience to the accuser, the law of sin and death used against humanity) still had to be dealt with. Why did Jesus die? Because we murdered him; the Father never turned from him nor orchestrated a blood payment, which would be Molech, and in the mystery of union our deicide was our suicide, so God's non-violence undid our violence and freed us.",
+  "keyPoints": [
+    "Torrance's 'two flows' of Christ: as mediator he is God coming to humanity and humanity coming to God; through him the Spirit enables the Father and Son to dwell with humanity (recommended reading: 'The Mediation of Christ').",
+    "Jesus never lost communion with the Father, never doubted Dad's goodness and never operated from rejection, fear, shame, a false self, defences or the accuser; 'if our heart condemns us, God is greater than our heart' (1 John 3:20).",
+    "The Pentecostal slogan 'the mark of the Spirit is conviction of sin', used to dig out people's sins, misreads John 16.",
+    "In John 16 the Spirit convicts the world that it is wrong about three things: sin, righteousness and judgment.",
+    "Wrong about sin: we focus on picking off and confessing the widgets (outflow) instead of fixing the widget factory (the flesh), because we do not believe in him.",
+    "Wrong about righteousness: we think we climb to heaven, but he goes to the Father and takes us in him.",
+    "Wrong about judgment: it is the ruler of this world who is judged; Christ takes the keys of Hades to free the people held there by the accuser.",
+    "God's goal is persons: he is more interested in who you are than what you have done, and our task is to keep letting him love us, because we cannot change ourselves by our own bootstraps.",
+    "Jesus completely healed Adam's fracture in his own being before the cross, so 'the ruler of this world is coming and he has nothing in me', yet the outflow (addictions, othering, violence, the law of sin and death used against humanity) still needed dealing with.",
+    "In the parable of the vineyard, the 'wine' God seeks is persons; humanity's failure to produce persons grieves the Trinity.",
+    "Why did Jesus die? Because we murdered him: Jesus repeatedly said men would kill him; the Father was with him throughout (Psalm 22:24) and never orchestrated a blood payment, which would be Molech.",
+    "In union, our deicide was our suicide: God non-violently let our violence kill itself off, freeing us from the law of sin and death and from the one who had the power of death (Hebrews 2:14)."
+  ],
+  "keyTerms": [
+    {"term": "Two flows of Christ", "definition": "Torrance's description of Jesus as both God's movement to humanity and humanity's movement to God."},
+    {"term": "Mediation of Christ", "definition": "Jesus standing in both directions, bringing God into our flesh and our flesh home to God."},
+    {"term": "Widget factory", "definition": "Bruce's image for the flesh that produces sins (widgets); true healing addresses the factory."},
+    {"term": "Conviction (John 16)", "definition": "The Spirit's exposure of humanity's wrong ideas about sin, righteousness and judgment, not a hunt for personal sins."},
+    {"term": "Hades", "definition": "The place of the dead before Christ, distinct from the 'hell' of Revelation; Christ takes its keys to free those held there."},
+    {"term": "Law of sin and death", "definition": "God's law used by the accuser against humanity; we are freed from it by dying with Christ."},
+    {"term": "Molech", "definition": "The pagan god of child sacrifice; Bruce's name for the idea that the Father required his Son's blood."},
+    {"term": "Deicide was suicide", "definition": "Because all are in Christ, humanity's killing of God was humanity's own death, from which it is raised."}
+  ],
+  "scriptures": ["1 John 3:20", "John 16:7-14", "John 1:29", "Revelation 1:18", "1 Corinthians 2:8", "Proverbs 21:30", "John 14:30", "Matthew 21:33-39", "Romans 8:2", "Psalm 22:24", "Luke 9:44", "Matthew 20:18-19", "John 16:32", "2 Corinthians 5:19", "John 12:24", "Hebrews 2:14", "John 17:26"],
+  "quotes": [
+    "You want the widgets to be told they're bad, but you don't want to fix up the widget factory.",
+    "I'm more interested in who you are than what you've done. Just keep letting Me love you.",
+    "Why did Jesus die? Because we murdered Him!",
+    "Our deicide was our suicide."
+  ],
+  "diagram": {
+    "type": "hierarchy",
+    "title": "John 16: The Spirit Convicts the World",
+    "nodes": [
+      {"id": "a", "label": "Spirit convicts the world", "detail": "The Spirit shows we are wrong about three things."},
+      {"id": "b", "label": "Wrong about sin", "detail": "We fixate on widgets (sins) and ignore the factory (flesh); sin is not believing in him."},
+      {"id": "c", "label": "Wrong about righteousness", "detail": "Not our climbing; he goes to the Father and we are in him."},
+      {"id": "d", "label": "Wrong about judgment", "detail": "The ruler of this world is judged, not us."},
+      {"id": "e", "label": "Lamb lifts the veil", "detail": "He heals the factory so we see the Father."},
+      {"id": "f", "label": "Carried home in Christ", "detail": "Righteousness is shared participation in his ascent."},
+      {"id": "g", "label": "Keys of Hades taken", "detail": "Captives held by the accuser are set free."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "a", "to": "c"},
+      {"from": "a", "to": "d"},
+      {"from": "b", "to": "e", "label": "answer"},
+      {"from": "c", "to": "f", "label": "answer"},
+      {"from": "d", "to": "g", "label": "answer"}
+    ],
+    "note": "Bruce's reading of John 16:8-11 as the Spirit correcting humanity's three mistaken views, each answered by Christ's work."
+  },
+  "caseStudy": {
+    "title": "Josh and the endless confession",
+    "scenario": "Josh, 23, was taught that the Spirit's main work is convicting him of sin, so each night he scans his day for failures and confesses them. Despite this, the same habits of lust and outbursts of anger keep recurring, and he has started to believe God is disgusted with him. He has heard sermons implying the Father had to turn away from Jesus on the cross, and he imagines the Father turning away from him too.",
+    "analysis": "Josh is focused on the widgets rather than the factory, and his picture of the Spirit as a sin-detector reinforces the accusing conscience. Bruce's reading of John 16 says the Spirit convicts us that we are wrong about sin, righteousness and judgment. The Father never turned from the Son and is with Josh too; the healing comes from letting Christ's healed humanity be shared with him, not from self-scrutiny.",
+    "pathway": [
+      "Replace the nightly failure-scan with a review of where he received love and where he needed it.",
+      "Ask what pain, loneliness or fear sits beneath the recurring habits (the factory).",
+      "Meditate on Psalm 22:24 and John 16:32: the Father did not hide his face.",
+      "Pray, 'Lord, I let you love me in this place,' rather than promising to do better.",
+      "Find an accountability relationship based on grace rather than shame.",
+      "If anger or compulsive behaviour is harming him or others, seek help from a counsellor."
+    ]
+  },
+  "practices": [
+    {"name": "Factory, not widgets", "how": "When you fail, write the behaviour in one column and the underlying feeling or belief in another, and pray about the second column."},
+    {"name": "Three corrections", "how": "Read John 16:8-11 slowly and journal one way your view of sin, of righteousness and of judgment needs the Spirit's correction."},
+    {"name": "Father with me", "how": "In hard moments repeat Jesus' words, 'I am not alone, because the Father is with me.'"}
+  ],
+  "reflection": [
+    "How have you understood the Spirit's 'conviction', and how does Bruce's reading change it?",
+    "What happens in you when you hear 'I'm more interested in who you are than what you've done'?",
+    "How does 'we murdered him' rather than 'the Father punished him' affect how you see the Father?"
+  ],
+  "quiz": [
+    {"q": "According to Bruce, in John 16 the Spirit convicts the world of being wrong about what?", "options": ["Sin, righteousness and judgment", "Only personal sins", "Doctrine, worship and morality", "Money, power and sex"], "answer": 0, "explain": "The Spirit corrects our views of all three."},
+    {"q": "What is Bruce's direct answer to 'Why did Jesus die?'", "options": ["The Father needed blood to be satisfied", "To pay a debt to Satan", "Because we murdered him", "As a moral example only"], "answer": 2, "explain": "Jesus repeatedly said men would kill him; the Father never turned away."},
+    {"q": "What does 'the ruler of this world has nothing in me' indicate?", "options": ["Satan had no power on earth", "Jesus avoided all suffering", "The cross was unnecessary", "Jesus had fully healed the flesh in himself, leaving no handle for darkness"], "answer": 3, "explain": "He healed Adam's fracture in his own being before the cross."}
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "session": 47,
+  "videoId": "2kfRineaeqc",
+  "youtubeTitle": "The Gospel and Soul Health Session 47 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 3 - Session 2",
+  "topic": "Conscience, judgment and life-giving communication",
+  "summary": "Bruce argues that the gospel is about the flow of life (zoe) in our relationships, not about institutions, programs or climbing to heaven. Because Christ has come into all people, we are drawn into a family and must learn to relate, yet each of us brings an internal judge, pain and unmet needs into every encounter. The good/bad conscience, the fruit of eating the tree of the knowledge of good and evil apart from the tree of life, suppresses our emotions and turns every interaction into judgment, which is life without love: darkness and the voice of the accuser. Even praise such as 'you're amazing' is a judgment that blocks relating. The way forward is to untangle feelings, which relate to me and arise from my values, needs, experiences and parts, from judgments, which involve another person, and to speak vulnerably about observations, feelings and needs, as taught in Marshall Rosenberg's Nonviolent Communication.",
+  "keyPoints": [
+    "Because Christ has joined himself to everyone, the gospel is familial restoration: we cannot stay in a private closet worshipping God; we are thrown into a family, including people we dislike.",
+    "Every person has a dynamic personal space, as shown by the 'space invader' demonstration. When two people meet, each brings an inner judge, pain, prickly bits and deep unnamed needs, creating complex dances.",
+    "The work of Jesus is about the flow of life in your relationships, not institutions or programs. At the bottom of our mess Jesus asks, 'Will you let me love you?', because we cannot give love we have not received.",
+    "Living from good/bad, right/wrong shuts off emotional life and produces a 'plastic fantastic, stainless steel android' believer doing their best for God, when God has already done his best for us.",
+    "Emotions come from our values, needs, intuition, experiences and parts. They are not right or wrong; they just are, and they are sacred because they are you.",
+    "Love is not an attribute but a flow of life between persons, Father, Word and Spirit. So God's goal is relating and intimacy, not morality.",
+    "We were meant to eat from the tree of life first. Eaten alone, in the belief that we are separated from God, the good/bad tree becomes the 'tree of death' and installs the accuser in our heads.",
+    "God's only judgment on us is 'you are my sons and daughters'. Accusation between people is darkness, which is life without love: when I am judging you, I am not loving you.",
+    "Praise is still judgment: 'Robert, you're amazing' and 'Robert, you're terrible' are equally judgments that dump my assessment on him instead of relating.",
+    "Feelings relate to me (alone, scared, hurt, happy, joyful). Words like 'abandoned', 'rejected' or 'neglected' include another person and are judgments, even if true.",
+    "Others are stimuli for our emotions, not their cause. Life-giving speech names the observation, my feeling, and the need that was met or unmet, for example thanking Robert for the fire bunker.",
+    "Speaking this way feels more vulnerable and intimate, which is the point: it lets rivers of living water flow. Bruce recommends Marshall Rosenberg's Nonviolent Communication as a non-religious expression of this gospel insight."
+  ],
+  "keyTerms": [
+    {"term": "Zoe", "definition": "The life of Christ flowing through creation and between persons, the flow that relationships are meant to carry."},
+    {"term": "Conscience / internal judge", "definition": "The good/bad, right/wrong evaluator installed by eating the tree of knowledge apart from life. It suppresses emotion and judges self and others."},
+    {"term": "The accuser", "definition": "The voice of darkness that judges and condemns. When we judge each other we participate with it."},
+    {"term": "Darkness", "definition": "Life without love: still sustained by zoe but not participating in love."},
+    {"term": "Feeling", "definition": "An emotion that relates to me alone (scared, hurt, happy), arising from my values, needs, experiences and parts."},
+    {"term": "Judgment", "definition": "Any assessment that includes another person or their behaviour, positive or negative, such as 'amazing', 'abandoned' or 'rejected'."},
+    {"term": "Stimulus", "definition": "What another person does or says that triggers my emotions without being their cause."},
+    {"term": "Plastic fantastic", "definition": "Bruce's phrase for the emotionally suppressed, performance-driven believer living from right and wrong."}
+  ],
+  "scriptures": ["Matthew 21:33-41", "Genesis 1", "Genesis 2:17", "John 13:34", "John 7:38", "1 John 1:3", "Habakkuk 2:14", "John 14:27", "John 15:11"],
+  "quotes": [
+    "If I don't receive love, how can I give it?",
+    "Love is not an attribute; it's a flow of life between beings.",
+    "When I'm judging you, I'm not loving you.",
+    "God's judgment of you is that you're his kids."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Judging versus relating",
+    "nodes": [
+      {"id": "a", "label": "Good/bad conscience", "detail": "I evaluate everything as right or wrong, with myself as the reference point.", "side": "left"},
+      {"id": "b", "label": "Emotions suppressed", "detail": "Feelings are distrusted, leaving me a 'stainless steel' believer.", "side": "left"},
+      {"id": "c", "label": "'You're amazing/terrible'", "detail": "Praise and criticism alike dump my assessment on you.", "side": "left"},
+      {"id": "d", "label": "Life flow blocked", "detail": "Accusation is life without love, and people shut down.", "side": "left"},
+      {"id": "e", "label": "Receive Jesus' love", "detail": "Let him love me at the bottom of my mess so I can love.", "side": "right"},
+      {"id": "f", "label": "Own my feelings", "detail": "Feelings are mine, arising from values, needs, experiences and parts.", "side": "right"},
+      {"id": "g", "label": "Observation, feeling, need", "detail": "'When you did X, I felt Y, because I need Z.'", "side": "right"},
+      {"id": "h", "label": "Zoe flows, intimacy", "detail": "Vulnerable sharing lets living water flow between us.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "b", "to": "c"},
+      {"from": "c", "to": "d", "label": "leads to"},
+      {"from": "e", "to": "f"},
+      {"from": "f", "to": "g"},
+      {"from": "g", "to": "h", "label": "leads to"}
+    ],
+    "note": "Left: relating from the tree of knowledge (judgment) leads to death in relationship. Right: relating from received love and owned feelings lets life flow."
+  },
+  "caseStudy": {
+    "title": "The compliment that didn't land",
+    "scenario": "Jess and her husband Tom often argue, and even his compliments ('You're such a great mum') leave her oddly flat. When she is upset Tom tells her she is 'being irrational', and she replies that she feels 'ignored and disrespected'. Both are committed Christians who try hard to do the right thing, but they feel more like colleagues than intimates.",
+    "analysis": "Both partners are speaking from the internal judge. Tom's praise and his criticism are both judgments that assess Jess rather than relate to her. Jess's 'ignored and disrespected' are judgments about Tom's behaviour rather than feelings about herself, so Tom hears accusation and defends. Their right-and-wrong framework is blocking the flow of life, and vulnerability feels unsafe.",
+    "pathway": [
+      "Each partner begins by receiving Jesus' love personally in prayer, rather than trying to perform love from empty.",
+      "Learn to tell feelings (sad, lonely, anxious, grateful) apart from judgments (ignored, rejected, irrational) using a feelings list.",
+      "Practise appreciation as observation, feeling and need: 'When you read to the kids tonight, I felt so grateful, because I really needed a rest.'",
+      "Practise requests the same way in conflict, owning feelings and naming needs rather than accusing.",
+      "Laugh at mistakes and grow over time instead of judging each other's progress.",
+      "Consider a couples counsellor trained in Nonviolent Communication if patterns stay stuck."
+    ]
+  },
+  "practices": [
+    {"name": "Judgment audit", "how": "For one day, notice each time you say or think 'you are...' or 'he/she is...', positive or negative, and mark whether it was a judgment or a feeling."},
+    {"name": "NVC appreciation", "how": "Once a day, replace 'you're amazing' with 'When I saw you do X, I felt Y, because it met my need for Z.'"},
+    {"name": "'Let me love you' prayer", "how": "Sit quietly and hear Jesus ask, 'Will you let me love you?', and answer yes, receiving before you try to give."}
+  ],
+  "reflection": [
+    "Where do my relationships run on right and wrong rather than on sharing life?",
+    "Which feelings have I been taught to distrust or suppress, and what needs might they be pointing to?",
+    "What would it cost me to speak more vulnerably about my feelings and needs with someone close to me?"
+  ],
+  "quiz": [
+    {"q": "Why does Bruce say 'Robert, you're amazing' is a problem?", "options": ["It is insincere flattery", "It is still a judgment that dumps my assessment rather than relating", "Only God should be called amazing", "It makes Robert proud"], "answer": 1, "explain": "Positive and negative statements alike are judgments of the other person, and neither shares life."},
+    {"q": "Which of these is a feeling rather than a judgment in Bruce's sense?", "options": ["I feel abandoned", "I feel rejected", "I feel scared", "I feel neglected"], "answer": 2, "explain": "'Scared' relates to me alone, while the others assess someone else's behaviour."},
+    {"q": "According to Bruce, what is darkness?", "options": ["A separate evil force equal to God", "Life without love", "Strong negative emotion", "Lack of correct doctrine"], "answer": 1, "explain": "Darkness is being sustained by zoe while not participating in love, as when we judge."}
+  ]
+}

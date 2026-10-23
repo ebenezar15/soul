@@ -1,0 +1,87 @@
+{
+  "session": 37,
+  "videoId": "7gN6FbbaD8k",
+  "youtubeTitle": "The Gospel and Soul Health Session 37 - Dr Bruce Wauchope",
+  "volume": "Volume 3: Soul Health",
+  "chapter": "Chapter 2: The Conscience",
+  "topic": "Gospel recap: Christ in our darkness; the dodgy gospel",
+  "summary": "Opening the chapter on the conscience, Bruce recaps the gospel using volunteers: Father, Son and Spirit love one another, are one (Deuteronomy 6:4), and purpose to catch humanity up in their love. God is love, not love here and justice there, which is pagan Greek thinking; God's wrath arises when this purpose is violated. Christ gives Zoe life to all, and darkness is not absence of light but life lived without love. The Word alone became human, entering not just a body but our flesh, our darkness, and because he holds all things together, what happened to him happened to us: deicide was suicide, and Father and Spirit never took a holiday. Christ is now in each person's black hole, and the veil being pulled back is his coming. Bruce recaps the healing overview and ends by naming the 'dodgy gospel' (Dan Dorman's term), based on Greek philosophy and a chasm of separation, which feeds the flesh and locks us in fear and guilt.",
+  "keyPoints": [
+    "Father, Son and Spirit love one another and are so much in each other that they are one; that oneness is not singular but tri-personal (Deuteronomy 6:4; Psalms 2 and 110).",
+    "The pre-creation purpose is that humanity be caught up in their love; if you don't start with these scriptures you end in the wrong spot.",
+    "God is love; 'love over here and justice over there' is pagan Greek philosophy. God is wrathful when the purpose of love is being violated.",
+    "The universe is held within Christ like a womb (Colossians 1:16-17), and his Zoe life flows through everyone; our lives are not self-sustained.",
+    "Darkness is not the absence of light but failing to see it; it is life lived without love, which is how Hitler, Stalin, Pol Pot, and we ourselves create death.",
+    "Only the Word became human, even an embryo, so only he can reveal the Father; he took not just anthropos (human body) but sarx (our flesh, our darkness) (John 1:14).",
+    "Jesus' body had as much flesh as anyone in history; he overcame God-out-there, the accuser, internal contradictions and deep pain (Hebrews 10:5).",
+    "Because he holds all together, what we did to him we did to ourselves: deicide was suicide; if one died for all, all died (2 Corinthians 5:14); he went into Hades to free those trapped there.",
+    "Father and Spirit don't take a holiday at the incarnation or cross; the Trinity is indivisible.",
+    "Christ is now in every person's flesh, including the black hole; the second coming is the veil being pulled back so humanity sees Christ in us.",
+    "Healing recap: forgiveness shuts down the judge, guilt and fear unlock, defences and the stairway fall, mess returns, pain management and spin ease, parts return, and we drop through the black hole to find ourselves held by Dad.",
+    "The 'dodgy gospel' (Dan Dorman's term) posits an abyss between God and humanity and misquotes Habakkuk 1:13; it feeds the flesh, leaving us to construct our own way back and locking us in fear and guilt."
+  ],
+  "keyTerms": [
+    {"term": "Perichoresis / oneness", "definition": "Father, Son and Spirit so in each other that they are one God, a tri-personal unity rather than a singular one."},
+    {"term": "Zoe", "definition": "The life of Christ flowing through all creation."},
+    {"term": "Darkness", "definition": "Not the absence of light but life lived without seeing or knowing love."},
+    {"term": "Anthropos / sarx", "definition": "Christ took both a human body (anthropos) and our fallen flesh or darkness (sarx)."},
+    {"term": "Deicide is suicide", "definition": "Because Christ holds humanity together, in killing him we died with him."},
+    {"term": "Second coming (as unveiling)", "definition": "The veil pulled back so humanity sees Christ already in us."},
+    {"term": "Dodgy gospel", "definition": "The Greek-influenced Western gospel of separation and an abyss, which feeds the flesh rather than bringing life and love."}
+  ],
+  "scriptures": ["Deuteronomy 6:4", "Psalm 2", "Psalm 110:1", "Colossians 1:16-17", "John 1:4-5", "John 1:14", "Hebrews 10:5", "2 Corinthians 5:14", "Habakkuk 1:13", "Isaiah 53:3"],
+  "quotes": [
+    "It's not love over here and justice over there; that's thoroughly pagan.",
+    "If I live the flow of life in darkness, without love, I'm in darkness.",
+    "Our deicide is our suicide.",
+    "Everything of Father, Son and Spirit leads to integration and oneness."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "The undiluted gospel vs the dodgy gospel",
+    "nodes": [
+      {"id": "l1", "label": "God is love", "detail": "Father, Son and Spirit are one in love; wrath serves love's purpose.", "side": "left"},
+      {"id": "l2", "label": "All held in Christ", "detail": "Creation is inside Christ; there is no separation.", "side": "left"},
+      {"id": "l3", "label": "Christ entered our darkness", "detail": "The Word took our flesh, and what happened to him happened to us.", "side": "left"},
+      {"id": "l4", "label": "Healing from within", "detail": "Christ in our black hole frees us from fear and guilt.", "side": "left"},
+      {"id": "r1", "label": "Love versus justice", "detail": "A Greek split of God's attributes.", "side": "right"},
+      {"id": "r2", "label": "Abyss of separation", "detail": "Humanity lost on the far side of a chasm.", "side": "right"},
+      {"id": "r3", "label": "We must get back", "detail": "We are left to construct our own way to God.", "side": "right"},
+      {"id": "r4", "label": "Feeds the flesh", "detail": "Locks us in fear and guilt and drives us into our own darkness.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "l1", "to": "r1", "label": "vs"},
+      {"from": "l2", "to": "r2", "label": "vs"},
+      {"from": "l3", "to": "r3", "label": "vs"},
+      {"from": "l4", "to": "r4", "label": "vs"}
+    ],
+    "note": "Contrasts the Trinitarian gospel of union with the Greek-influenced 'dodgy gospel' that Bruce says actually feeds the flesh."
+  },
+  "caseStudy": {
+    "title": "A God who can't look at me",
+    "scenario": "Chris was taught that God is holy and cannot look upon sin, so after any failure he feels God turn away. He works hard to 'get back' through extra prayer and service, but feels anxious and exhausted. His relationships suffer because he is always measuring himself and others.",
+    "analysis": "Chris is living inside the dodgy gospel: an abyss of separation and a God whose justice competes with his love. Bruce argues this feeds the flesh, locking Chris in fear and guilt and making him construct his own way back. The undiluted gospel says Christ already holds him and has entered his darkness.",
+    "pathway": [
+      "Read Colossians 1:16-17 and notice there is nowhere outside Christ.",
+      "Re-examine the 'God can't look on sin' idea in light of Jesus eating with sinners.",
+      "Notice the anxiety and striving as symptoms of a separation story, not truth.",
+      "Practise resting rather than performing after a failure: 'Christ is in me here.'",
+      "Talk with a mentor or counsellor about the fear and exhaustion."
+    ]
+  },
+  "practices": [
+    {"name": "Light or darkness check", "how": "Choose one activity today (work, a conversation) and ask: 'Am I living this flow of life in love?' Adjust one small thing toward love."},
+    {"name": "Trinity contemplation", "how": "Spend five minutes picturing the Father, Son and Spirit loving one another, with you caught up in the middle."},
+    {"name": "Rewrite the story", "how": "Write the gospel you were taught in three sentences, then rewrite it in three sentences of union, and compare how each makes you feel."}
+  ],
+  "reflection": [
+    "Have you thought of God's love and justice as competing? How does Bruce's view change that?",
+    "What would it mean that Christ is present in your black hole right now?",
+    "In what ways has a gospel of separation shaped how you treat yourself and others?"
+  ],
+  "quiz": [
+    {"q": "How does Bruce define darkness?", "options": ["The absence of light", "Life lived without love", "Evil matter", "God's absence"], "answer": 1, "explain": "Darkness is failing to see the light, living life without love."},
+    {"q": "What does 'deicide was suicide' mean?", "options": ["Jesus took his own life", "God destroyed humanity", "Because Christ holds us together, when we killed him we died", "Only some people died with Christ"], "answer": 2, "explain": "Union means what happened to Christ happened to us."},
+    {"q": "What is the core flaw of the 'dodgy gospel'?", "options": ["It emphasises the Trinity too much", "It is too optimistic", "It stresses the incarnation", "It assumes an abyss of separation and feeds the flesh"], "answer": 3, "explain": "Separation leaves us to construct our own way back, locked in fear and guilt."}
+  ]
+}

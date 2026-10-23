@@ -1,0 +1,87 @@
+{
+  "session": 28,
+  "videoId": "-9KjflELC_0",
+  "youtubeTitle": "The Gospel and Soul Health Session 28 - Dr Bruce Wauchope",
+  "volume": "Volume 2",
+  "chapter": "Session 2",
+  "topic": "Propitiation reframed: Jesus the mercy seat",
+  "summary": "Bruce re-examines propitiation (hilasterion), which many treat as the foundation of their theology: blood paid to God so that He can forgive. He recaps that Jesus' blood is darkened humanity cleaned up and joined to Father, Word and Spirit, poured into creation and carried up into the heavenly temple. The Mosaic sacrifices were given down to an accused, guilt-ridden humanity ('I have given these to you') under the earthly tabernacle, whereas the heavenly tabernacle is about adoption as sons and daughters. Properly understood, propitiation means 'mercy seat': the risen Jesus Himself is the meeting place of the uncreated and the created. Bruce then takes apart the 'God can't look on sin, so Jesus paid the Father' model as built on misquoted verses and Greek dualism. It splits the Trinity, removes grace and mercy, leaves the flesh 'factory' untouched, and keeps everything external.",
+  "keyPoints": [
+    "The blood of Jesus is not magical spray but a Person: totally darkened humanity, totally cleaned up, one with Father, Word and Spirit. From His pierced side flowed water and blood that 'baptise' and fill creation (cf. Ezekiel 47).",
+    "In His ascension Jesus carries us, in His blood, into the heavenly temple. He Himself is the meeting place of God and humanity, and the Father is delighted.",
+    "Hilasterion can mean mercy seat, a turning sacrifice or an atoning victim. The meaning depends on the frame: the overarching love story, or Western separation and paying off a deity.",
+    "The sacrifices were given down to humanity, not up to God: 'I have given these to you' (Leviticus 17:11). They were a concession to a race tormented by an inner accuser after eating from the tree of the knowledge of good and evil.",
+    "The high priest carried Israel's names on black stones on his shoulders and coloured stones over his heart: God saying, in effect, 'this is who you really are, though you're not pretty yet.'",
+    "There are two tabernacles. The earthly (Mosaic) one manages the flesh and stops every mouth; the heavenly one is the pre-creation purpose of adoption, the law of the Spirit and life. The torn veil ended the earthly system.",
+    "Preaching law increases sin. What the law could not do, God did by sending His Son into our flesh and darkness, condemning sin in the flesh (Romans 8:3).",
+    "Jesus is the atoning victim of our violence, not of the Father. In a non-violent way the Trinity used our killing of Him to complete our healing.",
+    "'God can't look on sin' misreads Habakkuk 1:13, which means 'You can't look on this and do nothing.' 'Your sins have separated you' (Isaiah 59:2) describes our blindness, not God leaving.",
+    "Sin cannot split the Trinity. The payment model makes the Father different from the Son, so seeing Jesus is no longer seeing the Father. It also has overtones of child abuse and denies 2 Corinthians 5:19.",
+    "If it is payment there is no grace or mercy, and with no mercy there is no mercy seat, so the model destroys its own meaning. It also leaves confession and judgement confused.",
+    "The real problem is the flesh, the 'factory' that produces sins (Galatians 5:19-21). The external payment model leaves the factory intact, while the New Covenant describes an internal work of Christ in us."
+  ],
+  "keyTerms": [
+    {"term": "Propitiation (hilasterion)", "definition": "Properly the mercy seat: the meeting place of the uncreated and the created, which is the risen Jesus Himself."},
+    {"term": "Mercy seat", "definition": "The place of meeting between God and creation, fulfilled in Christ as fully God and fully human."},
+    {"term": "Earthly tabernacle", "definition": "The Mosaic system given into fallen, accused humanity to manage the flesh and point toward Christ."},
+    {"term": "Heavenly tabernacle", "definition": "The original, pre-creation purpose: creation caught up into the life of Father, Son and Spirit as sons and daughters (the law of adoption)."},
+    {"term": "Atoning victim", "definition": "Jesus as the victim of human violence, not of the Father, whose non-violent response heals us."},
+    {"term": "The flesh 'factory'", "definition": "The darkness in human nature from which individual sins arise; the real problem the gospel addresses."},
+    {"term": "Accuser / woodpecker", "definition": "The inner accusing voice that entered human consciousness with the knowledge of good and evil."}
+  ],
+  "scriptures": ["1 John 5:7-8", "John 19:34", "Ezekiel 47:1-5", "Leviticus 17:11", "Exodus 28:9-21", "Hebrews 10:4", "Romans 3:19", "Matthew 27:51", "Revelation 13:8", "Revelation 21:22", "Romans 5:20", "Romans 8:3-4", "Psalm 22:1", "Habakkuk 1:13", "Habakkuk 2:4", "Isaiah 59:2", "2 Corinthians 5:14", "2 Corinthians 5:19", "Galatians 5:19-21", "Romans 3:25", "Matthew 6:12"],
+  "quotes": [
+    "Blood is not a magical thing you can spray around like a fire hose.",
+    "I have given these to you. They're not going up; God's giving them down.",
+    "If it's payment there's no mercy, and if there's no mercy there's no mercy seat.",
+    "Jesus Christ is the Mercy Seat."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Two Readings of Propitiation",
+    "nodes": [
+      {"id": "l1", "label": "Holy God can't look", "detail": "A misread Habakkuk 1:13 makes God unable to face sin.", "side": "left"},
+      {"id": "l2", "label": "Sin separates God", "detail": "Isaiah 59:2 is read as God withdrawing from us.", "side": "left"},
+      {"id": "l3", "label": "Son pays the Father", "detail": "Blood is offered up to satisfy divine justice.", "side": "left"},
+      {"id": "l4", "label": "External, flesh untouched", "detail": "Sins are covered but the factory of the flesh remains.", "side": "left"},
+      {"id": "r1", "label": "God can't stay passive", "detail": "God sees evil and acts to heal from within.", "side": "right"},
+      {"id": "r2", "label": "We are blind", "detail": "Separation is our blindness; union cannot be broken.", "side": "right"},
+      {"id": "r3", "label": "Jesus is mercy seat", "detail": "The risen Christ is the meeting place of God and creation.", "side": "right"},
+      {"id": "r4", "label": "Internal, flesh renewed", "detail": "Christ condemned sin in the flesh and lives in us.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "l1", "to": "r1", "label": "corrected"},
+      {"from": "l2", "to": "r2", "label": "corrected"},
+      {"from": "l3", "to": "r3", "label": "corrected"},
+      {"from": "l4", "to": "r4", "label": "corrected"}
+    ],
+    "note": "Left: the penal-payment model Bruce was taught, built on a separation frame. Right: propitiation within the Trinitarian love story and union."
+  },
+  "caseStudy": {
+    "title": "Afraid of the Father",
+    "scenario": "Grace, 46, says she loves Jesus but feels uneasy about God the Father, whom she pictures as stern and needing to be 'paid off'. When she fails, she imagines the Father turning His face away, as she believes He did from Jesus on the cross. She confesses the same sins repeatedly and never feels truly forgiven. Her own father was harsh and demanding.",
+    "analysis": "Grace has absorbed a propitiation model that splits the Father from the Son, a 'good Jesus, angry Father' picture, and her childhood experience reinforces it. In Bruce's framework this rips at the indivisible union of the Trinity. The Father was in Christ reconciling the world and never turned away. Jesus is the exact revelation of the Father and Himself the mercy seat. Her repeated confession reflects an external, payment-based frame rather than the inner reality of forgiveness and Christ in her.",
+    "pathway": [
+      "Meditate on John 14:9 ('whoever has seen me has seen the Father') and 2 Corinthians 5:19.",
+      "Reread Psalm 22 in full, noticing that verse 24 says God did not hide His face.",
+      "Picture Jesus as the mercy seat, a meeting place, and imagine the Father's delight as Jesus brings her in.",
+      "Gently notice where her picture of God borrows from her earthly father's harshness.",
+      "Consider working with a counsellor on her father wounds alongside spiritual direction."
+    ]
+  },
+  "practices": [
+    {"name": "Psalm 22 to the end", "how": "Read Psalm 22 through to its end, especially verse 24. Write down how the whole psalm changes the 'God turned away' picture."},
+    {"name": "Same face", "how": "When you picture the Father, deliberately put Jesus' face and manner there. Pray: 'Father, You are exactly like Jesus.'"},
+    {"name": "Look at the factory", "how": "When a recurring sin appears, rather than only confessing it, ask the Spirit gently, 'What is the darkness or need underneath this?' and invite Christ into that place."}
+  ],
+  "reflection": [
+    "What did I learn about why Jesus died, and what does it imply about the Father's heart?",
+    "Do I relate to the cross as a payment made outside me, or as Christ's healing work in my own flesh?",
+    "How might seeing Jesus as the 'mercy seat', a meeting place, change how I come to God after failing?"
+  ],
+  "quiz": [
+    {"q": "What does Bruce say is the core meaning of propitiation (hilasterion)?", "options": ["A payment that satisfies the Father's anger", "The mercy seat: the meeting place of God and creation, which is Jesus", "An annual temple tax", "A legal transfer of guilt"], "answer": 1, "explain": "The risen Jesus is the mercy seat, uniting the uncreated and the created in Himself."},
+    {"q": "According to Bruce, what does Habakkuk 1:13 ('too pure to behold evil') actually mean?", "options": ["God can't look on this and do nothing", "God cannot be present where sin is", "God abandons sinners", "God turned away from Jesus on the cross"], "answer": 0, "explain": "The prophet is saying God cannot see evil and stay passive, not that He withdraws."},
+    {"q": "Why does Bruce say the payment model 'self-destructs'?", "options": ["Because it makes the law unnecessary", "Because it is too merciful", "Because it ignores the Old Testament", "Because if it is payment there is no mercy, so there can be no mercy seat"], "answer": 3, "explain": "Propitiation means mercy seat, but a payment model removes mercy itself."}
+  ]
+}

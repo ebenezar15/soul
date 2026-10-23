@@ -1,0 +1,86 @@
+{
+  "session": 21,
+  "videoId": "ASP1A6pWeZw",
+  "youtubeTitle": "The Gospel and Soul Health Session 21- Dr Bruce Wauchope",
+  "volume": "Volume 1",
+  "chapter": "Chapter 3 Session 8 - Recap of Jesus' Work and Being Born Again; Jesus' Ascension and the Change After the Resurrection; Sharing Communion Together",
+  "topic": "Born again in His resurrection; ascension and Spirit",
+  "summary": "Wauchope recaps the cross's 'double play' and frames God's wrath as directed against whatever blocks the pre-creation purpose of adoption, not against our imperfection. He reframes being 'born again' outside evangelical dualism: unless you are born again you cannot see the kingdom, so anyone who sees it is already born again, and 1 Peter 1:3 says we were born again through Jesus' resurrection. In the ascension Christ leads captivity captive, the serpent's mountain of Bashan becomes God's mountain, and Isaiah 63's winepress wrath is fury against our captivity for the sake of 'the year of my redeemed'. Having cleansed humanity, the ascended Christ pours out the Spirit on all flesh, which explains why 120 followers after His earthly ministry became 3,000 in a day at Pentecost. God raised us with Christ without asking our permission: we find Christ in us rather than putting Him there, and our choices are made from within a finished work. The session closes with communion as a celebration of Christ in us, not a time of grovelling.",
+  "keyPoints": [
+    "Recap: our deicide was our suicide, which freed us from the law of sin and death. The powers broke their own legal claim by killing the Sinless One, so no accusation can be brought against God's elect, though religion keeps reviving it.",
+    "God's wrath is framed against whatever blocks the pre-creation purpose of our adoption into the Trinity's life. It is not directed at us for failing to be sterile 'stainless-steel' perfection.",
+    "Persons are face-to-face beings in communion. In our darkness we are not yet fully persons, and Jesus brings the Father-Son love into us so that we can become persons ('till we have faces', C.S. Lewis).",
+    "John 3:3 says unless you are born again you cannot see the kingdom, so those who respond to preaching were already born again. Evangelical dualism wrongly made 'born again' the way back to a separated God.",
+    "1 Peter 1:3: God has begotten us again through the resurrection of Jesus. Being born again means being resurrected with Christ: when He died we died, and when He rose we rose.",
+    "The first Adam was of dust and the second is the Lord from heaven, and we will bear the heavenly image. We are not to escape the body but be 'further clothed' (2 Corinthians 5), with the Spirit as guarantee.",
+    "Christ fulfilled both the earthly law (sins wiped away) and the heavenly law of adoption. Father, Son and Spirit are not satisfied unless you are included in the family.",
+    "Psalm 68 says the mountain of Bashan, the serpent's mountain, becomes the mountain God desires. The ascending Christ leads captivity captive, emptying Hades.",
+    "Isaiah 63: the One from Edom with garments red from the winepress. His anger and fury are against humanity being trapped, and the climax is 'the year of my redeemed has come'. God's wrath is for us, against our non-being.",
+    "In the parts of us we don't like, Christ is already there to show us the Father's face. Exalted, He pours out the Spirit on all flesh, and with unveiled faces we are transformed from glory to glory (2 Corinthians 3).",
+    "God did not ask permission to raise us with Christ, just as we did not choose Adam's sin. You don't ask Jesus into your heart; you find Him there. Choice is real but is made from within the finished work, not to climb in.",
+    "Pentecost: Jesus' earthly ministry yielded about 120 followers, but once the ascended Christ poured out the Spirit, 3,000 responded in a day. Communion is a celebration ('You've forgiven me; You've placed Jesus in me'), not confession and grovelling, and the early church shared it as a meal."
+  ],
+  "keyTerms": [
+    {"term": "Born again", "definition": "Being resurrected with Jesus in His resurrection (1 Peter 1:3), a finished work for humanity rather than an entry ticket back to a separated God."},
+    {"term": "Wrath of God", "definition": "God's determined opposition to whatever blocks the pre-creation purpose of including us as sons and daughters."},
+    {"term": "Leading captivity captive", "definition": "The ascended Christ emptying Hades and taking its captives with Him."},
+    {"term": "Further clothed", "definition": "Resurrection hope as re-embodiment, not escape from the body into mystical out-of-body union."},
+    {"term": "Pre-creation purpose", "definition": "The Trinity's intention, before creation, to have sons and daughters sharing their life of love (adoption)."},
+    {"term": "Choice within a finished work", "definition": "Our freedom to say yes or no operates inside Christ's completed inclusion of us, not as a way of climbing in."},
+    {"term": "Communion", "definition": "A symbol and celebration that wakes us up to Christ already in us; not a mechanism that gives life, nor a time of grovelling."}
+  ],
+  "scriptures": ["Romans 8:33", "John 3:3-6", "John 3:12", "1 Peter 1:3", "John 17:26", "1 Corinthians 15:47-49", "2 Corinthians 5:2-5", "John 1:18", "Colossians 3:1-4", "Psalm 110:1", "Psalm 68:15-18", "Psalm 23:5", "1 Peter 3:19", "Revelation 1:18", "1 Corinthians 2:8", "Isaiah 63:1-6", "Matthew 21:33-37", "Acts 2:32-33", "Joel 2:28", "2 Corinthians 3:16-18", "Ephesians 2:4-5", "Acts 7:55-56", "Revelation 5:5-6", "John 12:24", "John 16:7", "Acts 1:15", "Acts 2:41", "Hebrews 8:10-12", "John 6:53"],
+  "quotes": [
+    "Born again means to be resurrected with Jesus.",
+    "You do not have to ask Jesus into your heart; you find Him there. You did not put Him there.",
+    "The wrath of God is for us, against our non-being.",
+    "In all the parts of us we don't want to go toward, who's already there?"
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "From resurrection to Pentecost",
+    "nodes": [
+      {"id": "a", "label": "We died in Him", "detail": "Our deicide became our suicide, freeing us from the law."},
+      {"id": "b", "label": "Born again: raised", "detail": "All humanity is begotten again through Jesus' resurrection."},
+      {"id": "c", "label": "Captivity led captive", "detail": "Hades is emptied; Bashan becomes God's mountain."},
+      {"id": "d", "label": "Seated with Christ", "detail": "The Red-garmented One ascends; 'the year of my redeemed'."},
+      {"id": "e", "label": "Spirit poured out", "detail": "The ascended Christ pours the Spirit on all flesh; 3,000 respond in a day."},
+      {"id": "f", "label": "Glory to glory", "detail": "With unveiled faces we find Christ in us and are transformed."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "rises"},
+      {"from": "b", "to": "c", "label": "descends"},
+      {"from": "c", "to": "d", "label": "ascends"},
+      {"from": "d", "to": "e", "label": "pours"},
+      {"from": "e", "to": "f", "label": "transforms"}
+    ],
+    "note": "The finished work runs from death through resurrection (our new birth) and ascension to the outpouring of the Spirit, who now unveils Christ within us from the inside out."
+  },
+  "caseStudy": {
+    "title": "Never sure I'm really saved",
+    "scenario": "Daniel, 31, has 'asked Jesus into his heart' at least a dozen times since he was a teenager, unsure whether it 'took'. Before communion he anxiously searches his memory for unconfessed sins, sometimes skipping it out of fear. He hates parts of himself, especially his temper, and avoids thinking about them. He feels God is angry with him whenever things go badly.",
+    "analysis": "Daniel is living in the dualistic frame Wauchope critiques: a separated God, with being born again as a ticket he must secure. In Wauchope's reading he was born again in Christ's resurrection; Christ is in him and he did not put Him there. God's wrath is aimed at what traps him, not at him. Communion is a celebration of forgiveness and of Christ within, and even in the parts Daniel avoids, Christ is already present to show him the Father's face.",
+    "pathway": [
+      "Read 1 Peter 1:3 and Ephesians 2:4-5 and notice the past tense: 'has begotten', 'made us alive'.",
+      "Stop re-asking Jesus in. Instead pray, 'Thank you that you are already here; help me see you.'",
+      "Approach communion with thanksgiving: 'You've forgiven me; You've placed Jesus in me.'",
+      "Gently turn toward his temper, asking, 'Jesus, You're already here; show me Dad's face in this.'",
+      "Consider anger-management support or counselling for the temper, alongside this spiritual reframing."
+    ]
+  },
+  "practices": [
+    {"name": "Finding, not inviting", "how": "Each morning replace 'Come into my life' with 'Thank you that You're already in me; let me notice You today.'"},
+    {"name": "Celebration communion", "how": "Share bread and wine, ideally as part of a meal with friends, naming aloud one thing Christ has done rather than one sin you've committed."},
+    {"name": "Visiting the avoided room", "how": "Spend five minutes with a part of yourself you dislike, asking Jesus, who is already there, to show you the Father's face in it."}
+  ],
+  "reflection": [
+    "How does 'born again means raised with Jesus' change your sense of security?",
+    "Do you experience God's wrath as aimed at you, or at what traps you?",
+    "Which part of yourself do you avoid, and what would it mean that Christ is already there?"
+  ],
+  "quiz": [
+    {"q": "According to Wauchope's reading of 1 Peter 1:3, what does it mean to be 'born again'?", "options": ["To have an emotional conversion experience", "To be resurrected with Jesus in His resurrection", "To be baptised as an adult", "To join a church"], "answer": 1, "explain": "God has begotten us again through the resurrection of Jesus Christ."},
+    {"q": "Against what is God's wrath directed in Isaiah 63, as Wauchope reads it?", "options": ["Humanity's imperfection", "Those who doubt", "Whatever kept humanity trapped and blocked their adoption", "Unconfessed sins"], "answer": 2, "explain": "The climax is 'the year of my redeemed has come': fury against our captivity."},
+    {"q": "Why does Wauchope contrast 120 followers with 3,000 converts?", "options": ["The apostles were better preachers than Jesus", "Crowds were bigger at Pentecost", "Jesus deliberately limited His followers", "After the ascension, the Spirit was poured out through Christ on all flesh"], "answer": 3, "explain": "Having dealt with humanity's flesh, the ascended Christ poured the Spirit on all humanity."}
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "session": 7,
+  "videoId": "haMLSg1gxbc",
+  "youtubeTitle": "The Gospel and Soul Health Session 7 - Dr Bruce Wauchope",
+  "volume": "",
+  "chapter": "Key Themes: 7th Non-negotiable - The loving family, Father, Son and Spirit, will do whatever is required to complete their Love Story",
+  "topic": "Whatever It Takes: The Lamb Slain Before Creation",
+  "summary": "The seventh non-negotiable is that Father, Son and Spirit will do whatever is required to complete their love story. Because persons only truly relate in freedom, a free creation would inevitably go dark, so our forgiveness was given in Christ before time began and the Lamb was slain from the foundation of the world: the Incarnation and cross are not Plan B. Jesus came not to secure forgiveness, which already existed, but to save and heal us, which requires participation rather than control. Since darkness is life without love and cannot see love, God faced an enormous communication problem with a conscience-driven humanity, and so gave 'furniture of the imagination' (Torrance) through Abraham, Moses and the tabernacle. Bruce rejects a pagan, magical reading of the blood as paying off God, which leaves the flesh untouched; instead Christ's blood is his healed human life poured into the cosmos, he is the mercy seat, and the Father is satisfied because he finally has the relationship he always wanted.",
+  "keyPoints": [
+    "Recap: everything is made in the Word like a womb; he gives zoe; darkness is life without love; Jesus entered not just creation but our loveless darkness, and what we did to him affected us, then and now.",
+    "We were saved and called by grace 'given to us in Christ Jesus before time began' (2 Timothy 1:9): we were forgiven before we were created.",
+    "Our killing of God and our darkness were allowed for; God met our violence with non-violence and, through it, did our violence in.",
+    "The Lamb was slain from the foundation of the world: this is about freedom and personhood, since persons are not persons unless they freely relate, and a free creation would go dark.",
+    "It is not Plan B: one of the Trinity would have to breach the Creator-created 'event horizon'; in light he would be loved, in darkness beaten up, and he was ready for it.",
+    "'You shall call his name Jesus, for he will save his people' (Matthew 1:21): it does not say forgive, because we are already forgiven; he has come to fix us, and Jesus forgave sins before the cross.",
+    "Healing comes not through control but through participation, sharing and our agreement; we must not build theology from within our own brokenness and conscience ('ask Jesus to repent and believe in our theology', Kruger).",
+    "God's communication problem: Love must enter a race blind to love and driven by the conscience (the tree of good and evil, effectively the tree of death), so we will misrepresent God.",
+    "God gave 'furniture of the imagination' (Torrance) through Abraham, Moses, the tabernacle and its images, not so we could sort ourselves out, but so the coming of Christ would have traction.",
+    "The high priest bore twelve coloured stones on his chest and black onyx stones on his shoulders, foreshadowing Jesus carrying humanity's light and darkness into the holy place.",
+    "The view that Jesus' blood mathematically pays off God for sins is pagan, magical and leaves the flesh unchanged, because it focuses on the fruit (sins) rather than the factory (the flesh).",
+    "In union terms, Christ's blood is his redeemed human life poured into the cosmos (water and blood from his side); he is the mercy seat, and the Father is satisfied not as a blood-sucking monster but because he has what he always wanted: relationship with the human race."
+  ],
+  "keyTerms": [
+    {"term": "Seventh non-negotiable", "definition": "Father, Son and Spirit will do whatever is required to complete their love story."},
+    {"term": "Lamb slain from the foundation of the world", "definition": "God's self-giving love was built into creation from the start, anticipating our darkness."},
+    {"term": "Freedom and personhood", "definition": "Persons are only persons if they freely relate; therefore creation was made free, with darkness possible."},
+    {"term": "Furniture of the imagination", "definition": "Torrance's phrase for the structures, images and practices God gave Israel so Christ could be recognised."},
+    {"term": "Event horizon", "definition": "The Creator-created divide that one of the Trinity had to breach."},
+    {"term": "Fruit versus factory", "definition": "The distinction between sins (fruit) and the flesh that produces them (factory); atonement must heal the factory."},
+    {"term": "Mercy seat", "definition": "The meeting place between God and humanity, which Christ is in himself."},
+    {"term": "Blood of Christ", "definition": "His cleaned-up, redeemed human life poured out into creation, not a payment to God."}
+  ],
+  "scriptures": ["John 14:20", "2 Timothy 1:9", "Revelation 13:8", "1 Peter 1:18-20", "Acts 2:23", "Matthew 1:21", "Matthew 9:6", "John 17:26", "Hebrews 9:11-12", "Revelation 21:3", "Exodus 28:9-21", "John 19:34", "Romans 5:5"],
+  "quotes": [
+    "When were you forgiven? Before you were a glint in your Dad's eye.",
+    "This is not plan B, guys.",
+    "It doesn't say forgive. We're already forgiven. He's come to fix us.",
+    "Dad is satisfied, not because He's a blood-sucking monster, but because He's got what He wants."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Two Readings of the Blood",
+    "nodes": [
+      {"id": "l1", "label": "Separation frame", "detail": "God and humanity are apart; sin is a debt.", "side": "left"},
+      {"id": "l2", "label": "Blood pays God off", "detail": "Infinite perfect blood covers a pile of sins.", "side": "left"},
+      {"id": "l3", "label": "Focus on fruit", "detail": "Deals with sins but ignores the flesh that produces them.", "side": "left"},
+      {"id": "l4", "label": "Flesh unchanged", "detail": "A pagan, magical transaction that leaves us unhealed.", "side": "left"},
+      {"id": "r1", "label": "Union frame", "detail": "Christ holds all things and is one with Father and Spirit.", "side": "right"},
+      {"id": "r2", "label": "Carries our darkness", "detail": "Like the high priest's onyx stones, he bears humanity's darkness.", "side": "right"},
+      {"id": "r3", "label": "Healed life poured out", "detail": "His redeemed human life baptises the cosmos.", "side": "right"},
+      {"id": "r4", "label": "Father satisfied by relationship", "detail": "He is the mercy seat; we are brought home.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "l1", "to": "l2"},
+      {"from": "l2", "to": "l3"},
+      {"from": "l3", "to": "l4"},
+      {"from": "r1", "to": "r2"},
+      {"from": "r2", "to": "r3", "label": "works through"},
+      {"from": "r3", "to": "r4"}
+    ],
+    "note": "Contrasts a transactional, separation-based reading of Christ's blood with Bruce's union-based reading of it as healed life."
+  },
+  "caseStudy": {
+    "title": "Mark and the debt he can't repay",
+    "scenario": "Mark, 40, became a Christian in his twenties and was taught that Jesus' blood paid the debt he owed God. He believes he is forgiven, yet his anger, cynicism and compulsive spending have not changed in years. He concludes that either his faith is fake or God does not care about the rest of him. He has started skipping church because he feels like a fraud.",
+    "analysis": "Mark's framework deals only with the fruit (sins) and not the factory (the flesh). Bruce argues forgiveness was settled before creation, and Jesus came to save and heal, which happens through participation rather than control. His unchanged patterns are not proof that his faith is fake but an invitation to let Christ's healed life meet the parts of him still in darkness.",
+    "pathway": [
+      "Shift the question from 'Am I forgiven?' (yes, from before time) to 'Where do I need healing?'",
+      "Identify the pain or fear underneath the anger and spending rather than just the behaviours.",
+      "Pray participatively: 'Jesus, share your healed life with me in this place.'",
+      "Use Torrance's 'furniture' idea: read Hebrews 9 and picture Jesus carrying his darkness into the Father's presence.",
+      "Find one safe person or group to be honest with rather than withdrawing.",
+      "Seek a counsellor or financial counsellor if anger or spending is causing harm."
+    ]
+  },
+  "practices": [
+    {"name": "Fruit to factory", "how": "When you notice a recurring sin, write it down and ask, 'What pain, fear or lie is the factory producing this?' Bring that root to God."},
+    {"name": "Onyx stones prayer", "how": "Picture Jesus as the high priest carrying both your coloured stones (gifts) and black stones (darkness) into the Father's presence, and rest there for a few minutes."},
+    {"name": "Before time began", "how": "Memorise 2 Timothy 1:9 and repeat it when you feel the need to earn forgiveness."}
+  ],
+  "reflection": [
+    "How does it change things to know you were forgiven before you were created?",
+    "Have you been focusing more on your sins (fruit) or on your flesh (factory)?",
+    "What does it mean that the Father is 'satisfied' by relationship rather than payment?"
+  ],
+  "quiz": [
+    {"q": "Why, according to Bruce, was the Lamb 'slain from the foundation of the world'?", "options": ["God planned to punish humanity", "God made a free creation and committed to dealing with its darkness", "Adam's sin forced a change of plan", "Sacrifices were required by the angels"], "answer": 1, "explain": "Freedom and personhood meant darkness would come, and God committed to whatever was required from the start."},
+    {"q": "What does Matthew 1:21 say Jesus will do, per Bruce's emphasis?", "options": ["Forgive his people", "Judge his people", "Teach his people the law", "Save his people"], "answer": 3, "explain": "We were already forgiven; he came to save and heal."},
+    {"q": "What is Torrance's 'furniture of the imagination'?", "options": ["Structures God gave Israel so Christ could have traction", "Church buildings and decorations", "Human-made idols", "The fruit of the knowledge of good and evil"], "answer": 0, "explain": "The tabernacle, images and practices prepared minds to recognise Christ."}
+  ]
+}

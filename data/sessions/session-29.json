@@ -1,0 +1,86 @@
+{
+  "session": 29,
+  "videoId": "pE2-AVDUJUc",
+  "youtubeTitle": "The Gospel and Soul Health Session 29 - Dr Bruce Wauchope",
+  "volume": "Volume 2 - Christian Fish in Greek Soup",
+  "chapter": "Session 3",
+  "topic": "Wrath, judgment, hell and the universalism question",
+  "summary": "Bruce reframes wrath, vengeance and the fear of God through the Trinity's eternal purpose of love. Wrath is God's opposition to whatever stops us receiving love, vengeance is God 'getting His kids back', and the fear of God is awe at a relationship too precious to damage. Fear-based preaching increases sin and inner fragmentation. Judgment is not about a ledger of sins, which the Lamb has taken away, but centres on Jesus and one question: 'Will you let Me love you, and will you live without hurting others?' Hell is not separation from God, a Greek idea, but exists within Christ who holds all things together: those who refuse love experience its full strength in the presence of the Lamb. Bruce argues that limited atonement and mechanistic universalism are 'bedfellows' resting on dualism, and that both miss relationship. We are given neither a mechanism nor a formula, but a Person to relate to.",
+  "keyPoints": [
+    "God's wrath is not punitive or tit-for-tat. It is the Trinity pushing back against whatever opposes their purpose of love for us. Vengeance (Isaiah 61, 63) means 'I got my own back: I got my kids.'",
+    "Using fear of hell and law to motivate does not work: the more sin is preached, the more people sin. It also creates more internal parts, dissociation and fragmentation in people.",
+    "The fear of God, following Baxter Kruger, is recognising the sacred presence of Father, Son and Spirit in every person, moment and place. It is awe at a relationship so precious I don't want to spoil it, not punitive dread.",
+    "Fear runs on the brain's threat side, where darkness works; God works on the side of love and relationship. Scaredness produces no relationship.",
+    "Judgment is not about sins: the Lamb has taken away the sin of the world (John 1:29; Hebrews 10:14). It centres on Jesus (John 16:8-11) and asks, 'Will you let Me love you and walk with Me?'",
+    "There will be 'nothing hurtful or harmful in all my holy mountain' (Isaiah 11:9). Those unwilling to let Christ love them, and so to live with others, cannot come in to hurt people.",
+    "The New Jerusalem's gates never shut (Revelation 21:25). Those outside are named by their wrongs: children of God who don't yet know it and are stuck hurting others. Inside are people who did the same things but discovered who they are.",
+    "Hell is not 'separation from God'. Revelation 14:10 places torment 'in the presence of the Lamb'. Christ is Lord of all; Satan lost the keys of Hades and is not lord of hell.",
+    "God is only love and does not have two faces. Those who refuse love receive the full strength of the love of God, the lake of fire as a consuming love.",
+    "Quoting T. F. Torrance, limited atonement and universalism are 'bedfellows': both rest on the same causal, dualistic foundation of separation and treat salvation as a mechanism of getting in.",
+    "To say anything can exist apart from God implicitly denies that Jesus is God, the One who holds all things together (Colossians 1:17). Both errors also miss relationship, personhood and freedom.",
+    "Bruce preaches neither limited atonement nor universalism but Christ in you, with the invitation to let Him love you, and hopes all will respond. The story of an atheist patient who experienced joy and the Spirit through simply saying 'thank you' shows people meeting a Being before they know His name."
+  ],
+  "keyTerms": [
+    {"term": "Wrath of God", "definition": "God's opposition to everything that blocks His eternal purpose of love for us; not punitive retribution."},
+    {"term": "Vengeance of God", "definition": "Father, Son and Spirit getting back what is theirs: their children."},
+    {"term": "Fear of God", "definition": "Reverent awe at the sacred presence of the Trinity and a relationship too precious to damage."},
+    {"term": "Judgment", "definition": "An encounter with Jesus centred on whether we will let Him love us and live in love with others, not a ledger of sins."},
+    {"term": "Hell (in Bruce's frame)", "definition": "Not separation from God but existence in His presence while refusing love, experienced as the full strength of consuming love."},
+    {"term": "Limited atonement", "definition": "The view that Christ's work applies only to some; resting on a frame of separation."},
+    {"term": "Mechanistic universalism", "definition": "The view that everyone is automatically in, regardless of relationship; also resting on dualistic, causal logic."},
+    {"term": "Perichoresis", "definition": "Distinction in union: the relational framework in which persons participate freely in the Trinity's life."}
+  ],
+  "scriptures": ["Isaiah 61:2", "Isaiah 63:4", "John 1:29", "Hebrews 10:14", "John 16:8-11", "2 Corinthians 5:10", "Isaiah 11:6-9", "Revelation 21:25", "Revelation 22:15", "Luke 16:19-31", "Colossians 1:16-17", "Revelation 14:9-10", "Revelation 1:18", "Revelation 20:10", "John 14:9", "1 Timothy 2:4", "Joel 2:28", "Hebrews 12:29"],
+  "quotes": [
+    "The fear of God is that God is so beautiful and my relationship is so important I'm not going to do anything to screw this up.",
+    "Whatever hell is, it is not separated from God.",
+    "Limited atonement and universalism are bedfellows.",
+    "We're not given limited atonement and we're not given universalism; we're given Jesus Christ."
+  ],
+  "diagram": {
+    "type": "hierarchy",
+    "title": "Starting Point Shapes the Outcome",
+    "nodes": [
+      {"id": "a", "label": "Starting with separation", "detail": "God over there, the universe over here: the Greek, dualistic frame."},
+      {"id": "b", "label": "Limited atonement", "detail": "Christ's work only gets some across the divide."},
+      {"id": "c", "label": "Mechanistic universalism", "detail": "Everyone is automatically across, regardless of relationship."},
+      {"id": "d", "label": "Starting with Colossians 1", "detail": "All things are made in and held together by Christ; nothing exists apart from Him."},
+      {"id": "e", "label": "A Person, not mechanism", "detail": "Christ in all asks each person: 'Will you let Me love you?'"},
+      {"id": "f", "label": "Free participation", "detail": "Relationship, personhood and choice continue; the gates stay open."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "yields"},
+      {"from": "a", "to": "c", "label": "yields"},
+      {"from": "d", "to": "e", "label": "yields"},
+      {"from": "e", "to": "f", "label": "invites"}
+    ],
+    "note": "The two familiar positions both grow from the separation root. Bruce's alternative grows from union in Christ and centres on relationship rather than outcome."
+  },
+  "caseStudy": {
+    "title": "Saved by fear",
+    "scenario": "Marcus, 19, became a Christian at a youth event after a vivid sermon on hell. He now lives with constant anxiety about whether he has done enough, sometimes cannot sleep, and feels split between a 'good church self' and a hidden self he is ashamed of. When friends question hell he feels panicky and argues aggressively. His relationship with God feels like a contract under threat.",
+    "analysis": "Marcus's faith was formed in the brain's threat state, which Bruce says increases sin, fragmentation and internal 'parts' rather than relationship. His split selves reflect this. Bruce's framework recasts judgment as meeting Jesus, who asks, 'Will you let Me love you?', and hell not as separation but as refusing love in God's presence. The fear of God becomes awe at a precious relationship rather than terror of punishment.",
+    "pathway": [
+      "Recognise, without shame, that fear-based teaching may have pushed his brain into threat mode.",
+      "Reflect on John 16:8-11 and Hebrews 10:14: judgment centres on Jesus, and sins are already dealt with.",
+      "Practise hearing Christ's question, 'Will you let Me love you?', and answering simply, even with 'I'll try.'",
+      "Gently welcome his hidden, ashamed self into Christ's love rather than hiding it.",
+      "If anxiety and insomnia persist, see a GP or counsellor; spiritual reframing and professional care can go together."
+    ]
+  },
+  "practices": [
+    {"name": "Sacred presence pause", "how": "Three times a day, stop and say, 'Father, Son and Spirit, You are present here, in this person, this moment, this place.' Let awe, not fear, shape the moment."},
+    {"name": "The basic prayer for every meeting", "how": "Before a conversation, pray silently: 'Holy Spirit, You're already at work in this person and Christ is in them. How do You want me to take part?'"},
+    {"name": "The one question", "how": "End the day by hearing Jesus ask, 'Will you let Me love you?' Notice your honest answer and where you resist, and offer that to Him."}
+  ],
+  "reflection": [
+    "Has fear or awe mainly shaped my relationship with God, and what has each produced in me?",
+    "How does seeing judgment as meeting Jesus, rather than reviewing a ledger, change my feelings about death?",
+    "When I argue about who is 'in' or 'out', what does that show about my own need for control or security?"
+  ],
+  "quiz": [
+    {"q": "What does Bruce say the fear of God is?", "options": ["Terror of eternal punishment", "Awe at God's sacred presence and a relationship too precious to damage", "Anxiety about breaking the law", "Fear of other people's judgment"], "answer": 1, "explain": "Following Kruger, it is recognising the Trinity's sacred presence everywhere, an awe that guards a precious relationship."},
+    {"q": "Why does Bruce call limited atonement and universalism 'bedfellows'?", "options": ["Both teach that everyone is saved", "Both come from Hebrew thought", "Both rest on a dualistic, separation-based, mechanistic foundation", "Both were taught by Athanasius"], "answer": 2, "explain": "Both begin from separation and treat salvation as a mechanism, missing relationship."},
+    {"q": "According to Revelation 14:10 as Bruce reads it, where does torment occur?", "options": ["In the presence of the Lamb and the holy angels", "Completely separated from God", "In a realm ruled by Satan", "Nowhere; hell does not exist"], "answer": 0, "explain": "Hell is not separation from God; it occurs in the presence of the Lamb, who holds all things together."}
+  ]
+}

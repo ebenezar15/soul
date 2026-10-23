@@ -1,0 +1,211 @@
+{
+  "session": 59,
+  "videoId": "WroE3Ou1NE8",
+  "youtubeTitle": "Gospel and Soul Health Session 59 (Final) - Dr Bruce Wauchope",
+  "volume": "Volume 3 - Soul Health",
+  "chapter": "Chapter 4 - The Amygdala, Trauma and Darkness (Session 6)",
+  "topic": "Soul healing review: a recursive love story",
+  "summary": "In the final session Bruce draws the whole series together into a review of how soul healing works in a person's life. The foundation is hearing the gospel of union with no separation running, and being aware of Christ in you, with the Holy Spirit sharing the Father's love for Jesus with you. On that base you release agreements with darkness, receive love and let it flow, restore boundaries, stop judging, learn to grieve, sort out coping mechanisms and spins, process emotion, face injustice, and meet your core pains with Jesus in you. He stresses these are not linear steps but recursive growth, spiralling deeper, and each person's order is unique and sacred. He then reviews the 'complex' material on mind control and occult darkness: the gospel cancels every covenant, there is only one power source (Zoe, the life of Christ), and healing comes through calling your life back, closing boundaries and dealing with soul alignments. The whole process is a love story, not an accountant's movie.",
+  "keyPoints": [
+    "The foundation of healing is the gospel of union: if separation is allowed to run in your being, your parts will never come back together, because a gospel of separation cannot heal.",
+    "Awareness of Christ in you (2 Corinthians 13:5) is central; if you cannot see it, ask the Holy Spirit to show where you are in agreement with darkness.",
+    "Following John 16, the Holy Spirit takes what is Jesus' (the Father's love) and shares it with you, so you carry a living Helper you can talk to, which is better than any self-help program.",
+    "Locus of control stays with you: other people cannot 'drive you spare'; you feel driven by what they do, so the response is yours to bring to God.",
+    "Releasing agreements with darkness (negative beliefs about yourself, wrong involvements) does not change how God feels about you; it removes your blinders so you can participate.",
+    "Jesus' command 'love one another as I have loved you' starts with receiving: let him love you, so love flows into loving yourself and others.",
+    "Restoring boundaries and stepping out of judgment (praise or blame are both judgments) often produces a stiff, 'obnoxious' phase before you become fluent; the inner judge is renewed to ask whether you are walking in the life and love of Christ.",
+    "You learn to grieve what cannot change, sort good copings (like his morning swim in the sea) from destructive ones that feed downward spins, and integrate your parts by sitting with emotion, breathing through it in the body.",
+    "Injustice has to be processed, because intentional harm creates a trap that blocks forgiveness; once dealt with, you can 'fly' and meet your core pains (feeling alone, scared, hurt) with Jesus in you.",
+    "These are not steps but growths: the process is recursive, circling the clock and spiralling deeper, and each person's order is unique and sacred, with no cookie-cutter human.",
+    "On mind control and occult darkness: because you died with Christ, the law of sin and death cannot be used against you, so all covenants and agreements are void; call your life back, remove what is not you, and pray your boundaries closed.",
+    "There are not two kingdoms with two power sources; there is only one power pack, Zoe, the personal life of Christ, and darkness is simply life that does not know love. Agreements with darkness are like tuning your soul to a radio frequency, including family and cultural blindnesses."
+  ],
+  "keyTerms": [
+    {
+      "term": "Gospel of union",
+      "definition": "The good news that humanity is included in Christ and the Trinity is in us, with no separation; the only gospel that can heal the soul."
+    },
+    {
+      "term": "Agreement with darkness",
+      "definition": "A belief or involvement that aligns the soul with lies or destructive drives, blinding us to the love already present; likened to tuning to a radio frequency."
+    },
+    {
+      "term": "Zoe",
+      "definition": "The personal life of Christ, the only 'power pack' of the universe, which even darkness misuses."
+    },
+    {
+      "term": "Spins",
+      "definition": "Downward cycles in which destructive coping feeds back and creates more pain."
+    },
+    {
+      "term": "Black hole",
+      "definition": "The walled-off core pain of the soul where a person felt unloved, alone, scared and hurt."
+    },
+    {
+      "term": "Recursive healing",
+      "definition": "Healing as an ongoing spiral of growth through the same areas at deeper levels, in an order unique to each person."
+    },
+    {
+      "term": "Internal judge",
+      "definition": "The inner moral accuser that, once renewed, serves life and love by asking whether we are walking in Christ's life."
+    }
+  ],
+  "scriptures": [
+    "2 Corinthians 13:5",
+    "John 16:14-15",
+    "John 13:34",
+    "John 17:21"
+  ],
+  "quotes": [
+    "It's not a horror movie, it's a love story.",
+    "The dodgy gospel of separation can't heal you.",
+    "There isn't a perfect order. Each of you is sacred and your order is sacred.",
+    "There's only one power pack for the universe: it's Zoe, the personal life of Christ."
+  ],
+  "diagram": {
+    "type": "cycle",
+    "title": "The recursive journey of soul healing",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "Gospel of union",
+        "detail": "Christ in you, no separation running, the Spirit sharing the Father's love."
+      },
+      {
+        "id": "b",
+        "label": "Release agreements with darkness",
+        "detail": "Let the Spirit show lies and alignments so blinders come off."
+      },
+      {
+        "id": "c",
+        "label": "Receive and flow love",
+        "detail": "Let Jesus love you so you can love yourself and others."
+      },
+      {
+        "id": "d",
+        "label": "Boundaries and no judging",
+        "detail": "Restore healthy boundaries and step out of praise-and-blame judgment."
+      },
+      {
+        "id": "e",
+        "label": "Grieve, sort copings, spins",
+        "detail": "Accept what cannot change and replace destructive coping."
+      },
+      {
+        "id": "f",
+        "label": "Process emotion and injustice",
+        "detail": "Sit with parts, breathe through feelings, resolve the injustice trap."
+      },
+      {
+        "id": "g",
+        "label": "Meet core pain with Jesus",
+        "detail": "Ask the Spirit to share Jesus' love with the hurting part of you."
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "b",
+        "label": "reveals"
+      },
+      {
+        "from": "b",
+        "to": "c",
+        "label": "opens"
+      },
+      {
+        "from": "c",
+        "to": "d",
+        "label": "strengthens"
+      },
+      {
+        "from": "d",
+        "to": "e",
+        "label": "makes room"
+      },
+      {
+        "from": "e",
+        "to": "f",
+        "label": "surfaces"
+      },
+      {
+        "from": "f",
+        "to": "g",
+        "label": "leads to"
+      },
+      {
+        "from": "g",
+        "to": "a",
+        "label": "deepens"
+      }
+    ],
+    "note": "These are growths, not linear steps: a person circles round repeatedly, spiralling deeper, in an order unique to them."
+  },
+  "caseStudy": {
+    "title": "Starting again, deeper",
+    "scenario": "Mark has done a lot of inner work over two years: he set boundaries with his mother, stopped drinking to cope and joined a support group. After a recent redundancy he finds old shame and anger flooding back and concludes he has 'failed' at healing. He has started criticising himself harshly and withdrawing from his group.",
+    "analysis": "Bruce's framework would see this not as failure but as the recursive spiral coming round again at a deeper level. The redundancy has touched core pain and possibly stirred an injustice trap. The return of the internal judge and the pull to withdraw suggest separation thinking is running again, so the starting point is the gospel of union: Christ is in him, loving him, and his healing community is part of the process.",
+    "pathway": [
+      "Return to the foundation: rest in the truth that Christ is in him and the Father's love has not changed.",
+      "Ask the Holy Spirit to show any agreements with darkness, such as 'I'm a failure', and renounce them.",
+      "Notice the judge's voice and reframe it: 'Am I walking in life and love right now?'",
+      "Name the injustice of the redundancy honestly and work through it rather than suppressing it.",
+      "Sit with the anger and shame, breathing through them, and ask the Spirit to share Jesus' love with that part of him.",
+      "Re-engage his support community, and see a counsellor if low mood persists or deepens."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Helper prayer",
+      "how": "When an emotion or person overwhelms you, pray simply: 'Holy Spirit, please take what Jesus has and share it with this part of me.' Wait quietly and notice what changes."
+    },
+    {
+      "name": "Healing clock review",
+      "how": "Once a month, look at the areas (gospel, agreements, love, boundaries, judging, grief, coping, emotion, injustice, core pain) and ask which one is 'up' for you now, without treating it as a checklist."
+    },
+    {
+      "name": "Evening part-holding",
+      "how": "If an emotion surged during the day and you parked it, set aside ten minutes that night to recall it, breathe through it in your body and welcome whatever memory comes."
+    }
+  ],
+  "reflection": [
+    "Where might a gospel of separation still be running in your thinking about God or yourself?",
+    "Which area of the healing 'clock' seems to be coming round again for you at a deeper level?",
+    "How does seeing healing as a love story rather than an accountant's ledger change how you treat your setbacks?"
+  ],
+  "quiz": [
+    {
+      "q": "According to Bruce, what is the foundation that must be running for the soul's parts to come back together?",
+      "options": [
+        "A strict moral discipline",
+        "Deliverance from demons",
+        "A perfect order of healing steps",
+        "The gospel of union with no separation"
+      ],
+      "answer": 3,
+      "explain": "He says a gospel of separation cannot heal; union must be running."
+    },
+    {
+      "q": "How does Bruce describe the order of the healing process?",
+      "options": [
+        "A fixed twelve-step sequence",
+        "Something only experts can determine",
+        "Recursive and unique to each person",
+        "Irrelevant once you are saved"
+      ],
+      "answer": 2,
+      "explain": "He calls it recursive, spiralling deeper, with each person's order sacred."
+    },
+    {
+      "q": "What does Bruce say is the single 'power pack' of the universe?",
+      "options": [
+        "Zoe, the personal life of Christ",
+        "The kingdom of Satan",
+        "Human willpower",
+        "The moral law"
+      ],
+      "answer": 0,
+      "explain": "He rejects two kingdoms: there is only Zoe, the life of Christ, which darkness misuses."
+    }
+  ]
+}

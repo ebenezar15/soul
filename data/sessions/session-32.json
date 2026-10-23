@@ -1,0 +1,88 @@
+{
+  "session": 32,
+  "videoId": "aRZQW1RLmig",
+  "youtubeTitle": "The Gospel and Soul Health Session 32 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 1: Outline of Soul Healing (Session 2)",
+  "topic": "Personhood, responsibility and removing the inner judge",
+  "summary": "Bruce contrasts a person, who exists in a network of relationships like Father, Son and Spirit, with the Western 'individual' defined by Boethius as an individual substance of rational nature. Using a volunteer, he demonstrates personal space as a bounded field around each of us, which abuse can push out enormously, and describes intimacy as two persons sharing each other's core while remaining distinct. Moral good-bad assessment shuts down intimacy, which is why the tree of the knowledge of good and evil is a tree of death. Healthy personhood means being fully free and fully responsible for my own thoughts, emotions and actions, and responsible to others rather than for them; others are stimuli, not the source of my feelings. Self-responsibility does not mean self-fixing: we choose and ask the Spirit for what Jesus has. As Christ's forgiveness shuts down the judge, guilt drops, fear loosens, the amygdala can switch to love, the freeze is undone and the body can begin processing trauma.",
+  "keyPoints": [
+    "The 'rugged individual' who needs nobody is close to a definition of hell; Father, Son and Spirit are a community, and a person exists in relationships and community.",
+    "A candle shining into endless space with no reflection never knows itself; we are only known as we engage with and reflect off others.",
+    "Boethius's definition of a person as 'an individual substance of rational nature' (from Neoplatonic thought) leaves out relationship and community.",
+    "Each person has a personal space, a bounded 'field' (around two metres for the volunteer) that others can feel entering; abused people may push this boundary out to forty metres, making crowds and planes very hard.",
+    "Intimacy is sharing another's core while remaining distinct, as Father, Son and Spirit are fully in each other yet fully distinct; the path there requires loving, non-abusive conduct.",
+    "Good-bad moral assessment shuts down relational life; the tree of morality is the tree of death because it kills intimacy.",
+    "Refusing self-responsibility ('you made me do it', 'the woman you gave me') is like pouring superglue into the lock that could set us free.",
+    "A person is fully free and fully responsible for their own emotions, thoughts and actions, and responsible to others, not for them; others are stimuli, not the source of my emotions (his daughter Zoe: 'you freaked me').",
+    "The drama triangle (perpetrator, rescuer, victim) is a non-personhood pattern in which each role disowns responsibility.",
+    "Self-responsibility is not self-fixing: Jesus' first command is 'let me love you', and we take responsibility by asking the Spirit for what Jesus has, because we are already accepted.",
+    "We fear facing ourselves because the accuser runs and we don't realise that at the bottom of our black hole we will meet Christ.",
+    "Healing chain: forgiveness shuts down the judge, guilt drops, the padlock of guilt on fear is undone, the amygdala switch moves to love, the freeze is released and body, mind and emotions can process trauma."
+  ],
+  "keyTerms": [
+    {"term": "Person", "definition": "A being who exists in a network of relationships and community, modelled on Father, Son and Spirit."},
+    {"term": "Individual", "definition": "The Western, Boethian idea of an isolated substance of rational nature, without relationship."},
+    {"term": "Personal space (soul boundary)", "definition": "The bounded field around a person within which others' presence is felt."},
+    {"term": "Intimacy", "definition": "Sharing another's core while remaining fully distinct."},
+    {"term": "Responsible for / responsible to", "definition": "I am responsible for my own thoughts, emotions and actions, and responsible to others to love them, but not for their emotions."},
+    {"term": "Stimulus", "definition": "What another person provides; they can trigger but cannot cause my emotions."},
+    {"term": "Drama triangle", "definition": "Perpetrator, rescuer and victim roles, each disowning responsibility."},
+    {"term": "Amygdala switch", "definition": "The brain nuclei that screen inputs for threat or acceptance, switching between fear and love."}
+  ],
+  "scriptures": ["Genesis 2:17", "Genesis 3:12", "John 17:26"],
+  "quotes": [
+    "A person exists in a network of relationships as part of a community.",
+    "I'm a stimulus for you; I can't freak you.",
+    "I'm responsible to you, not for you.",
+    "If you drop through your black hole, you'll meet me."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "Removing the judge: the unlocking chain",
+    "nodes": [
+      {"id": "a", "label": "Forgiveness received", "detail": "Knowing Christ's free forgiveness shuts down the inner judge."},
+      {"id": "b", "label": "Guilt removed", "detail": "Without the accuser's verdict, guilt drops away."},
+      {"id": "c", "label": "Fear unlocked", "detail": "The padlock that guilt holds on fear is undone."},
+      {"id": "d", "label": "Amygdala switches to love", "detail": "The brain's screening shifts from threat toward acceptance and relating."},
+      {"id": "e", "label": "Freeze released", "detail": "Body, mind and emotions are no longer locked."},
+      {"id": "f", "label": "Trauma can process", "detail": "Half-processed pain can flow through and be sorted."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "shuts down judge"},
+      {"from": "b", "to": "c", "label": "unlocks"},
+      {"from": "c", "to": "d", "label": "allows"},
+      {"from": "d", "to": "e", "label": "releases"},
+      {"from": "e", "to": "f", "label": "enables"}
+    ],
+    "note": "Bruce's first step of healing: each link loosens the next, from forgiveness to embodied processing of trauma."
+  },
+  "caseStudy": {
+    "title": "\"You made me so angry\"",
+    "scenario": "Daniel and his partner argue weekly. Each fight ends with Daniel saying, 'You made me lose it,' and his partner replying, 'I only did that because you ignored me.' Both keep score of who is right and wrong. Daniel feels increasingly distant and alone, and closeness has dried up.",
+    "analysis": "Both are handing their emotions to the other and running the good-bad assessment that Bruce calls the tree of death for relationships. Neither is acting as a person who is responsible for their own feelings and responsible to the other. The accuser keeps the 'lock' glued shut.",
+    "pathway": [
+      "Daniel reframes: 'Your behaviour was a stimulus; my anger is mine.'",
+      "He notices when he slips into perpetrator, victim or rescuer roles.",
+      "He drops the scoring of who is good and bad, and speaks of his own feelings and needs.",
+      "He asks the Spirit for the patience and love he doesn't have in himself.",
+      "The couple consider a counsellor to practise responsible communication.",
+      "Daniel respects his partner's personal space during conflict rather than crowding or withdrawing."
+    ]
+  },
+  "practices": [
+    {"name": "Own the feeling", "how": "Replace 'you made me feel...' with 'when you did X, I felt Y.' Practise it once a day in speech or journaling."},
+    {"name": "Notice your space", "how": "In a quiet moment with a trusted person, notice where you begin to feel their presence. Learn your own boundary without judging it."},
+    {"name": "Responsibility prayer", "how": "Say: 'I take responsibility for this, and I don't have the capacity to fix it. Holy Spirit, bring me what Jesus has here.'"}
+  ],
+  "reflection": [
+    "In which relationship do you most often hand responsibility for your emotions to someone else?",
+    "Where are you trying to be responsible for someone rather than to them?",
+    "What do you fear you would find if you faced your deepest pain, and what would it mean to meet Christ there?"
+  ],
+  "quiz": [
+    {"q": "How does Bruce distinguish a person from an individual?", "options": ["A person is more rational", "A person exists in relationships and community; an individual is an isolated substance", "An individual is more spiritual", "There is no difference"], "answer": 1, "explain": "Personhood is relational, modelled on Father, Son and Spirit."},
+    {"q": "What does 'responsible to you, not for you' mean?", "options": ["I don't need to care about you", "I must fix your emotions", "I owe you love but your emotions belong to you", "You control my feelings"], "answer": 2, "explain": "I am a stimulus, not the source of your emotions, yet I am called to love you."},
+    {"q": "What comes first in Bruce's healing chain?", "options": ["Forgiveness shutting down the judge", "Processing trauma", "The amygdala switching", "The freeze being released"], "answer": 0, "explain": "Forgiveness removes guilt, which then unlocks fear and the rest of the chain."}
+  ]
+}

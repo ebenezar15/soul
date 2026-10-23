@@ -1,0 +1,83 @@
+{
+  "session": 26,
+  "videoId": "Jv3866hBroI",
+  "youtubeTitle": "The Gospel and Soul Health Session 26 - Dr Bruce Wauchope",
+  "volume": "Volume 1",
+  "chapter": "Chapter 4, Session 5",
+  "topic": "The gospel of union: no separation",
+  "summary": "This short session states the gospel of union as the conclusion of the gospel section. Jesus, one with the Father and Spirit and the Creator who sustains all things, has joined himself not only to his own body but to all humanity across history, so that we share in his baptism, death, resurrection and ascension and in his relationship with his Father, now our Dad. He did this while we were dead, helpless, sinners and enemies, without our permission; the union is an indicative fact we cannot make, break or undo. There is no separation, only darkness and blindness which is lifting. Bruce then summarises Perichoresis's statement: proclaiming the undiluted gospel causes a resonance of Christ in us, leading to blown minds, astonished hearts, ignited conversations, soul healing (with mess surfacing for a time), emerging personhood, relationship, community and the coming of the kingdom.",
+  "keyPoints": [
+    "Jesus is one with the Father and Spirit and is the Creator who sang creation into being, so he is in union with all of creation.",
+    "His union extends beyond his own body to all of humanity, backwards and forwards through history, because he holds all things together and took on the form of the old Adam.",
+    "Because of this union we share his life, baptism, death, resurrection and ascension: when we killed him, we died; when he rose, we were born again; when he ascended, we ascended in him.",
+    "We now share his relationship with his Dad, who is now our Dad; Father, Son and Spirit have achieved their pre-creation purpose.",
+    "He did this while we were dead in trespasses, helpless, sinners and enemies, without asking our permission or agreement.",
+    "Christ is in us at the bottom of our mess; we don't ask him in, we find him there.",
+    "The union is an indicative: a fact we did not make and cannot break, forge, undo or change, even if we are unaware of it.",
+    "There is no separation, only darkness and our blindness, which is lifting (John 14:20).",
+    "Perichoresis statement: proclaiming the undiluted gospel causes a resonance of Christ in us, leading to blown minds, astonished hearts and ignited conversations.",
+    "As trust grows, the soul begins to heal and mess surfaces; people look messy for a while but are no messier than when they were 'stainless steel, shut down'.",
+    "Personhood emerges, relationship forms, community grows and the kingdom comes, revisited recursively and ever deeper.",
+    "This completes the gospel third of the series; next comes 'Christian Fish in Greek Soup' (how we lost sight of this) and then the mental health section."
+  ],
+  "keyTerms": [
+    {"term": "Gospel of union", "definition": "The good news that Christ, as Creator and incarnate Son, is united with all humanity, who share his life and relationship with the Father."},
+    {"term": "Indicative", "definition": "A statement of fact already true, not a condition we must fulfil."},
+    {"term": "Undiluted gospel", "definition": "The gospel proclaimed without the dualism and separation of the 'dodgy' Western version."},
+    {"term": "Resonance of Christ", "definition": "The inner recognition that occurs when the undiluted gospel is heard, because Christ is already within."},
+    {"term": "Old Adam", "definition": "Fallen humanity whose form Christ took on in order to heal it."}
+  ],
+  "scriptures": ["John 14:20", "Colossians 1:17", "Ephesians 2:1-6", "Romans 5:6-10", "2 Corinthians 5:14"],
+  "quotes": [
+    "We don't ask him in; we find him in us, at the bottom of our mess.",
+    "There is no separation, just darkness and our blindness, which is lifting.",
+    "This union is an indicative, a fact, a reality.",
+    "People look messy for a period, but they're no messier than they were before."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "Proclaiming the undiluted gospel",
+    "nodes": [
+      {"id": "a", "label": "Undiluted gospel proclaimed", "detail": "Christ is one with the Father and in union with all humanity."},
+      {"id": "b", "label": "Resonance of Christ", "detail": "Christ already in us recognises the truth."},
+      {"id": "c", "label": "Blown minds, astonished hearts", "detail": "People are amazed and conversations ignite."},
+      {"id": "d", "label": "Soul begins to heal", "detail": "Trust grows and suppressed mess surfaces and is sorted."},
+      {"id": "e", "label": "Personhood emerges", "detail": "Knowing the Father's love, we become relational persons."},
+      {"id": "f", "label": "Community and kingdom", "detail": "Relationship forms, community grows, the kingdom comes."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "causes"},
+      {"from": "b", "to": "c", "label": "leads to"},
+      {"from": "c", "to": "d", "label": "leads to"},
+      {"from": "d", "to": "e", "label": "grows"},
+      {"from": "e", "to": "f", "label": "forms"}
+    ],
+    "note": "The Perichoresis statement Bruce presents, from proclamation to kingdom; in practice it is revisited recursively and ever deeper."
+  },
+  "caseStudy": {
+    "title": "Waiting to be let in",
+    "scenario": "Priya grew up hearing that God was distant and that she needed to invite Jesus into her heart, but she never felt sure the invitation 'worked'. She often feels separated from God after a bad week. A friend tells her Christ is already in her, joined to her humanity, and she feels both relief and unease.",
+    "analysis": "Priya has lived from a gospel of separation where union depends on her choice. Bruce teaches union as an indicative fact made by Christ: she cannot make or break it. What she experiences as separation is darkness and blindness, which is lifting.",
+    "pathway": [
+      "Read John 14:20 slowly each day for a week.",
+      "Notice the moments she feels 'separated' and name them as blindness, not reality.",
+      "Replace 'Come into my heart' with 'Thank you that you're already here; open my eyes.'",
+      "Talk through her unease with a trusted friend or group.",
+      "Expect some old pain to surface as trust grows, and let it be held."
+    ]
+  },
+  "practices": [
+    {"name": "Indicative statements", "how": "Each morning say aloud: 'I am in Christ, Christ is in me, his Dad is my Dad. I didn't make this and I can't break it.'"},
+    {"name": "Find, don't ask", "how": "In prayer, instead of asking God to come, spend two minutes noticing that he is already present at the bottom of whatever you feel."}
+  ],
+  "reflection": [
+    "Which parts of your faith depend on you keeping God close rather than on Christ's finished union?",
+    "What would change if you believed there is no separation, only blindness that is lifting?",
+    "How have you seen mess surface as trust grows in yourself or others?"
+  ],
+  "quiz": [
+    {"q": "What does Bruce mean by calling union an 'indicative'?", "options": ["It is a command we must obey", "It is a fact already true that we cannot make or break", "It depends on our faith", "It is a future hope only"], "answer": 1, "explain": "Union is a reality accomplished by Christ, not by us."},
+    {"q": "According to the session, what exists instead of separation?", "options": ["Darkness and our blindness, which is lifting", "God's anger", "A legal debt", "Nothing at all"], "answer": 0, "explain": "There is no separation, only blindness."},
+    {"q": "What follows 'blown minds and astonished hearts' in the Perichoresis statement?", "options": ["Strict discipline", "Withdrawal from community", "Ignited conversations and the soul beginning to heal", "Immediate perfection"], "answer": 2, "explain": "The gospel ignites conversations and starts soul healing."}
+  ]
+}

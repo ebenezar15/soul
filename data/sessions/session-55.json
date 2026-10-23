@@ -1,0 +1,204 @@
+{
+  "session": 55,
+  "videoId": "N7_4AJ8bNyU",
+  "youtubeTitle": "The Gospel and Soul Health Session 55 - Dr Bruce Wauchope",
+  "volume": "Volume 3 - Soul Health",
+  "chapter": "Chapter 4 - The Amygdala, Trauma and Darkness (Session 2)",
+  "topic": "Unprocessed memory, parts, and the occult 'un-occulted'",
+  "summary": "Bruce explains that nearly all experience passes through the amygdala, a running filter that assesses love or fear, before being processed and filed as long-term memory. When fear passes a threshold the memory is not laid down; it stays unprocessed and replays when triggered, producing PTSD responses, hypervigilance and body memories such as chronic pain. Severe or repeated trauma, especially abandonment, can split off parts that gather their own experience, as in dissociative identity, portrayed in culture by Gollum or Jekyll and Hyde. He then 'un-occults' the occult: there is no separate power source for evil, only the life of Christ (Zoe) lived without love, which produces death, and fear is deliberately used to split and control people, whereas love gives freedom. In contrast to fight, flight or faint, Scripture calls us to stand without fear, as Jesus did on the cross, staying human and unafraid to the end.",
+  "keyPoints": [
+    "Nearly all sensory experience passes through the amygdala first, which acts like a running water-quality filter assessing love or fear before the prefrontal cortex evaluates it.",
+    "When fear passes a certain level, the memory is not processed into the long-term 'filing cabinet'; it is held unprocessed with a 'play again' button that triggers replay.",
+    "Unprocessed memories explain PTSD triggers (a door latch, a helicopter) and body memories such as chronic pain that doctors cannot find a cause for.",
+    "Bruce shares that after years working in a war zone, certain things still affect him: unprocessed memory surfacing with age.",
+    "Severe trauma can 'pop off' a part that keeps replaying while the rest of the person accumulates new experience, developing into a person-part; abandonment is the worst trauma.",
+    "He illustrates dissociative parts with a woman who has no memory of nights out or ATM withdrawals, and finds several wardrobes of clothes chosen by different parts.",
+    "Culture recognises this 'flick' between love and fear in Gollum, Jekyll and Hyde, and the Hulk; the same process exists in all of us.",
+    "'Occult' simply means hidden: occult practice uses Zoe, the life of Christ, without love. Life lived in love makes more life; the same life lived in darkness makes death. Evil has no separate battery pack.",
+    "Religion likewise starts from a false reference point of climbing back to God; but Christ is already in you, so the Christian walk is dropping down to meet him, not climbing up.",
+    "Occult imagery and costume exist to generate fear, because fear splits and traps people: 'love gives freedom; darkness controls'.",
+    "Fear responses layer: first startle and freeze (hypervigilance), then fight, flight or faint, and finally submission for prey with no escape.",
+    "Ephesians 6 does not say fight, flee or faint, but stand: Jesus on the cross refused to flip into fear, stayed human to the death, and undid Satan's lie that a person will give anything to save their skin."
+  ],
+  "keyTerms": [
+    {
+      "term": "Amygdala",
+      "definition": "The brain's first filter on incoming experience, constantly assessing for safety (love) or threat (fear)."
+    },
+    {
+      "term": "Unprocessed memory",
+      "definition": "Experience too fearful to be laid down in long-term memory, which stays active and replays when triggered."
+    },
+    {
+      "term": "Body memory",
+      "definition": "Unprocessed pain or emotion felt in the body even when the original cause is gone, such as chronic pain."
+    },
+    {
+      "term": "Person-part",
+      "definition": "A split-off part that keeps gathering its own life experience, as in dissociative identity."
+    },
+    {
+      "term": "Occult",
+      "definition": "Literally 'hidden'; the use of Christ's life (Zoe) without love, to gain power and control through fear."
+    },
+    {
+      "term": "Zoe",
+      "definition": "The life of Christ that holds the universe together; in love it makes life, in darkness it makes death."
+    },
+    {
+      "term": "Standing",
+      "definition": "The Ephesians 6 response to spiritual opposition: neither fight, flight nor faint, but unafraid presence."
+    }
+  ],
+  "scriptures": [
+    "Ephesians 6:13-14",
+    "Psalm 22:12",
+    "Job 1:8",
+    "Job 2:4"
+  ],
+  "quotes": [
+    "Love gives freedom; darkness controls.",
+    "The Christian walk is not climbing to heaven; it's dropping down to meet the ones in you.",
+    "There isn't another battery pack for evil.",
+    "We're in a love story, not a horror movie."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "How fear turns experience into a split-off part",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "Experience enters",
+        "detail": "Sight, sound, pain and touch pass first through the amygdala."
+      },
+      {
+        "id": "b",
+        "label": "Amygdala assesses",
+        "detail": "A running filter checks for love or fear."
+      },
+      {
+        "id": "c",
+        "label": "Processed into memory",
+        "detail": "With manageable fear, experience is filed via the hippocampus."
+      },
+      {
+        "id": "d",
+        "label": "Fear overload",
+        "detail": "Beyond a threshold the memory is not laid down."
+      },
+      {
+        "id": "e",
+        "label": "Unprocessed, replays",
+        "detail": "Triggers set off PTSD responses and body memories."
+      },
+      {
+        "id": "f",
+        "label": "Part splits off",
+        "detail": "Severe trauma such as abandonment creates a person-part."
+      },
+      {
+        "id": "g",
+        "label": "Stand in love",
+        "detail": "Unafraid presence, as Jesus modelled, allows processing."
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "b"
+      },
+      {
+        "from": "b",
+        "to": "c",
+        "label": "safe enough"
+      },
+      {
+        "from": "b",
+        "to": "d",
+        "label": "too fearful"
+      },
+      {
+        "from": "d",
+        "to": "e",
+        "label": "stores"
+      },
+      {
+        "from": "e",
+        "to": "f",
+        "label": "if severe"
+      },
+      {
+        "from": "e",
+        "to": "g",
+        "label": "healed by"
+      }
+    ],
+    "note": "The amygdala's love/fear filter determines whether experience integrates or stays unprocessed and fragmenting."
+  },
+  "caseStudy": {
+    "title": "The slammed door",
+    "scenario": "Daniel served as an aid worker in a conflict zone years ago and seemed to cope well. Now in his fifties, sudden loud noises such as a slammed door or fireworks leave him shaking and irritable for hours. He also has back pain that scans cannot explain, and he feels ashamed that he is 'not over it' as a Christian.",
+    "analysis": "In Bruce's framework, some experiences were too fearful to be laid down as processed memory; they remain with a 'play again' button that triggers replay and body memory. Shame about not being 'over it' reflects a fear-based gospel; Christ is already in him, and the way forward is dropping down to meet him rather than striving upward.",
+    "pathway": [
+      "Name the reactions as unprocessed memory, not spiritual failure.",
+      "Notice and gently note his triggers so he can prepare for them.",
+      "Practise 'standing': grounding his breath and body when triggered rather than fighting or fleeing.",
+      "In quiet moments, drop down in prayer to meet Christ within him rather than striving upward.",
+      "See a GP about the back pain, and a trauma therapist (for example, one trained in somatic or EMDR approaches) for PTSD symptoms."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Stand, don't fight, flee or faint",
+      "how": "When fear surges, plant your feet, lengthen your out-breath and say: 'I stand; I am not afraid; Christ is in me.' Notice your thinking widen again."
+    },
+    {
+      "name": "Dropping down prayer",
+      "how": "Instead of reaching up to God, close your eyes and imagine sinking down into your centre where Father, Son and Spirit already dwell. Rest there for five minutes."
+    },
+    {
+      "name": "Trigger journal",
+      "how": "Record moments when you react out of proportion, noting the trigger, body sensation and emotion. Patterns show where unprocessed memory may be held."
+    }
+  ],
+  "reflection": [
+    "What sounds, places or situations seem to press a 'play again' button in you?",
+    "Where in your faith have you been climbing up to God rather than dropping down to meet him within?",
+    "How does seeing darkness as life without love, rather than a rival power, change your fear of it?"
+  ],
+  "quiz": [
+    {
+      "q": "According to Bruce, what happens when fear passes a certain threshold during an experience?",
+      "options": [
+        "The memory is filed more strongly",
+        "The memory is not laid down and stays unprocessed",
+        "The memory is erased permanently",
+        "The prefrontal cortex takes over completely"
+      ],
+      "answer": 1,
+      "explain": "Overwhelming fear prevents processing, leaving a memory that replays."
+    },
+    {
+      "q": "How does Bruce 'un-occult' the occult?",
+      "options": [
+        "It draws on a separate evil power source",
+        "It is purely imaginary",
+        "It is Christ's life (Zoe) used without love, through fear",
+        "It is only a problem in other cultures"
+      ],
+      "answer": 2,
+      "explain": "There's no separate battery pack for evil; life without love makes death."
+    },
+    {
+      "q": "What response does Ephesians 6 call for, in Bruce's reading?",
+      "options": [
+        "Fight aggressively",
+        "Stand without fear",
+        "Flee quickly",
+        "Submit to the powers"
+      ],
+      "answer": 1,
+      "explain": "Fear narrows thinking; Jesus stood unafraid even to death."
+    }
+  ]
+}

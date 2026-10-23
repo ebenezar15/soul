@@ -1,0 +1,88 @@
+{
+  "session": 45,
+  "videoId": "0uWPml9_WCI",
+  "youtubeTitle": "The Gospel and Soul Health Session 45 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 2 - Session 9",
+  "topic": "Fellowship, light and darkness in 1 John 1",
+  "summary": "Working through 1 John 1, Bruce stresses that the eternal life (zoe) that holds the universe together became a man whom the disciples saw and touched, so whatever we need to know about the Father is revealed in Jesus. The goal of this revelation is not religious acquaintance or moral appeasement but fellowship, friendship and joy with the Father, the Son and one another, and that fellowship already exists, because the Trinity has taken up residence at the bottom of us, even behind our fear defences. 'God is light' means life lived in love; darkness is life without love, and it is never in the Father. We all walk sometimes in light and sometimes in darkness, and while walking in love we have no 'sin consciousness'. Confession does not obtain a forgiveness already given by the Lamb who takes away the sin of the world; it opens up the parts of us we have hidden so that we can face ourselves, heal and experience forgiveness.",
+  "keyPoints": [
+    "Christ holds all things together, and his zoe flows through creation and through us. Religion tends to dismiss life in favour of morality, but life is the basis and it must be lived in love.",
+    "Morality is the 'tree of death' (Genesis 2:17). The tree of life is a being, Jesus, and that means relationship rather than a list of steps for control.",
+    "Christ is in people whether they like it or not. Bruce knows atheists who have discovered Christ in them, a first fruit of the earth being filled with the knowledge of the Lord's glory.",
+    "In 1 John 1:1-2 the Word of life (not 'the word of morality') became human, was seen and touched. The life of the universe 'coughed, burped and farted' like everyone else, so Jesus shows us all we need to know of the Father.",
+    "The purpose is fellowship (friendship, family, intimacy and fun), not moral appeasement, so that our joy may be full. Underneath fellowship lie love and trust.",
+    "While the accuser runs, we cannot trust God and we hide behind defences like a child covering their eyes, yet the Trinity are already at the bottom of us 'having a party', as in Psalm 23's table in the presence of enemies.",
+    "Our fear defences don't stop God dwelling in us; they stop us seeing him and facing ourselves. We share their fellowship, and because we didn't make it happen we cannot take it away.",
+    "Preaching that promotes the accusing conscience misrepresents God; the message should be how good the Father, Son and Spirit are and that their purpose is to make us their children.",
+    "'God is light' (1 John 1:5) means life lived in love; darkness is life without love. Satan and the powers are still held together by zoe but don't know love, so there are not two kingdoms.",
+    "Holiness is not a wrathful counterweight to love; there is no lack of love in the Father at all. Jesus, the only one of the Trinity to become human, reveals this. Through our broken love, the powers learn the love of God (Ephesians 3:10).",
+    "We all walk sometimes in light and sometimes in darkness, and we don't need to split our souls over it. Walking in love, we have no sin consciousness, while walking in darkness we operate in sin consciousness and its games.",
+    "1 John 1:9 is descriptive, not prescriptive: we start forgiven by the Lamb who takes away the world's sin (John 1:29). Confession opens hidden parts of us to participation and healing, silences the accusing conscience, and lets us know forgiveness."
+  ],
+  "keyTerms": [
+    {"term": "Word of life", "definition": "Jesus as the eternal zoe of the universe made flesh, seen and touched, revealing the Father."},
+    {"term": "Fellowship (koinonia)", "definition": "Familial friendship, intimacy and joy shared with the Father, Son and Spirit and with each other, grounded in love and trust."},
+    {"term": "Light", "definition": "Life lived in love; God is wholly light, with no lack of love in him."},
+    {"term": "Darkness", "definition": "Life (zoe) without love. Even dark powers are held together by Christ's life but do not participate in love."},
+    {"term": "Sin consciousness", "definition": "A mindset preoccupied with sin and morality that operates when we walk in darkness. Walking in love has no such focus."},
+    {"term": "Confession", "definition": "Acknowledging wrong so that hidden parts of us open up for healing and we experience forgiveness. It is not the means of obtaining forgiveness, which is already given."},
+    {"term": "Tree of death", "definition": "Bruce's name for the tree of the knowledge of good and evil, morality cut off from the tree of life, Jesus."}
+  ],
+  "scriptures": ["Colossians 1:17", "Genesis 2:17", "Habakkuk 2:14", "1 John 1:1-10", "Psalm 23:5", "John 1:14", "John 1:29", "Ephesians 3:10", "Philippians 2:10-11", "Hebrews 10:22"],
+  "quotes": [
+    "Life lived in love is light. Life lived without love is darkness.",
+    "Our fear defences don't stop God dwelling there; they stop us seeing him.",
+    "You didn't make that happen, thank God, because if you made it happen you could take it away.",
+    "Confession is not about getting forgiven, because you are; it's about healing."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Walking in light versus darkness (1 John 1)",
+    "nodes": [
+      {"id": "a", "label": "Life lived in love", "detail": "Light is zoe expressed in love, as God is.", "side": "left"},
+      {"id": "b", "label": "Fellowship and joy", "detail": "Love and trust create fellowship with God and others.", "side": "left"},
+      {"id": "c", "label": "No sin consciousness", "detail": "Focus is on love and blessing while being continually cleansed.", "side": "left"},
+      {"id": "d", "label": "Life without love", "detail": "Darkness: still sustained by zoe but not loving.", "side": "right"},
+      {"id": "e", "label": "Hiding behind defences", "detail": "The accuser makes us distrust God and conceal ourselves.", "side": "right"},
+      {"id": "f", "label": "Sin consciousness and games", "detail": "Preoccupied with sin, lying and not practising the truth.", "side": "right"},
+      {"id": "g", "label": "Confession opens us", "detail": "Facing our wrong lets hidden parts heal and know forgiveness.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "b", "to": "c"},
+      {"from": "d", "to": "e"},
+      {"from": "e", "to": "f"},
+      {"from": "f", "to": "g"},
+      {"from": "g", "to": "a", "label": "returns to"}
+    ],
+    "note": "Everyone walks on both sides at times. Confession is the bridge back from darkness into the light, not a payment for forgiveness."
+  },
+  "caseStudy": {
+    "title": "The confession checklist",
+    "scenario": "Sam grew up being taught to confess every sin before bed in case he died unforgiven. As an adult he lies awake reviewing his day for failures, feels a constant low hum of guilt, and finds church services that stress God's holiness make him anxious. He loves Jesus but secretly fears God the Father will 'get him in the end'.",
+    "analysis": "Sam is living in sin consciousness, driven by an accusing conscience that he has projected onto the Father. 1 John 1 shows him that the Father has no darkness (no lack of love) in him, that forgiveness is already given through the Lamb, and that fellowship and joy, not moral appeasement, are the goal. Confession can become a healing opening up rather than an anxious transaction.",
+    "pathway": [
+      "Read 1 John 1:1-5 slowly, noticing that its purpose is fellowship and full joy.",
+      "Meditate on 'God is light and in him is no darkness', which means no lack of love, and contrast this with his inner accuser.",
+      "Replace the nightly checklist with gratitude for the day's love and life, plus honest confession only of what genuinely surfaces, as an opening for healing.",
+      "When anxiety rises, remind himself: 'I started forgiven; Jesus is in me and I didn't put him there.'",
+      "Talk with a grace-focused pastor or counsellor if scrupulosity or anxiety stays intense."
+    ]
+  },
+  "practices": [
+    {"name": "Light check", "how": "At day's end ask: where did I walk in love today (light), and where did I live without love (darkness)? Thank God for the first and gently open the second to him."},
+    {"name": "Healing confession", "how": "When you notice a wrong, name it honestly to God and, where wise, to a trusted friend, with the aim of opening that part of you for healing rather than earning forgiveness."},
+    {"name": "Fellowship meal", "how": "Share a relaxed meal with friends as a 'love feast', consciously enjoying Christ's presence in the joy and friendship."}
+  ],
+  "reflection": [
+    "Do I picture the Father as light with no lack of love, or as a version of my accusing conscience?",
+    "In which parts of my life am I most aware of 'sin consciousness'?",
+    "How would seeing confession as healing rather than transaction change how I practise it?"
+  ],
+  "quiz": [
+    {"q": "According to Bruce's reading of 1 John 1, what is the purpose of the apostles' declaration?", "options": ["Moral improvement", "Religious acquaintance with God", "Fellowship and full joy with the Father, Son and one another", "Fear of judgment"], "answer": 2, "explain": "John writes so that we may have fellowship with them and with the Father and Son, and so that our joy may be full."},
+    {"q": "How does Bruce define darkness?", "options": ["Life without love", "The absence of life", "A second kingdom equal to God's", "Breaking any moral rule"], "answer": 0, "explain": "Darkness is still sustained by zoe but does not participate in love."},
+    {"q": "What is the role of confession in this session?", "options": ["To earn forgiveness from God", "To keep God from getting angry", "To prove one's holiness", "To open hidden parts of us for healing and to experience the forgiveness already given"], "answer": 3, "explain": "We start forgiven; confession helps us face ourselves, heal and know that forgiveness."}
+  ]
+}

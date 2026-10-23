@@ -1,0 +1,87 @@
+{
+  "session": 46,
+  "videoId": "mIQnPovXQik",
+  "youtubeTitle": "The Gospel and Soul Health Session 46 - Dr. Bruce Wauchope",
+  "volume": "Volume 3 - Soul Health",
+  "chapter": "Chapter 3 - Other Internal Structures",
+  "topic": "The problem-solving mind, the spin, and pain management",
+  "summary": "Opening a new chapter on 'other internal structures', Bruce introduces the problem-solving mind: the brain cycles through options like doors until it finds a path through, which brings the satisfying 'yes!' But when the doors are shut and the problem feels vital to who we are, the mind does not stop; it spins faster, like a tornado, wearing out our brain chemistry and producing angst, deep fatigue and sometimes depression. Unable to solve or grieve the issue, we manage the pain using a two-by-two grid: external or internal, seeking comfort or seeking removal of pain. Many of these coping strategies create further losses and trigger the accusing conscience, trapping us in an escalating cycle that darkness may exploit. All these structures sit against the eternal calling that we are the Father's sons and daughters, and the Trinity's answer is to drop through us and hold our pain with infinite tenderness from the bottom up (Isaiah 53; John 17).",
+  "keyPoints": [
+    "The model now adds soul 'parts' (fragments formed through fear), the spin, and pain management, on the way down to the deeper 'black hole'.",
+    "Because we are energetic beings and not just ideas or bodies, fragmented parts can be pulled about and tangled by darkness, and by religion as well as formal cults.",
+    "All our inner structures sit against the eternal proclamation that we are the Father's sons and daughters. Against that calling we feel our inadequacy as internal pain.",
+    "The Trinity's answer is not to come at us from outside but to drop through us and hold us, including our bits we dislike and our pain, with infinite tenderness from the bottom up (Isaiah 53).",
+    "The problem-solving mind works like trying doors. In the function-planning example (35 people, four courses, cheap, near the city) the brain cycles options until the critical path opens and you feel 'yes!'",
+    "When the doors are shut and the problem matters to who you are, the brain does not stop; it goes faster. This is the spin, round and round like wearing out the carpet.",
+    "Spinning wears out our brain chemistry and is one cause of mental angst, deep fatigue and depression. Religious versions include trying to get back to a distant, holy God while the judge accuses.",
+    "If we cannot solve the problem and have not learned to grieve, or are blocked by injustice and complicated grief, we must manage the pain somehow.",
+    "Pain management is a two-by-two grid: external (body and life) or internal (mind), and seeking comfort or removing pain, for example eating, sex, shopping, fantasy, alcohol, gambling, workaholism, sleep, numbing and dissociation.",
+    "Observe yourself without judgment: stand back and ask 'what am I doing, and why?' Self-accusation slams the defences shut and puts you back at square one.",
+    "Many comforts create more loss; then the conscience accuses, and the loop runs 'on steroids'. Darkness, life without love, may even offer things that deepen the trap.",
+    "Dissociation is a continuum, from mood states such as becoming 'another person' at a family reunion through to full splitting. Jesus has taken up his dwelling in our chaos and addiction, not our religious part, so that the Father's love for him may be in us (John 17:26)."
+  ],
+  "keyTerms": [
+    {"term": "Problem-solving mind", "definition": "The brain's habit of cycling through options (doors) until a critical path is found."},
+    {"term": "The spin", "definition": "Accelerating, tornado-like rumination that happens when no solution can be found to a problem that feels essential."},
+    {"term": "Parts", "definition": "Fragments of the soul formed through fear, which can be pulled about and tangled."},
+    {"term": "Pain management grid", "definition": "A two-by-two model of coping: external or internal, and comfort or removal of pain."},
+    {"term": "Comfort vs removal of pain", "definition": "Two strategies for coping: making myself feel better (food, fantasy, success) or getting rid of the pain (alcohol, numbing, sleep, gambling)."},
+    {"term": "Dissociation", "definition": "A continuum of shifting into other emotional states of self, from mild mood states through to full splitting."},
+    {"term": "Inadequacy", "definition": "The internal pain felt when our locked-away state rubs against our eternal calling as sons and daughters."}
+  ],
+  "scriptures": ["Isaiah 53:3-4", "Genesis 6:5-6", "John 17:26", "John 14:20"],
+  "quotes": [
+    "Their answer isn't to come at you from the outside; it's to drop through you and hold you with infinite tenderness from the bottom up.",
+    "When you can't find an answer, does your brain change what it does? It just goes faster.",
+    "Don't accuse yourself. Stand back and look: what am I doing, and why?",
+    "To try and survive, we're using anti-life mechanisms."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "The pain management grid",
+    "nodes": [
+      {"id": "a", "label": "External comfort", "detail": "Eating, sex, shopping, success or fun to feel better.", "side": "left"},
+      {"id": "b", "label": "Internal comfort", "detail": "Fantasy, daydreams or mental 'movies' to soothe.", "side": "left"},
+      {"id": "c", "label": "External pain removal", "detail": "Alcohol, gambling, workaholism or sleep to numb.", "side": "right"},
+      {"id": "d", "label": "Internal pain removal", "detail": "Dissociation, splitting off or blaming to get rid of pain.", "side": "right"},
+      {"id": "e", "label": "Spin: unsolvable problem", "detail": "The trigger that sends us into any quadrant."},
+      {"id": "f", "label": "Held from the bottom", "detail": "The Trinity's tenderness in our pain, the real way out."}
+    ],
+    "edges": [
+      {"from": "e", "to": "a"},
+      {"from": "e", "to": "b"},
+      {"from": "e", "to": "c"},
+      {"from": "e", "to": "d"},
+      {"from": "e", "to": "f", "label": "instead"}
+    ],
+    "note": "Left side = seeking comfort, right side = removing pain; within each, external (body/life) vs internal (mind). Spin feeds all four, but love from the bottom up is the alternative."
+  },
+  "caseStudy": {
+    "title": "The redundancy that wouldn't let go",
+    "scenario": "After being made redundant at 52, Daniel applies for dozens of jobs without success. He replays the situation constantly, makes spreadsheets of options at 2am, and feels exhausted and flat. In the evenings he drinks more than he used to and spends hours in fantasy sports, then lies awake feeling ashamed, which starts the cycle again.",
+    "analysis": "Daniel's problem-solving mind has hit shut doors on something that feels central to his identity, so it spins faster and drains him. Unable to solve or grieve the loss, he is managing pain through internal comfort (fantasy) and external pain removal (alcohol). These create new losses and shame, which trigger the accuser and tighten the loop. He needs to observe without condemnation and receive love at the bottom of his pain.",
+    "pathway": [
+      "Notice the spin and name it without judgment: 'I'm spinning because this feels like it defines me.'",
+      "Map his coping onto the two-by-two grid and ask 'why?' rather than 'how bad am I?'",
+      "Make space to grieve the loss of role and identity instead of only problem-solving it.",
+      "In prayer, invite Jesus into the place of chaos and inadequacy rather than presenting his 'religious' best self.",
+      "Replace one harmful strategy with a life-giving one such as exercise, creativity or time with friends.",
+      "See a GP or counsellor about low mood and alcohol use, and if thoughts of escaping pain through self-harm arise, seek urgent help."
+    ]
+  },
+  "practices": [
+    {"name": "Stand-back observation", "how": "When you catch yourself reaching for a comfort or a numbing habit, pause and silently ask 'What am I doing, and why?', with no accusation."},
+    {"name": "Grid journaling", "how": "Draw the two-by-two grid (external/internal, comfort/removal) and note which strategies you used this week and what problem triggered them."},
+    {"name": "Held from below", "how": "Picture the Father, Jesus and Spirit holding the part of you that feels inadequate, from underneath, and rest there for a few minutes."}
+  ],
+  "reflection": [
+    "What unsolvable problem has my mind been spinning on recently?",
+    "Which quadrant of the pain management grid do I default to, and what losses has it created?",
+    "How does it feel to believe God has made his home in my chaos rather than my religious best?"
+  ],
+  "quiz": [
+    {"q": "What happens to the problem-solving mind when all the doors are shut on an important problem?", "options": ["It shuts down and rests", "It goes faster, spinning like a tornado", "It hands the problem to the conscience", "It immediately starts grieving"], "answer": 1, "explain": "The brain doesn't change its method; it just speeds up, which produces the spin."},
+    {"q": "What are the two axes of Bruce's pain management grid?", "options": ["Good/bad and right/wrong", "Past/future and self/others", "External/internal and comfort/removal of pain", "Body/spirit and church/world"], "answer": 2, "explain": "We cope externally or internally, by seeking comfort or by removing pain."},
+    {"q": "What does Bruce recommend when you notice yourself using a coping strategy?", "options": ["Stand back and observe without accusing yourself", "Confess it immediately and try harder", "Ignore it until it passes", "Replace it with stricter rules"], "answer": 0, "explain": "Self-accusation slams the defences shut, while non-judgmental observation opens the way to understanding why."}
+  ]
+}

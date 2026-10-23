@@ -1,0 +1,84 @@
+{
+  "session": 44,
+  "videoId": "DIJZ9j5Alr4",
+  "youtubeTitle": "The Gospel and Soul Health Session 44 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 2 - Session 8",
+  "topic": "New Covenant, Isaiah 53 and the purpose of confession",
+  "summary": "Bruce recaps the conscience as a false god, the accuser's image placed in us, which uses law, records and scales to judge and exclude others. Against it he sets the New Covenant (Jeremiah 31; Hebrews 8 and 10), cut in the blood that flowed from Jesus' pierced side: God's law written within us (Christ in us), no vertical hierarchy because every believer's rank is child of God, and sins remembered no more. He rereads Isaiah 53 as a warning that we would wrongly 'esteem him smitten by God'. In fact God was in Christ reconciling the world, and Jesus, a man of sorrows, bore our griefs and our violence, not the Father's wrath. Finally he argues that confession does not obtain forgiveness, which the Lamb slain from the foundation of the world has already given to the whole world; confession helps us face ourselves and our hidden parts so that we can heal and feel forgiven.",
+  "keyPoints": [
+    "The conscience is a false god in us, the image of the accuser. We use whatever law our group holds to keep records, judge, exclude and even 'cancel' or kill those outside our boundary, a pattern seen across ideologies and in religion.",
+    "Religion that makes people grovel and confess before they may come to communion keeps them under the accuser, maintaining guilt and fear, which also keeps time and money flowing.",
+    "The blood from Jesus' pierced side is his zoe united with the Trinity and with Adam's cleaned-up flesh, poured into creation. This is the blood of the New Covenant.",
+    "Old Testament sacrifices were given by God to us, for our accusing consciences. The blood of bulls and goats never took away sin, because forgiveness was given before creation by the Lamb slain from the foundation of the world.",
+    "New Covenant clause one: 'I will put my laws in their minds and write them on their hearts', which is Christ in you.",
+    "Clause two: 'No one will teach his neighbour, saying, Know the Lord.' There is no vertical hierarchy; apostles, prophets, pastors, teachers and evangelists are serving functions (Ephesians 4), not positions, and every believer's rank is son or daughter of God.",
+    "Clause three: 'Their sins and lawless deeds I will remember no more.' So we come to communion in the covenant's blood, not under the accuser. Bruce suggests writing out Hebrews 8's covenant and putting it on the fridge.",
+    "The early church met in circles, with Christ in the midst and in each other and elders on the edge releasing the body to the Spirit, rather than a pyramid with someone at the front.",
+    "The Father did not 'do in' his Son or turn his face away: God was in Christ reconciling the world (2 Corinthians 5:19). Jesus went down into darkness without seeing, held by the Father and Spirit, and broke the fear of death.",
+    "Isaiah 53 warns 'we esteemed him stricken, smitten by God'. We would misread it; he was wounded by us and for us, and as a man of sorrows acquainted with grief he can share how to bear grief with us.",
+    "Confession cannot be the means of forgiveness: we cannot remember all our sins, we usually confess the fruit rather than the root, and the Lamb takes away the sin of the whole world. 1 John 1:9 is descriptive, not a causal 'if-then'.",
+    "Confession's real role is healing (James 5:16): it helps us face ourselves and the parts of us we dislike, where Jesus has already pitched his tent, breaking agreements with darkness so that love can reach hidden places. Saving (Matthew 1:21) is more than forgiving."
+  ],
+  "keyTerms": [
+    {"term": "Conscience as false god", "definition": "The internal accuser, in the image of Satan, that uses law, records and scales to condemn self and others."},
+    {"term": "New Covenant", "definition": "God's agreement with all humanity, cut in Jesus' blood: law written within (Christ in us), no vertical hierarchy, and sins remembered no more (Jeremiah 31; Hebrews 8 and 10)."},
+    {"term": "Blood of the Lamb", "definition": "Not magic blood but the person of Christ, his zoe united with the Trinity and with Adam's cleansed flesh, poured into creation and overcoming the accuser."},
+    {"term": "Five-fold ministry as functions", "definition": "Apostles, prophets, pastors, teachers and evangelists are servants to help the body grow, not positions of authority over believers."},
+    {"term": "Evil conscience", "definition": "A conscience that says 'you are worthless', speaking against God's purpose of sonship and daughterhood (Hebrews 10:22)."},
+    {"term": "Descriptive vs prescriptive 'if'", "definition": "1 John 1:9 describes what you will experience when you confess. It does not set a condition for being forgiven."},
+    {"term": "Confession for healing", "definition": "Facing our hidden parts and behaviours so that we can participate with Christ who already dwells there, and feel forgiven."}
+  ],
+  "scriptures": ["Leviticus 17:11", "Hebrews 10:4", "Revelation 13:8", "Jeremiah 31:31-34", "Hebrews 8:8-12", "Hebrews 10:16-17", "Hebrews 10:22", "Ephesians 4:11-13", "Revelation 12:10-11", "1 John 3:20", "1 Corinthians 15:24-28", "2 Corinthians 10:5", "2 Corinthians 5:19", "Job 2:4", "Isaiah 53:3-5", "Galatians 5:19-21", "1 John 1:9", "John 1:29", "James 5:16", "Matthew 1:21", "John 1:14", "John 19:34"],
+  "quotes": [
+    "What is your rank? I am a son of God. You are a daughter of God.",
+    "Jesus is number one, we are number two, and there is no number three.",
+    "If you think your confession gets you forgiven, you're trapped, because you cannot remember all your sins.",
+    "Confession helps me face Bruce, and if I face Bruce I can participate with Christ."
+  ],
+  "diagram": {
+    "type": "hierarchy",
+    "title": "The New Covenant's three clauses",
+    "nodes": [
+      {"id": "a", "label": "Blood of the Covenant", "detail": "Jesus' life poured from his pierced side into all creation."},
+      {"id": "b", "label": "Law written within", "detail": "Clause 1: Christ in you, not external rules."},
+      {"id": "c", "label": "No vertical hierarchy", "detail": "Clause 2: all are children of God; ministries serve rather than rule."},
+      {"id": "d", "label": "Sins remembered no more", "detail": "Clause 3: we come to God free of the accuser's record."},
+      {"id": "e", "label": "Confession for healing", "detail": "Facing ourselves within the covenant so hidden parts can heal."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "establishes"},
+      {"from": "a", "to": "c", "label": "establishes"},
+      {"from": "a", "to": "d", "label": "establishes"},
+      {"from": "d", "to": "e", "label": "frees"}
+    ],
+    "note": "The covenant, cut in Jesus' blood, sets out three realities that overturn conscience-based religion. Confession then becomes a tool of healing rather than a condition of forgiveness."
+  },
+  "caseStudy": {
+    "title": "Skipping communion",
+    "scenario": "Hannah regularly lets the communion plate pass her by. She was taught she must have confessed every sin first, and she always feels there's something she has forgotten or a habit she hasn't beaten. She also defers to a 'prophetic' leader who often tells her what God wants for her life, and she feels anxious when she disagrees.",
+    "analysis": "Hannah is living under the accuser rather than the New Covenant. Clause three means her sins are remembered no more, so she can come to the table in the covenant's blood. Clause two means no leader has vertical authority over her; words can be weighed freely. Confession is valuable, but as a way to face and heal hidden parts, not as a ticket to the table.",
+    "pathway": [
+      "Write out Hebrews 8:10-12 and put it somewhere visible, reading it aloud before communion.",
+      "Receive communion as Jesus asking 'Will you let me love you?' rather than as a test of worthiness.",
+      "Use confession with a trusted friend as a way of opening up a struggle for healing and prayer (James 5:16).",
+      "Practise weighing prophetic or pastoral words: thanking the person, then discerning freely with God whether to accept them.",
+      "If spiritual anxiety is severe or relationships feel controlling, seek support from a wise counsellor outside the situation."
+    ]
+  },
+  "practices": [
+    {"name": "Covenant on the fridge", "how": "Copy Hebrews 8:10-12 onto a card, place it where you see it daily, and read it aloud whenever you feel accused or controlled."},
+    {"name": "Root, not fruit", "how": "Instead of listing behaviours, ask Jesus to show you the hurting part beneath a recurring behaviour, and invite his presence there."},
+    {"name": "Weigh, don't obey", "how": "When someone offers you 'a word', thank them, then take it to prayer and trusted friends to weigh, remembering it has no authority over you."}
+  ],
+  "reflection": [
+    "Do I approach God and communion under the accuser or under the New Covenant?",
+    "Where have I given others vertical authority over my relationship with God?",
+    "Which parts of me do I avoid facing, and how might confession open them to Christ who is already there?"
+  ],
+  "quiz": [
+    {"q": "According to Bruce, what does the second clause of the New Covenant ('no one shall teach his neighbour, Know the Lord') imply?", "options": ["Teaching is forbidden in church", "There is no vertical hierarchy; ministries are functions serving children of God", "Only apostles may teach", "Everyone must learn theology alone"], "answer": 1, "explain": "Every believer's rank is son or daughter of God; the five-fold roles are servant functions."},
+    {"q": "How does Bruce read 'we esteemed him stricken, smitten by God' in Isaiah 53?", "options": ["As a warning that we would misread the cross as God punishing Jesus", "As proof that the Father punished the Son", "As a reference to Israel's suffering only", "As irrelevant to Jesus"], "answer": 0, "explain": "It flags our misreading; he was wounded by us and for us while God was in Christ reconciling."},
+    {"q": "What is the main purpose of confession in this session?", "options": ["To obtain forgiveness", "To qualify for communion", "To satisfy church leaders", "To face ourselves and our hidden parts so that we can heal"], "answer": 3, "explain": "Forgiveness is already given by the Lamb, so confession serves healing and the experience of forgiveness."}
+  ]
+}

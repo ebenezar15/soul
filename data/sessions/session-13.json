@@ -1,0 +1,87 @@
+{
+  "session": 13,
+  "videoId": "NvuLMKPEdcc",
+  "youtubeTitle": "The Gospel and Soul Health Session 13 - Dr Bruce Wauchope",
+  "volume": "Volume 1",
+  "chapter": "Chapter 2, Session 4 (Key Themes: The Forming of the Nations Under the Angels of God; Jesus speaks against our flesh; Summary of our Flesh)",
+  "topic": "Nations, Angels and Summary of the Flesh",
+  "summary": "Bruce follows the story of the flesh to the scale of the human race: after Babel, the Most High divided the nations according to the number of the angels or sons of God (Deuteronomy 32:8, Septuagint), so different modes of angelic influence shape different 'colours' of flesh, cult and culture. Through the ecclesia, God's manifold wisdom is now made known to the principalities and powers, revealing a bottom-up kingdom; on the cross Christ, hanging in the air, confronted the prince of the power of the air. He then summarises the flesh simply as wherever we do not know the love of the Father, and shows Jesus confronting this directly: no one knows the Father except the Son, and the religious did not have the love of God in them. The flesh is catalogued: lost identity, aloneness, separation, rejection, fear, 'I am not' and 'I will be', locked pain, addictions, suppressed conscience, othering and violence, the conscience as a new god, subservience to the accuser, and the law of sin and death. So Jesus did not come merely to forgive bad deeds but to rescue and heal a blind, diseased race through his 'living atonement'. A Q&A addresses angelic boundaries and natural disasters, which Bruce declines to read as divine punishment.",
+  "keyPoints": [
+    "Handing your conscience over to an external authority (such as a leader) opens the door to spiritual abuse that can take years to recover from.",
+    "Deuteronomy 32:8 in the Septuagint says God set the boundaries of the nations according to the number of the angels (sons) of God, not 'children of Israel', since Israel did not yet exist.",
+    "Acts 17 says God set times and boundaries so people would seek and grope for him, though he is not far from any of us: 'in him we live and move and have our being'.",
+    "Different modes of angelic influence produce different modes of flesh and cult, giving different colours of culture worldwide; this is not simply bad, it just is.",
+    "Ephesians 3:10: God's manifold wisdom (Jesus and the gospel) is made known through the ecclesia, the called-out community rather than the institution, to the principalities and powers, revealing that God works from the bottom up.",
+    "Jesus hung in the air surrounded by the 'bulls of Bashan' to take on the prince of the power of the air (an early church reading): the cross also sorted out the angelic realm, yet all are still God's family.",
+    "Summary: the flesh is wherever we do not know the love of the Father.",
+    "Jesus said no one knows the Father except the Son, and he exposed the religious: they had not heard the Father's voice, searched the scriptures yet would not come to him, and lacked the love of God; calling things as they are is why we killed him.",
+    "The full catalogue of the flesh includes lost identity, aloneness, the lie of separation, rejection, fear, 'I am not' and 'I will be', defences, locked pain, addictions to manage pain, conscience suppression, othering and violence, conscience as the new god, sharing Satan's accusations, and the law of sin and death.",
+    "Jesus did not come just to forgive bad things we do; it is a rescue mission to a lost, diseased people who moved from noble intent to blindness, and his work through our flesh is 'living atonement'.",
+    "The fractal plan: called into the Trinity's life, we became alone, then dark (the flesh); Jesus enters our flesh as the new Adam, is placed in us, the Spirit unveils him, and we come home (Romans 8:3).",
+    "In Q&A, natural disasters are not God punishing particular people; Greek-influenced causality thinking seeks a 'why' behind everything, whereas we live within a dynamic creation and must resist explaining suffering as punishment (Bruce commends David Bentley Hart)."
+  ],
+  "keyTerms": [
+    {"term": "Sons of God / angelic boundaries", "definition": "The angelic powers under whom the nations were divided after Babel, each shaping that people's flesh and culture."},
+    {"term": "Ecclesia", "definition": "The called-out community of believers (not the institution) through which God's wisdom is revealed to the powers."},
+    {"term": "Principalities and powers", "definition": "The angelic authorities in the heavenly places who participated in killing Jesus and are being taught God's wisdom."},
+    {"term": "Flesh (summary)", "definition": "Wherever we do not know the love of the Father."},
+    {"term": "Living atonement", "definition": "Jesus' work of healing and sorting through our flesh in his own life, not just forgiving deeds."},
+    {"term": "Fractal", "definition": "A self-repeating pattern; the gospel pattern recurs from the individual to the race to the cosmos."},
+    {"term": "Spiritual abuse", "definition": "Harm that results when people hand their conscience to an external authority who then judges and controls them."}
+  ],
+  "scriptures": ["Deuteronomy 32:8", "Acts 17:26-28", "Ephesians 3:10-11", "1 Corinthians 15:24-25", "Psalm 22:12", "Ephesians 2:2", "Matthew 11:27", "John 1:18", "John 6:46", "John 5:37-40", "John 5:42", "John 8:43-44", "John 3:3-7", "John 15:7-9", "Matthew 15:11", "1 Peter 1:20", "Acts 2:23", "John 17:24-26", "Matthew 1:21", "Romans 8:3", "John 14:20", "Genesis 28:12"],
+  "quotes": [
+    "The flesh is where we don't know the love of God.",
+    "Some people think that Jesus just came to forgive the bad things we do. No! It's a rescue mission.",
+    "He called things as they are. He wasn't a pretty boy.",
+    "He's hanging in the air to take on the prince of the power of the air."
+  ],
+  "diagram": {
+    "type": "layers",
+    "title": "The Flesh: Layers of Not Knowing Love",
+    "nodes": [
+      {"id": "a", "label": "Cosmic: angelic powers", "detail": "Nations shaped under the sons of God; subservience to the accuser."},
+      {"id": "b", "label": "Cultural: nations and cult", "detail": "Different modes of flesh produce different colours of culture."},
+      {"id": "c", "label": "Relational: othering, violence", "detail": "Conscience-based judging of others leads to hurting and killing."},
+      {"id": "d", "label": "Behavioural: addictions", "detail": "Addictions manage pain; suppressed conscience produces behaviours."},
+      {"id": "e", "label": "Identity: I am not / I will be", "detail": "Lost identity as children, rejection, fear and defences."},
+      {"id": "f", "label": "Core: no knowing of love", "detail": "Aloneness and the lie of separation: not knowing the Father's love."}
+    ],
+    "edges": [
+      {"from": "f", "to": "e", "label": "forms"},
+      {"from": "e", "to": "d", "label": "drives"},
+      {"from": "d", "to": "c"},
+      {"from": "c", "to": "b", "label": "scales to"},
+      {"from": "b", "to": "a", "label": "under"}
+    ],
+    "note": "The same fractal pattern of not knowing the Father's love repeats from the individual core out to cultures and the angelic realm, all of which Christ's living atonement addresses."
+  },
+  "caseStudy": {
+    "title": "Tom's church that called the shots",
+    "scenario": "Tom, 52, spent fifteen years in a high-control church where the senior pastor decided what was right for members' jobs, relationships and money. He left two years ago but still feels guilty making decisions without approval and swings between numbing himself with alcohol and harsh judgment of 'worldly' people. He also feels his whole culture's values are pressing on him. He wonders whether Jesus has simply forgiven him or whether anything deeper can change.",
+    "analysis": "Tom handed his conscience to an external judge, which Bruce identifies as the setup for spiritual abuse. The pattern shows several layers of the flesh at once: locked pain, addiction to manage pain, conscience-based othering, and cultural powers. Bruce's point is that Jesus came not only to forgive but to heal the flesh at every level, and that the Father is known through the Son, not through a controlling leader.",
+    "pathway": [
+      "Name the experience as possible spiritual abuse and seek a counsellor experienced in religious trauma.",
+      "Practise small, independent decisions, noticing guilt without obeying it.",
+      "Address the drinking honestly, with a GP or support group if it has become a dependency.",
+      "Read John 5:37-42 and 17:26 to reorient toward knowing the Father's love through Jesus.",
+      "Join a small, non-controlling community (ecclesia) where relationships are mutual.",
+      "When judging 'worldly' people, pray for them as part of the same family in Christ."
+    ]
+  },
+  "practices": [
+    {"name": "Reclaim your conscience", "how": "Before a decision, ask 'What does love call for here?' rather than 'What would the authority approve?' and journal the result."},
+    {"name": "Flesh inventory", "how": "Using the session's list (aloneness, fear, addictions, othering, conscience as god), circle two that you recognise and bring them to Jesus in prayer as places for healing rather than shame."},
+    {"name": "Resist the 'why' reflex", "how": "When tragedy strikes, refrain from explaining it as punishment; instead lament and practically help those affected."}
+  ],
+  "reflection": [
+    "Have you ever handed your conscience to someone else? What were the effects?",
+    "Which aspects of your culture's 'colour' of flesh do you notice shaping you?",
+    "How does 'healing the flesh' differ from 'forgiving sins' in the way you relate to Jesus?"
+  ],
+  "quiz": [
+    {"q": "What is Bruce's simplest summary of the flesh?", "options": ["Our physical body", "Breaking moral rules", "Where we don't know the love of the Father", "Our culture's traditions"], "answer": 2, "explain": "He keeps it in line with the early church's understanding of darkness."},
+    {"q": "According to Ephesians 3:10 as taught, through whom is God's wisdom made known to the powers?", "options": ["The ecclesia, the called-out community", "The institutional church hierarchy", "The angels themselves", "The nation of Israel only"], "answer": 0, "explain": "Bruce stresses the community, not the institution, revealing a bottom-up kingdom."},
+    {"q": "How does Bruce respond to the idea that natural disasters are God's punishment?", "options": ["He agrees they punish specific sins", "He says only unbelievers suffer them", "He says believers are protected from them", "He rejects punishment readings and the Greek obsession with causality"], "answer": 3, "explain": "His example is a tsunami that struck an island of believers who were not particularly bad."}
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "session": 39,
+  "videoId": "nTz2Bd9LvW4",
+  "youtubeTitle": "The Gospel and Soul Health Session 39 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 2, Session 3 - The Lies from the Conscience continued; The Law; The Records",
+  "topic": "The judge, the law and the records",
+  "summary": "Drawing on psychiatrist Dr Stephanie Williams' book 'Beyond Evil', Bruce describes the conscience as judge, critic and accuser, which grades people on an endless scale and turns on others as well as ourselves. If we believe we are separated and must climb back, we unconsciously make the conscience our measure - the third lie, that the conscience is God or the way back to God - yet experiences of being falsely accused by it show it can be wrong. The conscience always relies on some law (not only Moses' law: political and social movements, communist and other regimes all 'other' and exterminate those who cross their lines), which is the fourth lie: that our acceptability lies in a law. This shifts us from a relational love story, in which our identity is being the Father's children, to a legal 'moral movie' with executions. The fifth lie is that records of good and bad deeds are kept to be weighed at judgment; but at the judgment seat we meet Jesus, whose question is whether we will let him love us. Bruce notes that texts like Habakkuk 1:13, Isaiah 59:2 and the cry of Psalm 22 have been misread to support this legal picture.",
+  "keyPoints": [
+    "Bruce's structure of the conscience draws on 'Beyond Evil' by psychiatrist Dr Stephanie Williams, reframed in a Trinitarian setting.",
+    "The conscience acts as judge, critic and accuser, grading on an almost infinite scale rather than just good or bad, and turning on others as well as on ourselves.",
+    "Lie 3: since we believe we are separated and must climb back, we use the conscience as the measure and believe it is God, or close to God, and the way back.",
+    "Almost everyone has been mortified by their conscience only to find the accusation was wrong - proof that it is not God.",
+    "Living by conscience-based morality produces a dry life without the zoe of Christ; morality without love is still darkness, and when the 'good girl' finally fails it can feel like a psychic trauma.",
+    "When we perceive failure the judge demands punishment, leading to self-flagellation and, at the extreme, despair and suicide.",
+    "The conscience always uses some law - not only Moses' law but any code; political movements and twentieth-century regimes 'othered' and killed those outside their rules, and churches do it too.",
+    "Lie 4: our acceptability is contained in a law - a shift from a relational love story, where our identity is being the Father's children (ontology), to a legal structure with no love in it.",
+    "Following both the accuser and Christ is trying to keep a foot in two camps; the conscience as accuser came from Satan and must be deprogrammed with the Spirit and Scripture.",
+    "Lie 5: a record of all our good and bad deeds is kept and replayed like a giant screen at the judgment seat, echoing Egyptian Osiris mythology.",
+    "At judgment we meet Jesus, to whom the Father has given all judgment; his question is 'Will you let me love you, and love you more?' - nothing harmful will enter his holy hill.",
+    "Misread texts support the legal picture: Habakkuk 1:13 means God is too pure to see evil and do nothing; Isaiah 59:2 means our sins hide God from us, not us from God; Jesus' cry quoted Psalm 22, which goes on to say God did not hide his face."
+  ],
+  "keyTerms": [
+    {
+      "term": "Judge / critic / accuser",
+      "definition": "The three faces of the conscience that assess, criticise and condemn ourselves and others."
+    },
+    {
+      "term": "Othering",
+      "definition": "Treating those who break a group's law as less than human, which can end in exclusion or extermination."
+    },
+    {
+      "term": "Ontology",
+      "definition": "The truth of our being: we are children of the Father, not defined by law or performance."
+    },
+    {
+      "term": "Records / ledger",
+      "definition": "The imagined database of good and bad deeds the conscience keeps against us."
+    },
+    {
+      "term": "Zoe",
+      "definition": "The life of Christ given to all, which flows only when joined with love."
+    },
+    {
+      "term": "Deprogramming",
+      "definition": "Working with the Holy Spirit and Scripture to undo the conscience's lies."
+    }
+  ],
+  "scriptures": [
+    "John 5:22",
+    "Habakkuk 1:13",
+    "Isaiah 59:2",
+    "Psalm 22:1",
+    "Psalm 22:24",
+    "Isaiah 11:9"
+  ],
+  "quotes": [
+    "This thing ain't God. It is not your guide, not your lead, not your boss.",
+    "We've shifted from a relational structure to a legal structure.",
+    "He's saying: Bruce, will you let me love you, and can you let me love you more?",
+    "We're now in a moral movie with an execution, not a love story."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Love story or moral movie?",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "Child of the Father",
+        "detail": "Identity rests in belonging to Father, Son and Spirit.",
+        "side": "left"
+      },
+      {
+        "id": "b",
+        "label": "Hugged despite being me",
+        "detail": "Acceptance is a gift of love, not a performance score.",
+        "side": "left"
+      },
+      {
+        "id": "c",
+        "label": "Judgment: meeting Jesus",
+        "detail": "His question is whether we will let him love us more.",
+        "side": "left"
+      },
+      {
+        "id": "d",
+        "label": "Conscience as God",
+        "detail": "The internal accuser treated as the measure and the way back.",
+        "side": "right"
+      },
+      {
+        "id": "e",
+        "label": "Law as acceptability",
+        "detail": "Worth defined by a code, with those outside it othered.",
+        "side": "right"
+      },
+      {
+        "id": "f",
+        "label": "Records and replay",
+        "detail": "A ledger of deeds weighed on a giant screen at the end.",
+        "side": "right"
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "d",
+        "label": "replaced by"
+      },
+      {
+        "from": "b",
+        "to": "e",
+        "label": "replaced by"
+      },
+      {
+        "from": "c",
+        "to": "f",
+        "label": "replaced by"
+      }
+    ],
+    "note": "Lies 3 to 5 swap a relational love story (left) for a legal structure (right) that has no love in it."
+  },
+  "caseStudy": {
+    "title": "The good girl who failed",
+    "scenario": "Hannah has always been 'the good one' in her family and church: reliable, moral and admired. After a serious mistake at work that harmed a colleague, she cannot stop replaying it and feels she has lost her worth entirely. She avoids church because she feels like a fraud and lies awake imagining God replaying her failures. Friends' reassurances do not touch the feeling.",
+    "analysis": "Hannah's identity has rested on the conscience's law and records rather than on being the Father's child. While she was succeeding, the legal structure felt clean; one failure triggered the judge's demand for punishment, which Bruce describes as a kind of psychic trauma. Her image of a heavenly replay screen is the fifth lie. The gospel reframes judgment as meeting Jesus, who asks whether she will let him love her; this allows her to take responsibility for the harm without being crushed by an accuser that is not God.",
+    "pathway": [
+      "Separate responsibility (making amends to the colleague) from accusation (declaring herself worthless).",
+      "Write down the accusing sentences and next to each write 'Is this Jesus' voice?'",
+      "Meditate on John 5:22 and imagine meeting Jesus as judge who asks to love her more.",
+      "Return to a small, safe Christian community rather than isolating.",
+      "If sleeplessness, intrusive replaying or hopelessness continue, see a GP or counsellor; seek urgent help if any thoughts of self-harm arise."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Name the law",
+      "how": "When you feel judged or judge someone else, ask 'What law am I using here?' Write it down and ask whether it is love or just a code."
+    },
+    {
+      "name": "Was it wrong?",
+      "how": "Recall a time your conscience accused you and it turned out to be wrong. Keep this memory handy as evidence that the accuser is not God."
+    },
+    {
+      "name": "The judgment-seat question",
+      "how": "Sit quietly and imagine Jesus asking, 'Will you let me love you more?' Notice what in you resists, and tell him honestly."
+    }
+  ],
+  "reflection": [
+    "What 'law' (family, church, cultural or political) does your conscience use to measure yourself and others?",
+    "How have you pictured the judgment seat, and how does Bruce's picture of meeting Jesus compare?",
+    "Where do you notice yourself 'othering' people who cross your lines?"
+  ],
+  "quiz": [
+    {
+      "q": "According to Bruce, what does Isaiah 59:2 mean in Hebrew?",
+      "options": [
+        "God cannot look at sinners",
+        "Our sins have hidden God from us, not us from God",
+        "Sin permanently separates us from God",
+        "God punishes the nation"
+      ],
+      "answer": 1,
+      "explain": "The barrier is in our perception; we cannot see God, not that God cannot see us."
+    },
+    {
+      "q": "Which lie says our acceptability is contained in a set of rules?",
+      "options": [
+        "Lie 1",
+        "Lie 2",
+        "Lie 5",
+        "Lie 4"
+      ],
+      "answer": 3,
+      "explain": "The fourth lie makes a law the basis of acceptability, replacing relationship."
+    },
+    {
+      "q": "What question does Bruce say Jesus asks at the judgment seat?",
+      "options": [
+        "Will you let me love you, and love you more?",
+        "Did your good deeds outweigh your bad?",
+        "Did you keep the Ten Commandments?",
+        "Did you confess every sin?"
+      ],
+      "answer": 0,
+      "explain": "Judgment is meeting Jesus, the source of life and love, who invites participation."
+    }
+  ]
+}

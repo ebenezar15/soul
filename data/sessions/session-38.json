@@ -1,0 +1,207 @@
+{
+  "session": 38,
+  "videoId": "sFsIxBuodWg",
+  "youtubeTitle": "Gospel and Soul Health Session 38 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 2, Session 2 - A Simple Outline to Healing; The Peculiarities of being a human: The Conscience; The Lies from the Conscience",
+  "topic": "The conscience as accuser: first two lies",
+  "summary": "Bruce restates the goal of healing: in the day of the Spirit we come to know that Christ is in the Father, we are in him and he is in us, and the Father's love is brought into the bottom of our lot 'behind our watchful dragons'. Healing is the unveiling of love already in us; darkness is life without knowing love, light is life with love. The great obstacle is the conscience, an internal accuser introduced by Satan, which uses a law, keeps records, weighs us on scales and delivers a verdict - and while we believe it is God we are in serious trouble. The conscience is not to be destroyed but renewed: the tree of the knowledge of good and evil must come under the Tree of Life, Jesus, as a servant. Bruce then begins listing the lies the conscience builds: first, that we are separated from God or alone (impossible, given Colossians 1); second, that we can climb back across that separation - a myth that leaves people like 'the hamster's dead but the wheel's still turning'.",
+  "keyPoints": [
+    "John 14:20 is the destination: in the day of the Spirit we know Christ in the Father, us in him and him in us, and the love the Father has for the Son comes into the bottom of our lot (John 17:26).",
+    "This love is discovered rather than installed; it comes from the bottom up, 'behind our watchful dragons' and defences - we don't put Jesus in, just as we didn't ask to be born.",
+    "We don't love ourselves because we carry an accuser - the conscience - and almost everyone admits theirs accuses them.",
+    "The chain of judge to guilt to fear locks people up; much church preaching of law and fear produces frozen people who just 'be good'.",
+    "Bruce's models are 'cactus' - not exactly right, but useful; healing is recursive and spirals like an auger, revisiting the same issues.",
+    "Healing is the unveiling of the love in you; darkness is life without knowing love, light is life with love.",
+    "The conscience entered the human race from Satan the accuser; Christianity is not following your conscience but walking in relationship with the One in you.",
+    "There were two trees: the Tree of Life (Jesus) and the tree of the knowledge of good and evil; the conscience is not chopped down but renewed to serve Jesus.",
+    "The conscience's structure: an accuser, using a law, keeping records of good and bad, weighing them on scales (like Egyptian myth) and delivering a verdict - in or out.",
+    "Lie 1: we are separated from God or alone - impossible, since all things are made and held together in Christ (Colossians 1); yet this lie sits under most of our pain, producing feelings of abandonment, vulnerability and guilt.",
+    "Lie 2: we can climb back across the separation by merit, confession or conscience-based activity - a myth; a pastor described this as 'the hamster's dead but the wheel's still turning'.",
+    "Religion's climbing runs directly opposite to the Incarnation: God has jumped into our darkness, and Jesus invites us to face ourselves where he already is, not to make ourselves acceptable."
+  ],
+  "keyTerms": [
+    {
+      "term": "Conscience",
+      "definition": "The internal accuser, introduced through Satan, that judges us using a law, records, scales and a verdict."
+    },
+    {
+      "term": "The Accuser",
+      "definition": "A name for Satan; the conscience in us bears its image."
+    },
+    {
+      "term": "Tree of Life",
+      "definition": "Jesus himself; the renewed conscience serves him."
+    },
+    {
+      "term": "Tree of the knowledge of good and evil",
+      "definition": "The source of the moral conscience, stuck into us 'in the wrong place'; to be renewed as a servant."
+    },
+    {
+      "term": "Light / darkness",
+      "definition": "Light is life together with love; darkness is life without knowing love."
+    },
+    {
+      "term": "Recursive healing",
+      "definition": "Healing that spirals, revisiting the same issues at deeper levels."
+    },
+    {
+      "term": "Stairway to heaven",
+      "definition": "The religious attempt to climb back to a God we think we are separated from."
+    }
+  ],
+  "scriptures": [
+    "John 14:20",
+    "John 14:10",
+    "John 17:26",
+    "Genesis 2:9",
+    "Genesis 2:17",
+    "Colossians 1:16-17"
+  ],
+  "quotes": [
+    "Healing is the unveiling of the love in you.",
+    "Christianity is about a walk with the being in you, who you never put there.",
+    "The hamster's dead but the wheel's still turning.",
+    "It is not possible to climb back to an imaginary God."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "How the conscience builds its case",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "Lie: I am separated",
+        "detail": "Believing we are alone and cut off from God, though all things hold together in Christ."
+      },
+      {
+        "id": "b",
+        "label": "Accuser (conscience)",
+        "detail": "An internal judge that assumes it speaks for God."
+      },
+      {
+        "id": "c",
+        "label": "Law",
+        "detail": "Some standard - religious or secular - used as the measure."
+      },
+      {
+        "id": "d",
+        "label": "Records",
+        "detail": "A ledger of good and bad deeds kept against us."
+      },
+      {
+        "id": "e",
+        "label": "Scales",
+        "detail": "Good and bad weighed against each other to see if we are enough."
+      },
+      {
+        "id": "f",
+        "label": "Verdict: in or out",
+        "detail": "A final judgment of acceptable or unacceptable."
+      },
+      {
+        "id": "g",
+        "label": "Guilt locks fear",
+        "detail": "Guilt switches on fear and leaves us frozen, climbing a stairway that goes nowhere."
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "b",
+        "label": "empowers"
+      },
+      {
+        "from": "b",
+        "to": "c",
+        "label": "uses"
+      },
+      {
+        "from": "c",
+        "to": "d",
+        "label": "fills"
+      },
+      {
+        "from": "d",
+        "to": "e",
+        "label": "loads"
+      },
+      {
+        "from": "e",
+        "to": "f",
+        "label": "delivers"
+      },
+      {
+        "from": "f",
+        "to": "g",
+        "label": "produces"
+      }
+    ],
+    "note": "The whole legal machine rests on a first lie - that we are separated from God - which the gospel declares impossible."
+  },
+  "caseStudy": {
+    "title": "Trying to pray her way back",
+    "scenario": "Grace, a youth leader, goes through seasons when God feels far away. Each time she responds by drawing up lists of things to confess, waking early to pray longer and volunteering more. For a while she feels closer, then the distance returns and she feels exhausted and guilty. She confides that she feels 'like a hamster on a wheel'.",
+    "analysis": "Grace is living from the first two lies Bruce identifies: that she is separated from God, and that she can climb back by merit or confession. Her conscience is acting as the measure of how close she is, keeping records and weighing her effort. Because the separation is not real (Colossians 1), the climb never arrives anywhere, which is why the cycle repeats and wears her out. Healing begins by recognising that the distance is a feeling produced by a lie and that Christ is already with her in the place she feels empty.",
+    "pathway": [
+      "Name the two lies explicitly: 'I am separated' and 'I must climb back'.",
+      "When God feels far, sit quietly and say 'I'm not separated; you hold me together' instead of reaching for a task.",
+      "Notice when confession becomes a ladder for earning closeness rather than an honest conversation.",
+      "Reduce performance-driven commitments for a season to see what remains when she stops climbing.",
+      "Share the pattern with a trusted mentor, and seek professional help if exhaustion or low mood persists."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Spot the ladder",
+      "how": "When you feel distant from God, write down what you instinctively reach for (rating yourself, confessing, doing more). Label it 'climbing' and gently set it aside."
+    },
+    {
+      "name": "Colossians 1 reset",
+      "how": "Read Colossians 1:16-17 slowly and replace 'all things' with your own name: 'In him I was created... in him I hold together.'"
+    },
+    {
+      "name": "Light and dark check",
+      "how": "At the end of the day ask: where did I have life with love (light), and where did I have life without love (darkness)? Bring the latter to Jesus without accusation."
+    }
+  ],
+  "reflection": [
+    "When you feel separated from God, what do you instinctively do to get back?",
+    "Have you assumed your conscience speaks with God's voice? Where did that assumption come from?",
+    "What would change if you truly believed separation from God is impossible?"
+  ],
+  "quiz": [
+    {
+      "q": "What is the first lie built by the conscience?",
+      "options": [
+        "That we can earn salvation",
+        "That we are separated from God or alone",
+        "That the law is unimportant",
+        "That emotions are evil"
+      ],
+      "answer": 1,
+      "explain": "The foundational lie is separation, which Colossians 1 shows is impossible."
+    },
+    {
+      "q": "How does Bruce define darkness?",
+      "options": [
+        "Life with love",
+        "Absence of life",
+        "Life without knowing love",
+        "Breaking the law"
+      ],
+      "answer": 2,
+      "explain": "Darkness is life without love; light is life together with love."
+    },
+    {
+      "q": "What does Bruce say should happen to the conscience?",
+      "options": [
+        "It should be renewed to serve Jesus, the Tree of Life",
+        "It should be obeyed as God's voice",
+        "It should be completely destroyed",
+        "It should be strengthened by more rules"
+      ],
+      "answer": 0,
+      "explain": "The tree of the knowledge of good and evil is to become a servant of the Tree of Life."
+    }
+  ]
+}

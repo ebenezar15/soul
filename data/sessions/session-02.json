@@ -1,0 +1,88 @@
+{
+  "session": 2,
+  "videoId": "VT5ZbibGjTc",
+  "youtubeTitle": "The Gospel and Soul Health Session 2 - Dr Bruce Wauchope",
+  "volume": "",
+  "chapter": "Chapter 1: Jesus is in the Father",
+  "topic": "The Trinity's love and indivisible oneness",
+  "summary": "Using John 14:20 as the framework for the series, Bruce begins laying down eight 'non-negotiables', drawn from the prologue of John's Gospel. The first is the love of, in and between Father, Son and Spirit together with their indivisible union and oneness: the 'Who' of the universe. Because all things were made through the Word and the life in all things is his life, there is no 'outside' of God and no possibility of separation from him; we live in union with, yet distinct from, that life. Darkness is life without love, which twists the flow of Christ's life into power, hierarchy and control. God's holiness is the uniqueness of the love between the Father, Son and Spirit, and his 'wrath' is the frustration of a Father who wants his children home. The Father never turned his face from the Son, even on the cross, and the Trinity relates by mutual service, not hierarchy.",
+  "keyPoints": [
+    "John 14:20 ('I am in my Father, you in me, and I in you') is the structure for the whole series, which will build towards eight non-negotiables taken from John's prologue.",
+    "The first non-negotiable is the love of, in and between Father, Son and Spirit and their indivisible union and oneness. Bruce will not give ground on any doctrine that splits the Father from the Son.",
+    "'In the beginning' (arche) means before creation and in the source. The Word was face to face with God, so God is persons in relationship. Bruce acts this out with three volunteers standing arm in arm in a circle.",
+    "Since all things were made through the Word and are held within the Trinity, there is no outside to God, God has no boundary, and separation from God is impossible.",
+    "Following the early church's reading of John 1:3-4 ('that which was made, in him was life'), the life flowing through every person, even the worst tyrants, is Christ's life. We participate in it. We don't own it.",
+    "This is perichoresis, not pantheism: we are in union with that life yet remain distinct, so we can turn the flow of God's goodness towards evil.",
+    "Love gives life. Life that participates with love is in light. Life that refuses love and does what it wants is darkness, which still has energy, direction and intention.",
+    "Darkness cannot comprehend the light because, focused on life, power, hierarchy and control, it cannot see love. So when God came as a human, we killed him.",
+    "Love will hold a person who screams against it until they begin to receive love, because there is no other way. The Father wants every person and every part of every person ('let not one scrap be lost').",
+    "The Word became sarx (flesh), the worst of human corruption, so that he could change things from the bottom up, holding the parts of us we hate with 'the everlasting arms' underneath.",
+    "Holiness means unique and set apart: the love between the Father, Son and Spirit is like nothing else. God's 'wrath' is the frustration of a Father whose children won't come home and hug back.",
+    "On the cross Jesus quoted the first line of Psalm 22, which goes on to say God has not hidden his face. The Father never turned away from the Son. Within the Trinity, persons serve one another rather than ruling by hierarchy."
+  ],
+  "keyTerms": [
+    {"term": "Non-negotiables", "definition": "Eight foundational convictions drawn from John's prologue on which Bruce will not give ground; the first is the Trinity's love and indivisible oneness."},
+    {"term": "Perichoresis", "definition": "Mutual indwelling: union with distinction. We are in union with Christ's life flowing through us, yet remain distinct persons (not pantheism)."},
+    {"term": "Arche (beginning)", "definition": "Before creation; the source from which all things came."},
+    {"term": "Zoe", "definition": "The life of Jesus that flows through and holds together the whole universe."},
+    {"term": "Darkness", "definition": "Life without love: our use of Christ's life for self, expressed as power, hierarchy and control."},
+    {"term": "Sarx", "definition": "Flesh: the corrupted human condition that the Word entered so he could heal humanity from the bottom up."},
+    {"term": "Holiness", "definition": "Uniqueness and set-apartness, chiefly the unique love between Father, Son and Spirit."},
+    {"term": "Wrath", "definition": "The Father's frustration and grief that his children reject relationship, not a desire to punish."}
+  ],
+  "scriptures": ["John 14:20", "John 1:1-18", "2 Corinthians 5:21", "Habakkuk 1:13", "Habakkuk 2:4", "John 17:26", "Deuteronomy 33:27", "Psalm 22:1", "Psalm 22:24", "John 3:35", "John 5:20", "Deuteronomy 6:4", "Psalm 110:1", "Mark 10:42-45", "Hebrews 10:38", "John 6:12", "Matthew 3:10"],
+  "quotes": [
+    "We're starting from a position where there can be no outside to God, and we are in God.",
+    "Love gives life.",
+    "It will hold you while you scream, and love you, until you begin to receive love, because there isn't another way.",
+    "Jesus never prayed 'God'; he prayed Abba, he prayed Dad."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "From Trinitarian love to light or darkness",
+    "nodes": [
+      {"id": "a", "label": "Father, Son, Spirit", "detail": "Persons in face-to-face love and indivisible oneness."},
+      {"id": "b", "label": "Love gives life", "detail": "Out of their love, all creation is made through the Word."},
+      {"id": "c", "label": "Christ's life in all", "detail": "The life in every person is his zoe; there is no outside to God."},
+      {"id": "d", "label": "Life with love = light", "detail": "Participating with love, we walk in the light."},
+      {"id": "e", "label": "Life without love = darkness", "detail": "Twisting his life for self, which leads to power, hierarchy and control."},
+      {"id": "f", "label": "Love holds and waits", "detail": "The Word enters the flesh and holds us until we receive love."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "overflows"},
+      {"from": "b", "to": "c", "label": "flows into"},
+      {"from": "c", "to": "d", "label": "received"},
+      {"from": "c", "to": "e", "label": "twisted"},
+      {"from": "e", "to": "f", "label": "met by"},
+      {"from": "f", "to": "d", "label": "draws into"}
+    ],
+    "note": "The life in everyone comes from the Trinity's love. Light or darkness depends on whether that life takes part in love, and love pursues us even in our darkness."
+  },
+  "caseStudy": {
+    "title": "The manager who has to be in control",
+    "scenario": "Mark, 44, runs a team at work and a small church ministry. He micromanages both, feels anxious whenever someone else gets credit, and privately believes God is disappointed in him and keeping his distance. When his teenage son pulls away, Mark tightens the rules. He feels he is working harder and harder just to stay acceptable.",
+    "analysis": "In Bruce's framework, Mark has life without a felt experience of love, so he falls back on power, hierarchy and control to hold life together. His picture of a distant, holy-means-angry God is the opposite of a Father who never turns his face away and whose 'wrath' is longing for his children. Because Mark is already held inside the Trinity's life, the cure is not more control but receiving love.",
+    "pathway": [
+      "Read John 1:1-18 slowly and notice that he already lives inside a life that flows from love.",
+      "Replace 'God is disappointed' with John 14:20 as a daily reminder: he is in Christ, and Christ is in the Father.",
+      "Practise serving rather than ruling: ask one team member each week, 'How can I help you succeed?'",
+      "Approach his son with curiosity and warmth instead of tighter rules, and name his own fear honestly.",
+      "Talk with a trusted pastor or counsellor about the anxiety that drives his need for control."
+    ]
+  },
+  "practices": [
+    {"name": "Circle of three", "how": "Picture the Father, Son and Spirit arm in arm, then picture yourself placed in the middle. Stay with that image for two minutes and notice what you feel."},
+    {"name": "Life-flow awareness", "how": "Several times a day, notice your breath and heartbeat as a life you receive rather than generate. Say quietly, 'Your life, flowing through me.'"},
+    {"name": "Serve, don't rule", "how": "In one relationship this week, deliberately take the servant's place (Mark 10:42-45) where you would usually take charge."}
+  ],
+  "reflection": [
+    "Where in your life do you secretly believe there is an 'outside' to God's presence?",
+    "When you feel unloved, how do you reach for control, power or performance instead?",
+    "How does 'wrath as a Father longing for his children' change the way you picture God's holiness?"
+  ],
+  "quiz": [
+    {"q": "What is the first non-negotiable Bruce lays down?", "options": ["God's sovereignty over history", "The love between Father, Son and Spirit and their indivisible oneness", "The authority of the church", "Personal holiness and obedience"], "answer": 1, "explain": "He begins with the 'Who': the love in and between the Trinity and their indivisible union."},
+    {"q": "According to Bruce, what is 'darkness'?", "options": ["Places where God is absent", "A separate evil power equal to God", "Life without love, which twists Christ's life towards control", "Lack of correct doctrine"], "answer": 2, "explain": "Darkness still has Christ's life flowing in it but refuses love, so it becomes power and control."},
+    {"q": "How does Bruce interpret Jesus' cry 'My God, my God, why have you forsaken me?'", "options": ["He was quoting Psalm 22, which goes on to say God did not hide his face", "The Father turned away because he could not look on sin", "Jesus lost his faith on the cross", "The Spirit left Jesus at that moment"], "answer": 0, "explain": "Hearers would have known all of Psalm 22, which says God has not turned his face away (v. 24)."}
+  ]
+}

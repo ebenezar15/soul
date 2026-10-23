@@ -1,0 +1,90 @@
+{
+  "session": 11,
+  "videoId": "Dm_pDHbRZ4o",
+  "youtubeTitle": "The Gospel and Soul Health Session 11- Dr Bruce Wauchope",
+  "volume": "Volume 1: The Gospel of John",
+  "chapter": "Chapter 2: We are in Jesus Christ (Session 2 Key Themes: Development of the Conscience)",
+  "topic": "The Fall and the Accusing Conscience",
+  "summary": "Bruce reads Genesis 3 as a true meta-narrative of humanity, whether taken literally or as story. Already alone and blinded, Adam is complicit with Satan as the serpent 'works over' Eve, gradually, perhaps over eons as C.S. Lewis suggested, through accusation-laced questions implying God is holding out on them and is not good. From this emerge rejection, fear (the amygdala switch flipping from love to fear), loss of the Father, and the false identity 'I am not'. The sting is the offer to achieve their true calling, to be like God as sons and daughters, by their own effort. Eating the tree activates the knowledge of good and evil in a dark place, so the conscience becomes an accuser that replaces the loving Father; it locks guilt, guilt locks fear, and fear locks the freeze response, producing religiously and emotionally frozen people.",
+  "keyPoints": [
+    "Jesus, the Lion of Judah who appears as a Lamb, submitted to our violence and reached the bottom of our black hole; deeper in you than your black hole is Christ, healing from the bottom up.",
+    "Genesis 3 is 'true' whether read as history, allegory or meta-narrative, because it describes us so accurately.",
+    "The word for woman carries a sense of saving or helping: she is a relational saviour for the alone man.",
+    "Adam was not deceived (1 Timothy 2:14); already alone and turned, he was complicit while Satan worked over Eve, a view Bruce finds in Jewish midrash and the early church fathers.",
+    "Lie one: 'I am separated', the Adamic or natural view of the universe, contrary to Colossians 1's 'in him'.",
+    "Lie two: 'God is holding out on you'. The serpent's question is laced with accusation and raises doubt about the Father's goodness, producing a sense of rejection.",
+    "Rejection leads to the possibility of not surviving, and fear emerges for the first time; the amygdala switch flips from love to fear, with freeze, flight, fight, faint and submission responses, and reduced capacity to receive.",
+    "Lie three: 'I can be': the serpent offers their true calling (to be like God, as sons and daughters) achieved their own way, which is subtler than simple pride.",
+    "Eating activated the knowledge of good and evil in a place of aloneness, fear and hurt, so the conscience took on the image of its creator: an accuser that judges our climbing back to God.",
+    "Had the Tree of Life come first, the knowledge of good and evil would have been a wonderful servant: a conscience attuned to zoe, love and its absence. This is what conscience becomes for believers.",
+    "Lie four: 'My conscience is God', or the measure of my identity; we exchanged a loving Father, Son and Spirit for an accuser and can never measure up.",
+    "The conscience locks guilt, guilt locks fear, and fear locks the freeze response; conscience-based religion produces emotionally and mentally frozen people with constricted lives."
+  ],
+  "keyTerms": [
+    {"term": "Meta-narrative", "definition": "Reading Genesis 3 as a story that is true of all humanity regardless of debates about its literal history."},
+    {"term": "Work over", "definition": "The serpent's gradual, incremental campaign of accusing questions that distort Eve's view of God."},
+    {"term": "Accuser", "definition": "Satan's name, and the nature of the conscience formed in darkness: an inner judge that condemns."},
+    {"term": "Amygdala switch", "definition": "The brain's shift between functioning from love and functioning from fear."},
+    {"term": "Fear responses", "definition": "Freeze, flight, fight, faint and submission, which reduce our capacity to receive information."},
+    {"term": "Knowledge of good and evil", "definition": "The capacity to discriminate; meant to serve life and love, but in darkness it becomes a judging conscience."},
+    {"term": "The lock", "definition": "Conscience locks guilt, guilt locks fear, fear locks freeze: the trap of conscience-based living."},
+    {"term": "Achieving the calling your way", "definition": "The serpent's offer to become like God by self-effort rather than receiving sonship as gift."}
+  ],
+  "scriptures": ["Revelation 5:5-6", "Genesis 2:18-22", "Genesis 3:1-5", "1 Timothy 2:14", "Colossians 1:16-17"],
+  "quotes": [
+    "Deeper in you than your black hole is Christ. There's nothing deeper.",
+    "It doesn't look like much, but it's laced with accusation.",
+    "I have exchanged a loving Dad with an accuser.",
+    "The conscience locks my guilt; my guilt locks my fear; my fear locks my freeze response."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "The Lies and the Lock",
+    "nodes": [
+      {"id": "a", "label": "Lie 1: I'm separated", "detail": "Adam alone, operating in a universe of separation."},
+      {"id": "b", "label": "Lie 2: God holds out", "detail": "Accusing questions imply the Father is not good and not for me."},
+      {"id": "c", "label": "Rejection and fear", "detail": "Fear emerges for the first time and the amygdala switches from love to fear."},
+      {"id": "d", "label": "Lie 3: I can be", "detail": "I can achieve my calling to be like God my own way."},
+      {"id": "e", "label": "Lie 4: Conscience is God", "detail": "The knowledge of good and evil becomes an accuser replacing the Father."},
+      {"id": "f", "label": "Guilt locks fear", "detail": "The conscience locks guilt, and guilt locks fear."},
+      {"id": "g", "label": "Frozen life", "detail": "Fear locks the freeze response: constricted, religious, frozen beings."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "b", "to": "c", "label": "produces"},
+      {"from": "c", "to": "d", "label": "sting"},
+      {"from": "d", "to": "e", "label": "eat"},
+      {"from": "e", "to": "f", "label": "locks"},
+      {"from": "f", "to": "g", "label": "locks"}
+    ],
+    "note": "The incremental lies of Genesis 3 culminating in the conscience-guilt-fear-freeze lock."
+  },
+  "caseStudy": {
+    "title": "Priya's inner woodpecker",
+    "scenario": "Priya, 28, is a conscientious nurse who grew up in a strict church. She replays every conversation looking for what she did wrong and feels she can never quite be good enough for God. When she faces a decision she often goes blank and cannot act. Her prayers are mostly apologies and promises to do better.",
+    "analysis": "Priya's conscience functions as God to her, an accuser measuring her climb back to God. Its constant judgment locks guilt, which locks fear, which locks a freeze response; her blankness is that freeze. Bruce's framework suggests the problem is not too little conscience but a conscience formed in aloneness, and the way forward is relationship with a good Father, which reorients the conscience to serve life and love.",
+    "pathway": [
+      "Learn to recognise the accusing voice and label it 'conscience', not 'God'.",
+      "Compare its tone with Genesis 3's serpent: does it imply God is holding out on her?",
+      "When she freezes, use grounding (slow breathing, feet on floor) to move the amygdala switch back toward safety.",
+      "Replace one apology-prayer daily with receiving: 'Father, you are for me.'",
+      "Ask, 'Is this loving or unloving?' rather than 'Am I good or bad?', letting conscience serve love.",
+      "If anxiety or scrupulosity is intense, seek a counsellor experienced with religious anxiety."
+    ]
+  },
+  "practices": [
+    {"name": "Spot the serpent's question", "how": "When you sense God is withholding from you, write the thought down and rewrite it in light of a Father who is good and for you."},
+    {"name": "Love or fear check", "how": "Several times a day ask, 'Am I functioning from love or from fear right now?' and take three slow breaths if it is fear."},
+    {"name": "Conscience reorientation", "how": "At day's end review not 'what did I do wrong?' but 'where did I see life and love, and where was love missing?'"}
+  ],
+  "reflection": [
+    "In what ways have you tried to achieve your calling 'your own way'?",
+    "Where does your conscience sound more like an accuser than a loving Father?",
+    "Which fear response (freeze, flight, fight, faint, submission) do you default to under pressure?"
+  ],
+  "quiz": [
+    {"q": "Why, according to Bruce, was the serpent working on Eve rather than Adam?", "options": ["Eve was weaker", "Adam was asleep", "Adam was already turned and complicit", "Satan feared Adam"], "answer": 2, "explain": "Adam was not deceived (1 Timothy 2:14) and was already complicit."},
+    {"q": "What was the 'sting in the tail' of the serpent's offer?", "options": ["Achieving their true calling to be like God by their own way", "Gaining immortality through the fruit", "Ruling over the angels", "Escaping the garden"], "answer": 0, "explain": "Being like God was their calling; the lie was achieving it by self-effort."},
+    {"q": "What is the sequence of the 'lock'?", "options": ["Fear locks guilt, guilt locks conscience", "Shame locks anger, anger locks fight", "Pride locks fear, fear locks flight", "Conscience locks guilt, guilt locks fear, fear locks freeze"], "answer": 3, "explain": "Conscience-based living ends in a frozen life."}
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "session": 49,
+  "videoId": "SgUKiIAmR_g",
+  "youtubeTitle": "The Gospel and Soul Health Session 49 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 3 - Session 4",
+  "topic": "Grief, soul ties and calling life back",
+  "summary": "Bruce frames grief within the flow of life (zoe) that moves between people in relationship: when a loved one dies or a relationship ends, the soul keeps reaching for that flow and life pours out 'into the dust', which is felt as inconsolable pain. Grief cannot be fixed; it has to be grieved. But the bleeding can be stopped by reconstructing the person through a montage, saying everything that needs to be said, and then asking the Holy Spirit to close off your side of the soul tie. This is not cutting off the loved one, who is more alive in the risen Christ than we are; it simply ends the frantic seeking for reciprocation at this level. He extends the same idea to broken relationships, introduces 'calling your life back', washed in Christ, and the importance of soul boundaries, and he reframes darkness not as a rival power but as the loveless manipulation of the life of Christ that runs through creation.",
+  "keyPoints": [
+    "Grief cannot be solved, only grieved. It is like a tree chopped down in the backyard: you cannot get the tree back, and there is only a stump.",
+    "In any close relationship there is a flow of life (zoe) between two people that goes up and down. When the other person is gone, my soul keeps seeking that flow and it pours out of me into the dust.",
+    "This explains the inconsolable pain of grief, often felt in the chest: it is not just losing a possession but losing a shared life-flow. The same process happens in divorce.",
+    "Step one is to reconstruct the person through a montage of photos, audio and memories, so that every part of you that misses them can re-engage.",
+    "Step two is to say everything you need to say to them: how much you love them, miss them, were annoyed by them, and what you wish had been.",
+    "Step three is a simple prayer asking the Holy Spirit to close off your side of the soul tie. Your end is like an open hose still pouring out looking for your beloved.",
+    "Closing the tie does not lose the person. The dead in Christ are more alive than we are: Jesus walked through walls and ate fish, so 'they are the solid ones and we are the ghosts.'",
+    "Afterwards you still love, miss and grieve the person, but the frantic, inconsolable pain goes. In broken relationships Bruce only prays this once the relationship is truly over.",
+    "Every soul is sacred: there is no spiritual hierarchy and no 'witch doctor' is needed. Anyone can pray, and we keep our fingers off other people's souls.",
+    "Calling life back: because life flows both ways in relationship, part of me may be in another and part of them in me. Pray that all your life return to you, washed and cleansed in Jesus, then ask for soul ties to be closed.",
+    "Healthy closeness moves from respect through safety, virtue and trust to intimacy. A person who is not improving may lack soul boundary integrity, like cleaning a house with all the windows open.",
+    "Darkness is not a rival power but blindness to the good. The occult (meaning 'hidden') is fiddling with the zoe of Christ that flows through the universe for power without love, so we need not fear it."
+  ],
+  "keyTerms": [
+    {"term": "Zoe / flow of life", "definition": "The life of God in Christ that animates us and flows between people in relationship, more than bodily existence."},
+    {"term": "Soul tie", "definition": "The real life-flow connection between two people. When the other is gone, your side can stay open and 'bleed out'."},
+    {"term": "Montage", "definition": "A reconstruction of the lost person through photos, audio and memories so that all parts of you that miss them are engaged before saying goodbye."},
+    {"term": "Closing off the soul tie", "definition": "Asking the Holy Spirit to close your own ruptured, bleeding end of the connection. This is not wishing the person away but stopping the outpouring of life."},
+    {"term": "Calling life back", "definition": "Praying that all of your life lodged in another person returns to you, washed and cleaned in Jesus, so nothing attached to them comes back with it."},
+    {"term": "Soul boundary integrity", "definition": "A person's intact boundary, so they are not continuously influenced through 'pipelines' from others or from dark things."},
+    {"term": "Occult", "definition": "Literally 'hidden'. In Bruce's framing it is people playing with the zoe of Christ in creation for power rather than in love."}
+  ],
+  "scriptures": ["Luke 24:42-43", "John 20:19"],
+  "quotes": [
+    "You can't fix grief. It's got to be grieved.",
+    "They are now more alive than we are. They are the solid and we are the ghosts.",
+    "Closing off the soul tie doesn't mean you don't love the person anymore. It means you're not suffering the pain.",
+    "Darkness or evil is merely blindness to what is good."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "Healing the bleeding of grief",
+    "nodes": [
+      {"id": "a", "label": "Shared flow of life", "detail": "Two people in relationship share a reciprocal flow of zoe."},
+      {"id": "b", "label": "Loss: death or rupture", "detail": "One partner dies or the relationship ends, and the flow has nowhere to go."},
+      {"id": "c", "label": "Soul bleeds out", "detail": "My side keeps seeking and pouring out life, which is felt as inconsolable pain."},
+      {"id": "d", "label": "Reconstruct a montage", "detail": "Engage every part of me that misses them with photos, sounds and memories."},
+      {"id": "e", "label": "Say what must be said", "detail": "Express love, anger, longing and regret fully to the person."},
+      {"id": "f", "label": "Spirit closes my side", "detail": "Pray for the Holy Spirit to close my end of the soul tie and call my life back."},
+      {"id": "g", "label": "Grief without torment", "detail": "Love and memory remain, but the frantic pain is gone."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "b", "to": "c", "label": "causes"},
+      {"from": "c", "to": "d", "label": "begin healing"},
+      {"from": "d", "to": "e"},
+      {"from": "e", "to": "f"},
+      {"from": "f", "to": "g", "label": "brings"}
+    ],
+    "note": "Traces why grief hurts so much in a zoe framework (the life-flow keeps pouring out) and the three-step process for stopping the bleeding without severing love."
+  },
+  "caseStudy": {
+    "title": "Eighteen months after Ruth",
+    "scenario": "Graham's wife Ruth died eighteen months ago after forty years of marriage. Friends say he 'should be moving on', but he still sets two cups out some mornings, feels a heavy ache in his chest at dusk, and drifts aimlessly through the house as if searching for something. He has a strong faith that Ruth is with the Lord, yet the pain feels bottomless.",
+    "analysis": "Graham's soul is still reaching for the shared flow of life he had with Ruth. His side of the connection is open, and his life is pouring out with nowhere to land, which is the inconsolable, chest-located pain Bruce describes. The answer is not to stop grieving or to forget Ruth, who is more alive in Christ than he is, but to complete what needs saying and let the Spirit close his bleeding end of the tie.",
+    "pathway": [
+      "Gather photos, recordings, letters and objects into a montage of Ruth over an unhurried afternoon, ideally with a trusted friend or pastor.",
+      "Speak to Ruth everything still unsaid: gratitude, love, frustrations, regrets and how much he misses her.",
+      "Pray simply: 'Holy Spirit, please close off my side of this soul tie; Ruth is alive in you, and I entrust her to you.'",
+      "Give himself permission to keep grieving and remembering, since grief is to be grieved and not fixed.",
+      "Build new rhythms of shared life with friends and church so his life can flow into present relationships.",
+      "If he is in persistent despair or cannot function, see a GP or grief counsellor alongside pastoral support."
+    ]
+  },
+  "practices": [
+    {"name": "Memory montage", "how": "Set aside time to assemble photos, sounds and keepsakes of someone you have lost, letting each part of you that misses them come to the surface."},
+    {"name": "Unsent letter", "how": "Write or speak aloud everything you still need to say to the person, including love, anger, thanks and regret, until you sense you have said it all."},
+    {"name": "Calling life back prayer", "how": "Pray: 'Father, may all of my life come back to me, washed and cleaned in Jesus; Holy Spirit, please close any soul ties that are bleeding.'"}
+  ],
+  "reflection": [
+    "Where do I feel my life still 'pouring out' toward someone or something I have lost?",
+    "How does believing that the dead in Christ are more alive than we are change the way I grieve?",
+    "Are there relationships where I need to restore healthy soul boundaries or call my life back?"
+  ],
+  "quiz": [
+    {"q": "In Bruce's framework, why is grief so painful?", "options": ["Because we feel guilty for surviving", "Because the shared flow of life keeps pouring out of us with nowhere to go", "Because God is punishing us", "Because we did not pray enough for the person"], "answer": 1, "explain": "The soul keeps seeking the lost life-flow, and it bleeds out into the dust."},
+    {"q": "What does closing off the soul tie with a loved one who has died NOT mean?", "options": ["Asking the Spirit to close my bleeding side", "Ending the frantic seeking for reciprocation", "Ceasing to love or remember the person", "Allowing the inconsolable pain to subside"], "answer": 2, "explain": "You still love, miss and grieve them; only the torment ends."},
+    {"q": "How does Bruce describe the occult?", "options": ["An equal and opposite power to God", "Something only specialists can deal with", "Fiddling with the life of Christ in creation for power without love", "A purely imaginary phenomenon"], "answer": 2, "explain": "'Occult' means hidden; it plays with zoe without love, so it need not be feared as a rival power."}
+  ]
+}

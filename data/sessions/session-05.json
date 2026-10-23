@@ -1,0 +1,88 @@
+{
+  "session": 5,
+  "videoId": "fci2ishsvCc",
+  "youtubeTitle": "The Gospel and Soul Health Session 5 - Dr Bruce Wauchope",
+  "volume": "",
+  "chapter": "5th Non-negotiable: In entering what he made and holds together, Jesus Christ, the Son of God, became fully Man",
+  "topic": "Incarnation: God entering our flesh and darkness",
+  "summary": "Bruce recaps the first non-negotiables: the Trinity's love and oneness, their pre-creation purpose, and creation held together by Christ's zoe. He then turns to John 1:14, which he reads as 'the Word became flesh and dwelt in us'. No religious 'elevator' can lift the created into the uncreated: there is an event horizon that only God's stooping can cross, and the Western climbing model is rooted in neoplatonism rather than Hebraic union. Jesus came not as God sitting on top of a man but as God as man, fully entering our flesh, limitation and darkness, because 'whatever is not assumed is not healed'. Holding everything together, he still came as an embryo and as a vulnerable man, so we can stay human and abide rather than escape. Since no one knows the Father except the Son, Jesus is our only epistemological centre, and because of this union, whatever happens to him happens to us.",
+  "keyPoints": [
+    "Without non-negotiables, every verse carries the same weight and readers get lost. Jesus Christ is the critical path through Scripture because it is about him.",
+    "Because the Trinity is one, Jesus is with the Father and the Spirit in his humanity, his death, his ascension and his indwelling of us as the new Adam.",
+    "John 1:14 can be read 'the Word became flesh and dwelt in (en) us'. Grace and truth echo the Hebrew chesed (loving kindness) and emet (faithfulness).",
+    "There is an event horizon between the created and the uncreated. No spiritual elevator of confession, renouncing, rituals or holy living can climb it; sharing God's life requires God to stoop.",
+    "The climb-back-to-God model, with heaven above and matter and hell below, comes from neoplatonic Greek philosophy. The Hebraic view, Jesus' own, is union.",
+    "Jesus as Mediator is not placating an angry Father. He brings the Father's heart into our darkness, where we don't know we are loved.",
+    "The Trinity's wanting is not needy. They create out of fullness of love, not out of a black hole, unlike humans who ask partners to fix their emptiness.",
+    "Jesus came as God as man, not God on a man or God in a man's mind. He was fully human: hungry, tired, laughing, crying, angry, embodied.",
+    "Because God became fully human, we can 'abide' (remain): we can stay in our bodies and celebrate our humanity rather than escaping to reach God.",
+    "Christ entered both what the Trinity made (life) and what we made (darkness, living without love), while still holding the universe together, even as an embryo.",
+    "Gregory of Nazianzus: 'Whatever is not assumed is not healed.' Jesus went to the bottom of all human flesh, so the everlasting arms are under every abyss.",
+    "Since no one knows the Father except the Son (Matthew 11:27), creation, reason and Scripture read in darkness cannot reveal God without Jesus. 'If you've seen me, you've seen the Father.' Because of union, whatever happens to him happens to us."
+  ],
+  "keyTerms": [
+    {"term": "Incarnation", "definition": "The Word becoming flesh: God as man, entering our limitation, corruption and darkness."},
+    {"term": "Event horizon", "definition": "The boundary between created and uncreated being, which only God's stooping can cross."},
+    {"term": "Spiritual elevator", "definition": "The religious attempt to climb from the created to God through rituals, morality or enlightenment."},
+    {"term": "Chesed and emet", "definition": "The Hebrew words behind 'grace and truth': God's loving kindness and faithfulness."},
+    {"term": "Mediator", "definition": "Jesus bringing the Father's heart into our darkness, not placating an angry God."},
+    {"term": "Abide", "definition": "To remain: to stay in our humanity and bodies rather than escaping, because God has come to us."},
+    {"term": "Epistemological centre", "definition": "Jesus as the only way of knowing the Father, since no one knows the Father but the Son."},
+    {"term": "Dualism", "definition": "The Western mindset of separation between God and creation, which blinds us to union."}
+  ],
+  "scriptures": ["John 1:14", "Colossians 1:16-17", "John 1:3-4", "Acts 17:28", "John 15:4", "Ephesians 3:10", "Deuteronomy 33:27", "Hebrews 10:5", "Matthew 11:27", "Luke 10:22", "John 1:18", "John 6:46", "John 7:29", "John 14:9", "John 14:20", "John 17:26"],
+  "quotes": [
+    "The Word became flesh and dwelt in us.",
+    "Whatever is not assumed is not healed. (Gregory of Nazianzus)",
+    "It's not about being good enough. It's about being loved!",
+    "Because of this union, whatever happens to him happens to us."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Climbing up versus God stooping down",
+    "nodes": [
+      {"id": "l1", "label": "Separation assumed", "detail": "God over there, the universe over here.", "side": "left"},
+      {"id": "l2", "label": "Spiritual elevator", "detail": "Confess, renounce, perform, to try to climb back to God.", "side": "left"},
+      {"id": "l3", "label": "Escape the body", "detail": "Matter is low, so we try to leave our humanity.", "side": "left"},
+      {"id": "l4", "label": "Greek / neoplatonic", "detail": "Rooted in pagan dualism.", "side": "left"},
+      {"id": "r1", "label": "Union from the start", "detail": "All things made and held in Christ.", "side": "right"},
+      {"id": "r2", "label": "God stoops", "detail": "The Word becomes flesh and dwells in us.", "side": "right"},
+      {"id": "r3", "label": "Abide as human", "detail": "Stay in your body; celebrate your humanity.", "side": "right"},
+      {"id": "r4", "label": "Hebraic / Christ-centred", "detail": "Jesus, a Jew, reveals the Father.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "l1", "to": "l2"},
+      {"from": "l2", "to": "l3"},
+      {"from": "r1", "to": "r2"},
+      {"from": "r2", "to": "r3"}
+    ],
+    "note": "The Western model tries to climb an impossible event horizon. The gospel of union says God has crossed it, coming all the way down into our flesh."
+  },
+  "caseStudy": {
+    "title": "Trying to get 'spiritual enough'",
+    "scenario": "Leah, 40, has been through many spiritual programmes: fasting, early-morning prayer and retreats, each meant to get her closer to God. She feels ashamed of her body, her anxiety and her ordinary needs, and sees them as obstacles to holiness. When she gets sick or tired, she feels further from God. She has started to feel like a spiritual failure.",
+    "analysis": "Leah is on the 'spiritual elevator', trying to climb from the created to the uncreated, and she treats her humanity as the problem. Bruce's teaching on the incarnation says God has already stooped all the way down: Jesus got tired, hungry and wept, and whatever is not assumed is not healed. She can 'abide', remaining in her body and finding Christ there, instead of trying to escape it.",
+    "pathway": [
+      "Read the Gospels looking for Jesus' ordinary humanity: his tiredness, meals, tears and sleep.",
+      "Reframe spiritual disciplines as ways of resting in union, not rungs on a ladder.",
+      "Practise noticing God's presence in ordinary bodily moments such as eating, walking and resting.",
+      "When she feels anxious or ill, pray, 'Jesus, you have been here too.'",
+      "Seek medical and counselling support for her anxiety, and treat that care as part of honouring her humanity."
+    ]
+  },
+  "practices": [
+    {"name": "Embodied abiding", "how": "Take five minutes to notice your body (breath, weight, hands) and say, 'Christ became human like this; I can remain here.'"},
+    {"name": "Ordinary Jesus reading", "how": "Read one Gospel scene a day and note one human thing Jesus experienced."},
+    {"name": "Bottom of the abyss", "how": "When you feel a bottomless ache, picture the everlasting arms underneath it and breathe slowly for a minute."}
+  ],
+  "reflection": [
+    "Where are you still trying to 'climb' to God rather than receiving a God who has stooped to you?",
+    "Which parts of your humanity have you treated as obstacles to God?",
+    "What changes if Jesus is the only one who truly knows the Father and he is in you?"
+  ],
+  "quiz": [
+    {"q": "What does Bruce say the Greek word in John 1:14 lets us read?", "options": ["The Word became a spirit", "The Word dwelt above us", "The Word became flesh and dwelt in us", "The Word visited us briefly"], "answer": 2, "explain": "He reads 'en' as 'in us', meaning Christ entered our flesh."},
+    {"q": "Whose saying is 'Whatever is not assumed is not healed'?", "options": ["Gregory of Nazianzus", "Augustine", "C.S. Lewis", "Leunig"], "answer": 0, "explain": "The early church father Gregory of Nazianzus taught that Christ had to take on all of humanity to heal it."},
+    {"q": "Why can't the 'spiritual elevator' work?", "options": ["People aren't trying hard enough", "There is an event horizon between created and uncreated that only God's stooping crosses", "God forbids prayer", "The elevator only works for clergy"], "answer": 1, "explain": "The created can't change its own nature, so God must come down to us."}
+  ]
+}

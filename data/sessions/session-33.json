@@ -1,0 +1,88 @@
+{
+  "session": 33,
+  "videoId": "W7dsq-DEwfg",
+  "youtubeTitle": "The Gospel and Soul Health Session 33 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 1, Session 3",
+  "topic": "Mess surfaces as morality drops; healing is recursive",
+  "summary": "When the gospel of union replaces morality, people's hidden mess (sexual, financial, abuse, rage) rises to the surface, alarming pastors, but Bruce insists it was already there and was only suppressed by the conscience. Morality, the tree of the knowledge of good and evil, is a tree of death that suppresses emotion and blocks the flow of Zoe life in love. He does not advocate lawlessness: the knowledge of right and wrong is to be redeemed as a servant to the Tree of Life, asking 'Is life flowing in love?' rather than 'good or bad?'. Healing is not linear (ABCD) but recursive, spiralling deeper as we revisit the same themes, and it happens in relationship. He begins an overview: proclaiming the undiluted gospel removes guilt, brings assurance, ends the sense of separation, lets the amygdala move to love, removes the stairway of striving and lets protector parts stand down so rest can emerge.",
+  "keyPoints": [
+    "Pastors in several countries report a 'litany of mess' surfacing after people hear the gospel of union; Bruce's answer is that it is not new behaviour but already-present behaviour no longer suppressed.",
+    "What drops is the facade of morality ('plastic fantastic' religion); people become real, face themselves and change from the bottom up, becoming solid.",
+    "David Goa's line: 'Morality is to the flow of life as a condom is to procreation'; focusing on morality keeps love out of the picture.",
+    "The conscience came into being in a dark place, when we thought God was against us and we had to climb to achieve our calling our own way.",
+    "Redeemed, the knowledge of good and evil becomes a servant to the Tree of Life (Jesus), assessing whether we are flowing in life and love rather than accusing.",
+    "Life lived in love creates more life; life lived without love creates death, e.g. the same sex drive or business drive can bless or destroy.",
+    "This is not lawlessness: the conscience is not God, but it is turned to serve Christ's flow of Zoe in us (John 1:3-4).",
+    "A man carried rage since age eleven because morality forbade anger; when the gospel arrived the rage surfaced and a group simply held him while he healed; 'underneath are the everlasting arms'.",
+    "Healing is recursive, not ABCD: from above people seem to circle the same issues, but from the side they are spiralling deeper.",
+    "Healing happens in relationship, not as an island: others reflect us back, whether friends, community or a therapist.",
+    "The undiluted gospel (Christ in all, nobody put him there) brings loss of guilt, beginning of assurance, loss of separation and loss of fear as the amygdala can shift to love.",
+    "Because Christ is within, the stairway of striving disappears: we drop and abide rather than climb, and protector parts can stand down, freeing the brain's 'no-fly zones' so rest emerges."
+  ],
+  "keyTerms": [
+    {"term": "Plastic fantastic", "definition": "A smiling religious facade of being 'good' that hides suppressed mess."},
+    {"term": "Tree of death", "definition": "Bruce's name for the tree of the knowledge of good and evil, which kills relationships and suppresses emotion."},
+    {"term": "Tree of Life", "definition": "Jesus himself, the source of Zoe, to which a redeemed conscience becomes servant."},
+    {"term": "Zoe", "definition": "The life of Christ flowing through all creation, meant to flow in love."},
+    {"term": "Recursive healing", "definition": "Revisiting the same issues repeatedly while going deeper each time, like a downward spiral."},
+    {"term": "Undiluted gospel", "definition": "The gospel that Jesus is God and has joined all humanity, in contrast to the 'dodgy' Western gospel."},
+    {"term": "Protector parts", "definition": "Parts that guard painful areas, creating 'no-fly zones' in the brain."}
+  ],
+  "scriptures": ["John 1:3-4", "John 16:8", "Genesis 2:17", "Deuteronomy 33:27"],
+  "quotes": [
+    "Was this behaviour already there? Yes. So what are we upset about?",
+    "Morality is to the flow of life as a condom is to procreation. (quoting David Goa)",
+    "Life lived in love makes more life.",
+    "If Christ's in you, you don't climb; you drop."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Conscience as accuser vs conscience as servant of life",
+    "nodes": [
+      {"id": "l1", "label": "Tree of death", "detail": "Knowledge of good and evil rules as an accuser.", "side": "left"},
+      {"id": "l2", "label": "Good-bad verdicts", "detail": "Every act is judged morally, suppressing emotion.", "side": "left"},
+      {"id": "l3", "label": "Plastic fantastic facade", "detail": "Mess is hidden but still running underneath.", "side": "left"},
+      {"id": "l4", "label": "Striving stairway", "detail": "We climb to reach a God we think is outside.", "side": "left"},
+      {"id": "r1", "label": "Tree of Life rules", "detail": "Jesus is dominant; the conscience serves him.", "side": "right"},
+      {"id": "r2", "label": "Is life flowing in love?", "detail": "The question is about love and life, not morality.", "side": "right"},
+      {"id": "r3", "label": "Mess surfaces, gets held", "detail": "Hidden pain rises and is healed in relationship.", "side": "right"},
+      {"id": "r4", "label": "Abide and rest", "detail": "We drop into Christ within, and protectors stand down.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "l1", "to": "r1", "label": "redeemed into"},
+      {"from": "l2", "to": "r2", "label": "replaced by"},
+      {"from": "l3", "to": "r3", "label": "becomes"},
+      {"from": "l4", "to": "r4", "label": "gives way to"}
+    ],
+    "note": "Bruce is not removing right and wrong but repositioning it under Christ as a servant of life in love."
+  },
+  "caseStudy": {
+    "title": "Why is everything getting worse?",
+    "scenario": "Sam has been a dependable, smiling church member for years. After encountering the message that Christ is already in him and he is accepted, he suddenly finds old anger at his father, a secret spending habit and grief he never allowed himself to feel all coming to the surface. He fears he is backsliding.",
+    "analysis": "In Bruce's framework the mess is not new; the accusing conscience was suppressing it. As guilt and fear loosen, protector parts relax and buried material rises. Healing is recursive, so Sam will revisit these issues and go deeper each time, and it will happen best in relationship.",
+    "pathway": [
+      "Reframe the surfacing as a sign the lock is loosening, not as failure.",
+      "Replace 'Is this good or bad?' with 'Is life flowing in love here?'",
+      "Find a small group, friend or counsellor who can hold him without judgment.",
+      "Expect to revisit themes; treat each return as going deeper.",
+      "Practise resting in Christ within instead of striving to fix himself fast.",
+      "Seek professional support if anger or spending becomes harmful."
+    ]
+  },
+  "practices": [
+    {"name": "The life-and-love check", "how": "At day's end ask of one decision: 'Did this make more life, flowing in love?' instead of 'Was I good or bad?'"},
+    {"name": "Spiral journal", "how": "When an old issue returns, write what is different this time. Over months, notice the depth increasing."},
+    {"name": "Let yourself be held", "how": "Share one surfacing struggle with a safe person and ask them simply to listen and stay with you, not fix it."}
+  ],
+  "reflection": [
+    "What 'mess' in you has been suppressed by morality rather than healed?",
+    "How might your knowledge of right and wrong serve life rather than accuse you?",
+    "Where do you see yourself spiralling deeper rather than just going round in circles?"
+  ],
+  "quiz": [
+    {"q": "Why does mess surface when people receive the gospel of union?", "options": ["The gospel causes new sin", "People become lawless", "The accusing conscience stops suppressing what was already there", "The church loses discipline"], "answer": 2, "explain": "The behaviour was already there; only the moral facade drops."},
+    {"q": "What does a redeemed conscience become?", "options": ["Abolished entirely", "A servant to the Tree of Life, asking if life flows in love", "A stricter judge", "A guide to religious duty"], "answer": 1, "explain": "It serves Christ's flow of life rather than accusing."},
+    {"q": "How does Bruce describe the pattern of healing?", "options": ["A straight ABCD sequence", "A one-off event", "Something done alone", "Recursive: revisiting issues while spiralling deeper"], "answer": 3, "explain": "Seen from the side, the circling is a deepening spiral."}
+  ]
+}

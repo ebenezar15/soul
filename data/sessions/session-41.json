@@ -1,0 +1,86 @@
+{
+  "session": 41,
+  "videoId": "fU29AenyXQc",
+  "youtubeTitle": "The Gospel and Soul Health Session 41 - Dr Bruce Wauchope",
+  "volume": "Volume 3 - Soul Health",
+  "chapter": "Chapter 2 - The Conscience",
+  "topic": "Scripture dismantles the conscience's law, records and scales",
+  "summary": "Continuing 'level one' of deconstructing the conscience from Scripture, Bruce has already shown that the inner judge is not God (Revelation 12, 1 John 3, Hebrews 10) and now dismantles its other three tools: law, records and scales. Romans 3, Romans 10 and Galatians 2 show that no one is justified by the works of the law but by faith, which he defines as receiving a spoken relationship: 'You are my son, my daughter, and I love you.' This applies to every human system of acceptability, religious or secular. The records are gone, because transgressions are removed as far as the east is from the west and the New Covenant says 'I will remember them no more', which is what we celebrate at communion. The scales, borrowed from Egyptian mythology, are overturned by Romans 8: there is no condemnation in Christ and nothing can separate us from God's love. Institutions that manipulate guilt to keep people giving time and money are working against Christ.",
+  "keyPoints": [
+    "Recap: the conscience becomes evil when it speaks against who you are as a child of God, contradicting Jesus' 'you are my son, my daughter'.",
+    "The law: 'Christ is the end of the law for righteousness' (Romans 10:4). Whether 'end' or 'completion', the law is not the basis of your righteousness before God.",
+    "Romans 3:20-22 says that by the works of the law no flesh is justified; the righteousness of God is revealed apart from the law, through the faith of, or faith in, Jesus Christ. Either translation works for this argument.",
+    "Faith is not whipping yourself up or performing; it is receiving a spoken relationship and agreeing with God's work: 'Okay, I'll let you love me.'",
+    "We are caught up in the Trinity's love story, and we never made that happen nor are we responsible for keeping it working, so the accuser is 'operating on empty gas'.",
+    "On a bad day when the 'woodpeckers' come: 'I have stuffed up, but it doesn't change who I am. I'm a child of God, justified by Jesus.'",
+    "Galatians 2:16-21 and 3:11: if righteousness came through the law, Christ died in vain; the just shall live by faith, not performance. This applies equally to every human system of acceptability, religious, political or social.",
+    "The records: 'As far as the east is from the west' (Psalm 103:12) is an infinite separation, and the New Covenant (Jeremiah 31; Hebrews 8 and 10, three witnesses) promises 'I will remember their sins no more'.",
+    "Communion is drinking to that covenant: you have forgiven and forgotten, I won't take vertical authority over my brothers and sisters, and Christ is in me. Adding guilt and self-flagellation before communion plays a control game.",
+    "The scales come from Egyptian mythology (weighing the heart in the hall of the dead). Romans 8:1: there is no condemnation in Christ; walking 'according to the flesh' (the fallen, conscience-driven mind) is what produces felt accusation.",
+    "Bruce satirises the institutional formula of a little glory, activated conscience and 'just enough' guilt, relieved by giving time and money. He calls this an abomination and anti-Christ.",
+    "Romans 8:31-39: if God is for us, who can be against us? Only our conscience. God justifies, and nothing separates us from his love, so we can bring hidden torments into the sunlight."
+  ],
+  "keyTerms": [
+    {"term": "The judge / conscience", "definition": "The inner accuser that claims to speak for God but is a false, empty authority."},
+    {"term": "Law", "definition": "Any written standard of acceptability (biblical, political or social) used as the basis for being right with God or others. It is ended as a basis for righteousness in Christ."},
+    {"term": "Records", "definition": "The conscience's ledger of past wrongs, which God has removed and promises to remember no more."},
+    {"term": "Scales", "definition": "The idea of weighing good against bad deeds, taken from Egyptian mythology and overturned by 'no condemnation'."},
+    {"term": "Faith", "definition": "Receiving a spoken relationship: agreeing with God's declaration 'you are my child and I love you' and letting him love you."},
+    {"term": "Faith of Christ", "definition": "A translation of Romans 3:22 and Galatians 2:16 stressing Jesus' own faithfulness as the ground of our righteousness."},
+    {"term": "Walking according to the flesh", "definition": "Living from the fallen, conscience-driven mind, which is where accusation is felt."},
+    {"term": "Woodpecker", "definition": "Bruce's image for the relentless pecking of the accusing conscience."}
+  ],
+  "scriptures": ["Revelation 12:10", "1 John 3:20", "Hebrews 10:22", "Romans 10:4", "Romans 3:20-22", "Romans 3:28", "Galatians 2:16", "Galatians 2:21", "Galatians 3:11", "Psalm 103:12", "Jeremiah 31:31-34", "Hebrews 8:12", "Hebrews 10:17", "Romans 8:1", "Romans 8:31-39"],
+  "quotes": [
+    "Faith is receiving a spoken relationship.",
+    "I have stuffed up, but it doesn't change who I am. I'm a child of God.",
+    "When you stand before Jesus, the question is: can you let me love you?",
+    "You're meant to stop feeding the woodpecker."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "The conscience's tools vs the gospel's answer",
+    "nodes": [
+      {"id": "a", "label": "Law", "detail": "Acceptance based on meeting a standard.", "side": "left"},
+      {"id": "b", "label": "Records", "detail": "A ledger of everything I've done wrong.", "side": "left"},
+      {"id": "c", "label": "Scales", "detail": "Good weighed against bad to decide my fate.", "side": "left"},
+      {"id": "d", "label": "Justified by faith", "detail": "Righteousness apart from the law (Romans 3; Galatians 2).", "side": "right"},
+      {"id": "e", "label": "Remembered no more", "detail": "New Covenant: sins removed as far as east from west.", "side": "right"},
+      {"id": "f", "label": "No condemnation", "detail": "Nothing separates us from God's love (Romans 8).", "side": "right"}
+    ],
+    "edges": [
+      {"from": "a", "to": "d", "label": "answered by"},
+      {"from": "b", "to": "e", "label": "answered by"},
+      {"from": "c", "to": "f", "label": "answered by"}
+    ],
+    "note": "Each accusing tool of the conscience (left) is dismantled by a specific scriptural truth (right). The judge itself was dismantled in the previous session."
+  },
+  "caseStudy": {
+    "title": "The woodpecker after a blow-up",
+    "scenario": "Michelle snapped at her teenage son in front of his friends. Afterwards her mind replays every past failure as a parent, she tallies up whether she has done 'more good than harm', and she feels she can't take communion on Sunday until she has felt sorry enough. She notices she also mentally lists her husband's failings when she's feeling low.",
+    "analysis": "Michelle's conscience is running all three tools: law (the standard of a good mother), records (replaying past failures) and scales (weighing good against harm). It is also turned outward to accuse her husband. Bruce's reading of Romans, Galatians and Hebrews shows that none of these is the basis of her acceptance: she is justified by Christ, her sins are remembered no more, and there is no condemnation. That freedom also makes room for honest repair with her son.",
+    "pathway": [
+      "Name the tools when they appear: 'That's the law... the records... the scales.'",
+      "Speak Bruce's line to herself: 'I've stuffed up, but it doesn't change who I am; I'm a child of God.'",
+      "Read Romans 8:31-39 slowly, bringing the specific incident into the sunlight.",
+      "Go to communion as a celebration of the covenant: forgiven, forgotten, Christ in me.",
+      "From that security, apologise to her son without self-punishment and listen to how he felt.",
+      "Notice and gently stop the mental ledger she keeps on her husband."
+    ]
+  },
+  "practices": [
+    {"name": "Tool-spotting", "how": "When you feel accused, ask which tool is operating (law, records or scales) and answer it with the matching scripture: Romans 3:28, Hebrews 8:12 or Romans 8:1."},
+    {"name": "Faith as receiving", "how": "Spend two minutes each day hearing God say 'You are my son/daughter and I love you', and simply reply 'Okay, I'll let you love me.'"},
+    {"name": "Covenant communion", "how": "Before communion, instead of rehearsing sins, read Hebrews 8:10-12 and drink to being forgiven, forgotten and indwelt."}
+  ],
+  "reflection": [
+    "Which of the conscience's tools (law, records or scales) do I live under most?",
+    "Whom do I keep records on, and what would it mean to release them?",
+    "How would my experience of communion change if I saw it as drinking to the New Covenant?"
+  ],
+  "quiz": [
+    {"q": "How does Bruce define faith in this session?", "options": ["Believing hard enough to get results", "Receiving a spoken relationship: letting God love you as his child", "Agreeing with correct doctrine", "Obeying the law sincerely"], "answer": 1, "explain": "Faith responds to and agrees with God's declaration that we are his beloved children."},
+    {"q": "Where does Bruce say the idea of the 'scales' comes from?", "options": ["Leviticus", "Greek philosophy", "Egyptian mythology", "Roman law"], "answer": 2, "explain": "The weighing of the heart comes from Egyptian afterlife mythology, not the gospel."},
+    {"q": "What does the New Covenant's final clause say about our sins?", "options": ["They are remembered no more", "They must be confessed before they are forgiven", "They are weighed on judgment day", "They are recorded for later review"], "answer": 0, "explain": "Jeremiah 31 and Hebrews 8 and 10 promise that God will remember our sins no more."}
+  ]
+}

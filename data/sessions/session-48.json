@@ -1,0 +1,87 @@
+{
+  "session": 48,
+  "videoId": "CD0lKvnNFWw",
+  "youtubeTitle": "The Gospel and Soul Health Session 48 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 3 - Session 3",
+  "topic": "Powerless rage, the spin, and the Spirit's comfort",
+  "summary": "Bruce recaps the 'spin and escape' cycle: when we face a problem or loss we cannot solve, we spin, slide into comforts such as food, sex, shopping or drugs, and those comforts create new losses that feed more spinning. He adds a missing driver, powerless rage, the anger of being trapped, which fuels much spinning and depression, while guilt from the internal accuser 'turbocharges' the loop. Trying harder cannot get us out; something good must flow into us. That good is already present: Jesus is in us and we never put him there, and the love between the Father and Jesus is in us and we never put it there (John 17). The practical step is John 16:12-15: asking the Holy Spirit to take what is Jesus', the comfort and communion he shares with the Father, and share it with us right in the place where we hurt.",
+  "keyPoints": [
+    "When we meet a problem or loss we cannot solve, we spin, and our 'answers' create more pain, which creates more spinning, an addictive loop.",
+    "The new emphasis is powerless rage. Being trapped is not neutral; it is filled with anger and rage at many things, and this powerless rage drives a lot of spinning and depression.",
+    "Escapes into comforts (food, sex, shopping, drugs and so on) can create further losses, which feed back into more things to spin over and more coping mechanisms.",
+    "Guilt from the inner accuser turbocharges the cycle, so the loop runs faster.",
+    "Some comforts are fine and some are not; the point is to understand yourself rather than condemn yourself.",
+    "Trying harder, being good and sorting yourself out cannot break the cycle: 'If you could, you would.' Something good has to come into you.",
+    "Truth one: Jesus is in you and you never put him there. He has gone to the bottom of us and brought the Father and Spirit with him.",
+    "Truth two: the love with which the Father loves Jesus is in you, and you never put it there (John 17:26). So healing is an unveiling, not a climb to heaven.",
+    "Jesus has declared the Father's name: there is no darkness, no lack of love, in the Father, so we can trust him when we fall apart inside.",
+    "As self-images deconstruct and pain surfaces we can either slam our defences shut or drop down and let the love that is already there flow.",
+    "Truth three is the practical step from John 16:12-15: the Spirit takes what is Jesus' (his love and communion with the Father) and shares it with us, so we pray, 'Holy Spirit, please take what Jesus has with Dad and share it with me here.'",
+    "This is managing deep pain 'not by might nor by power but by my Spirit', taken in incremental steps of dropping down rather than climbing up."
+  ],
+  "keyTerms": [
+    {"term": "The spin", "definition": "The looping, anxious rumination that arises when we face a problem or loss we cannot solve."},
+    {"term": "Powerless rage", "definition": "The anger and rage of being trapped by something we cannot solve. It drives spinning and depression."},
+    {"term": "Escapes / comforts", "definition": "Ways we remove pain or provide comfort (food, sex, shopping, drugs). Some are harmless, while others create further losses that feed the cycle."},
+    {"term": "Guilt turbocharger", "definition": "The accusing conscience that adds guilt to the loop and makes it spin faster."},
+    {"term": "Unveiling", "definition": "Healing understood as discovering the Trinity and their love already present within, rather than acquiring something from outside."},
+    {"term": "The Spirit takes what is mine", "definition": "John 16:14-15: the Holy Spirit shares with us what Jesus has, namely his love, comfort and communion with the Father."}
+  ],
+  "scriptures": ["John 17:26", "1 John 1:5", "John 16:8", "John 16:12-15", "Zechariah 4:6"],
+  "quotes": [
+    "Jesus is in you and you never put him there.",
+    "The love that Jesus and Dad have is in you, and you never put it there.",
+    "If you could have sorted yourself out, you would have.",
+    "You're not doing any climbing; you're dropping down."
+  ],
+  "diagram": {
+    "type": "cycle",
+    "title": "The spin cycle and the way out",
+    "nodes": [
+      {"id": "a", "label": "Unsolvable problem or loss", "detail": "Something happens that I cannot fix."},
+      {"id": "b", "label": "Powerless rage and spin", "detail": "Trapped anger drives looping rumination."},
+      {"id": "c", "label": "Escape into comforts", "detail": "Food, shopping, sex, substances or similar ease the pain for a while."},
+      {"id": "d", "label": "New losses created", "detail": "Comforts can produce fresh problems to spin over."},
+      {"id": "e", "label": "Guilt turbocharges", "detail": "The accuser condemns, and the cycle speeds up."},
+      {"id": "f", "label": "Spirit shares Jesus' love", "detail": "Dropping down and asking the Spirit for Jesus' comfort breaks the loop."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "triggers"},
+      {"from": "b", "to": "c", "label": "seeks relief"},
+      {"from": "c", "to": "d", "label": "produces"},
+      {"from": "d", "to": "e", "label": "fuels"},
+      {"from": "e", "to": "b", "label": "accelerates"},
+      {"from": "b", "to": "f", "label": "drop down"}
+    ],
+    "note": "The addictive spin loop runs from b to e and back. The exit is not trying harder but receiving the love already within, through the Spirit."
+  },
+  "caseStudy": {
+    "title": "Late-night scrolling and shopping",
+    "scenario": "Priya's father has dementia and her siblings won't help with his care. She lies awake replaying arguments, feels a simmering fury she can't express, and after midnight finds herself online shopping. The credit card bill then becomes one more thing to worry about, and she berates herself as 'a terrible Christian' for losing control.",
+    "analysis": "Priya faces a loss she cannot solve, and it has produced powerless rage, which feeds her spinning. Her late-night shopping is an escape that creates new losses (debt), and the guilt of the inner accuser turbocharges the loop. Trying harder has not worked. She needs something good to come in, the love of the Father and Jesus already present in her, shared by the Spirit.",
+    "pathway": [
+      "Name the cycle without condemnation: 'I am spinning, I feel powerless rage, and I'm reaching for comfort.'",
+      "Acknowledge the two truths: Jesus is in me and I didn't put him there, and the Father's love for Jesus is in me.",
+      "When the spin begins at night, pray: 'Holy Spirit, please take what Jesus has with the Father and share it with me here.'",
+      "Take small practical steps, such as removing saved card details, while treating herself gently.",
+      "Seek concrete support such as carer services, a family meeting with a mediator, or a counsellor for the rage and grief.",
+      "If sleeplessness or low mood persists, see a GP."
+    ]
+  },
+  "practices": [
+    {"name": "Spin-spotting", "how": "When you notice rumination, pause and ask: what can't I solve here, and is there powerless rage underneath it? Write down one sentence naming it."},
+    {"name": "John 16 prayer", "how": "Breathe slowly and pray: 'Holy Spirit, take what Jesus has with Dad and share it with me in this place where I hurt.' Then wait in silence for 30 seconds."},
+    {"name": "Two-truths reminder", "how": "Each morning say: 'Jesus is in me and I never put him there; the Father's love for Jesus is in me and I never put it there.'"}
+  ],
+  "reflection": [
+    "What unsolvable problem in my life might be producing powerless rage?",
+    "Which comforts do I reach for when I spin, and which of them create new losses?",
+    "How does it change things to see healing as unveiling love that is already in me rather than climbing toward it?"
+  ],
+  "quiz": [
+    {"q": "What new driver of the spin cycle does Bruce emphasise in this session?", "options": ["Boredom", "Powerless rage", "Pride", "Lack of discipline"], "answer": 1, "explain": "Being trapped by an unsolvable problem produces powerless rage, which drives spinning and depression."},
+    {"q": "What 'turbocharges' the cycle?", "options": ["Guilt from the inner accuser", "Prayer", "Rest", "Friendship"], "answer": 0, "explain": "Guilt and accusation speed the loop up."},
+    {"q": "Which passage does Bruce use for the step of the Spirit sharing Jesus' love with us?", "options": ["Romans 8:28", "Psalm 23", "Genesis 3:15", "John 16:12-15"], "answer": 3, "explain": "In John 16 the Spirit takes what is Jesus' and shares it with us."}
+  ]
+}

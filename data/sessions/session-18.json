@@ -1,0 +1,87 @@
+{
+  "session": 18,
+  "videoId": "nKYHeeCE5Bg",
+  "youtubeTitle": "The Gospel and Soul Health Session 18 - Dr Bruce Wauchope",
+  "volume": "Volume 1",
+  "chapter": "Chapter 3 Session 5 - Our Freedom from the Law of Sin and Death; The Core of our Freedom in Christ; The Removing of the Law of Sin and Death; The Double Play",
+  "topic": "Freedom from the law of sin and death",
+  "summary": "Wauchope sets out the 'legal structures' every counsellor meets in people (law, Satan's claims, the blood of Christ) so that inner healing rests on the gospel rather than on magic. The law of sin and death ('the soul that sins shall die') is a principle built into creation: law empowers sin, and sin empowers death. Jesus fulfilled the law by loving the Father wholly. Because of union, when He died we died, so the accuser's charge 'you deserve to die' meets the reply 'yes, and in Christ I have died already'. In a 'double play', the powers used the law of sin and death on the Sinless One, which broke their right to use it on anyone. By one offering Christ perfected us forever, emptied Hades and ascended as a human, and we are wanted and included not because we deserve it but because Father, Son and Spirit love us.",
+  "keyPoints": [
+    "Jesus dealt with both our flesh and its context, the empires and angelic structures built from Adam's aloneness with Satan. He used no stone from them and left Satan no handle in Him.",
+    "On the cross He stayed fully human: He did not dissociate, become 'superman' or climb out. He took it as a man for us, and as He died the Spirit showed Him Dad's face.",
+    "Psalm 68 says the mountain of Bashan (the serpent's mountain) becomes the mountain God desires. He ascends, leads captivity captive and empties Hades.",
+    "Counsellors meet issues of law, Satan's power and the blood of Christ in people, so a solid gospel foundation is needed or healing slides into magical thinking.",
+    "The law of sin and death, 'if you sin you die', is the same principle as the Tree of Knowledge of Good and Evil. Others call it karma. 1 Corinthians 15:56: law enables sin and sin enables death.",
+    "Jesus alone loved the Father with all His heart, mind and strength, so He fulfilled and completed the Mosaic law. None of us has.",
+    "Union applies: if one died for all, then all died (2 Corinthians 5:14). Faced with the accuser's charge, we answer, 'Yes, I did all this and deserve to die, and in Jesus Christ I have died already.' Death has no second bite.",
+    "We still feel the accuser's grip because the gospel hasn't fully penetrated. Freedom comes recursively, in layers, because evil does not give up its hold easily.",
+    "The 'double play': humanity's deicide became our suicide, as we died in Him. And the powers executed the Sinless One under a law meant only for sinners, which broke their right to use it on anyone.",
+    "Jesus was no victim: 'No one takes my life from me.' Loveless darkness, intelligent but blind, could not see God's wisdom; had they understood, they would not have crucified the Lord of glory.",
+    "Hebrews 10: one sacrifice for sins forever has perfected us. The Lamb removed the sins of the world, not just of Christians. Endless confession to keep God informed misses this. The sacrifice used creation's existing structures to undo the captors; it was not something God required.",
+    "Christ descended to the lower parts, ascended to fill all things and sits as a human in the uncreated realm. We cannot climb a stairway to heaven: God stooped and picked us up. They don't need us, they want us."
+  ],
+  "keyTerms": [
+    {"term": "Law of sin and death", "definition": "A principle within creation, 'the soul that sins shall die', linked to the Tree of Knowledge. Law enables sin and sin enables death."},
+    {"term": "Double play", "definition": "The two 'flips' of the cross: our killing of God became our own death in Him, and the powers' use of the law on the Sinless One broke that law's power over everyone."},
+    {"term": "Union", "definition": "Christ's sustaining oneness with humanity, by which whatever happened to Him as the new Adam happened to the whole human race."},
+    {"term": "Accuser", "definition": "The voice, inner or angelic, that uses the law of sin and death to say 'you deserve to die'."},
+    {"term": "Leading captivity captive", "definition": "Christ emptying Hades and taking its captives with Him in ascension (Psalm 68, Ephesians 4)."},
+    {"term": "Eternal life", "definition": "Not merely length of days but knowing the Father and the Son in their love relationship."}
+  ],
+  "scriptures": ["Psalm 68:15-18", "Ephesians 4:8-10", "1 Corinthians 15:55-56", "Genesis 2:17", "Ezekiel 18:4", "Romans 6:23", "Matthew 22:37", "Luke 10:27", "2 Corinthians 5:14", "Matthew 3:15", "1 Corinthians 2:8", "John 10:18", "Zechariah 3:9", "Hebrews 10:12-14", "Hebrews 9:15", "John 1:29", "John 17:3"],
+  "quotes": [
+    "Yes, I have done this, and I deserve to die, and in Jesus Christ I have died already.",
+    "Death doesn't have a second bite.",
+    "They killed the Sinless One, and He let it happen. No victim.",
+    "They don't need us, they want us."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "The double play on the law of sin and death",
+    "nodes": [
+      {"id": "a", "label": "Law of sin and death", "detail": "'The soul that sins shall die': law empowers sin, and sin empowers death."},
+      {"id": "b", "label": "Accuser holds humanity", "detail": "The powers use the law to keep the human race captive."},
+      {"id": "c", "label": "Sinless One crucified", "detail": "Jesus, who fulfilled the law, is put to death and freely lets it happen."},
+      {"id": "d", "label": "Flip 1: we died", "detail": "In union, our deicide became our death in Him; the penalty is paid."},
+      {"id": "e", "label": "Flip 2: law broken", "detail": "Using the law on the Sinless One voids the powers' right to use it."},
+      {"id": "f", "label": "Free and included", "detail": "One offering perfects forever; captivity is led captive."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "empowers"},
+      {"from": "b", "to": "c", "label": "turned on"},
+      {"from": "c", "to": "d", "label": "for sinners"},
+      {"from": "c", "to": "e", "label": "for powers"},
+      {"from": "d", "to": "f"},
+      {"from": "e", "to": "f"}
+    ],
+    "note": "The cross undoes the law of sin and death in two directions at once: humanity's penalty is met because we died in Christ, and the powers lose their legal claim because they condemned the Sinless One."
+  },
+  "caseStudy": {
+    "title": "The accusing replay",
+    "scenario": "Sam, 50, a recovering alcoholic, has been sober for three years but lies awake replaying the harm he did to his children. A voice in his head says he deserves everything bad that happens to him. He keeps confessing the same failures in prayer and feels God is still keeping score. When his adult son is distant, he takes it as proof that the judgment is still running.",
+    "analysis": "Sam lives under the law of sin and death, 'the soul that sins shall die', and the accuser uses it against him. Wauchope's gospel answer is not to deny the wrongs but to agree with the charge and declare the death already died in Christ. One offering has perfected him forever, so the law cannot be used against him again. Feeling still gripped is normal; freedom comes in layers as the gospel penetrates.",
+    "pathway": [
+      "Write down honestly the wrongs the accuser replays, without minimising them.",
+      "Pray aloud: 'Yes, I did this; I deserved death; and in Jesus I have died already.'",
+      "Read Hebrews 10:12-14 daily for a week, noticing 'forever'.",
+      "Separate the relationship repair he can make (an amends conversation with his son) from the legal debt, which has been cancelled.",
+      "Keep his recovery supports, such as his sponsor, group and counsellor, alongside this spiritual work.",
+      "Expect the freedom to come in layers and return to the declaration whenever the replay starts."
+    ]
+  },
+  "practices": [
+    {"name": "Empty the cupboards", "how": "Set aside time to list what you are ashamed of. Place each item before Father, Son and Spirit, saying, 'I died when You died; have it.'"},
+    {"name": "Answering the accuser", "how": "When the inner 'you deserve...' voice arises, agree with the facts and add, 'and in Christ I have died already; you no longer have the right to use that law.'"},
+    {"name": "Forever meditation", "how": "Sit with the phrase 'one sacrifice for sins forever' for five minutes, replacing any urge to perform with thanks."}
+  ],
+  "reflection": [
+    "Where do you still feel that judgment is 'pending' over your life?",
+    "How does union with Christ change what His death means for you personally?",
+    "What would change in your prayer life if you truly believed you are perfected forever?"
+  ],
+  "quiz": [
+    {"q": "According to 1 Corinthians 15:56 as Wauchope frames it, what enables sin?", "options": ["Death", "Satan alone", "The law", "The body"], "answer": 2, "explain": "'The strength of sin is the law': law enables sin, and sin enables death."},
+    {"q": "What is the 'double play' of the cross?", "options": ["Christ died twice", "We died in Christ, and the powers lost the right to use the law by killing the Sinless One", "Jesus satisfied both the Father and Satan", "Faith and works together save us"], "answer": 1, "explain": "One flip frees sinners through union; the other breaks the powers' use of the law."},
+    {"q": "How should the believer respond to the accuser's 'you deserve to die'?", "options": ["Deny having sinned", "Confess repeatedly until the feeling goes", "Ignore it entirely", "Agree and declare, 'in Christ I have died already'"], "answer": 3, "explain": "Death has no second bite, because we died with Christ."}
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "session": 22,
+  "videoId": "x4ol2Wk2Ej4",
+  "youtubeTitle": "The Gospel and Soul Health Session 22 - Dr Bruce Wauchope",
+  "volume": "Volume 1 - The Gospel of Union",
+  "chapter": "Chapter 4 - \"In that Day You Will Know . . .\" (Session 1)",
+  "topic": "Christ in all: abiding and the unveiling",
+  "summary": "Bruce recaps the series' frame of John 14:20 - the Son in the Father, creation in the Son, and the Son in us through the Incarnation - and moves to 'that day', the day of the Spirit, when we come to know it. Because whatever happened to Christ happened to all creation, the risen Christ is in all people, which forces us to honour and engage everyone rather than slicing humanity into those we accept and those we judge. Healing and life therefore come from the inside out and the bottom up as the Spirit unveils the One already in us, not by a top-down impartation. Abiding simply means 'remain': do not dissociate or climb toward heaven, but sit with Father, Son and Spirit in the very parts of yourself you dislike, because that is where they dwell. The second coming is likewise not the arrival of an absent Jesus but an unveiling of the One who never left, illustrated by atheists who discovered someone loving them from within.",
+  "keyPoints": [
+    "The series is built on John 14:20: 'I am in my Father' (the non-negotiables), 'you in me' (creation), 'I in you' (Incarnation); this chapter is about 'in that day you will know' - the day of the Spirit.",
+    "The mystery of iniquity (humanity turning and becoming alone in the middle of plenty) has been met by the greater mystery of the Incarnation, in which the Word became flesh and condemned sin in the flesh (Romans 8:3).",
+    "Love starts with the Father, Son and Spirit, not with us; Jesus cleaned up our corrupted flesh so that we could receive 'the love with which you love me' (John 17:26) and so fulfil the law of love.",
+    "Because of union, whatever happened to Christ happened to all: the risen Christ is in all people, not just the people in 'your club' - which is 'unfortunate' for us because it removes our right to write anyone off.",
+    "The Father-Son love is unique and holy, but it 'goes sideways' through us: seeing Christ in others means we must engage everyone, and 'I love you but I don't have to like you' is often a cop-out from understanding someone.",
+    "The sufferings of Christ include holding together a creation whose dark beings (life without knowing love) use his own life to smash his creation; we prefer to compartmentalise so we can judge.",
+    "Partial movements (such as some contemporary social movements) accept people only within their own lines and then cancel those who cross them - showing how far short of union our judging instinct falls.",
+    "Healing is from the inside out and the bottom up: the Spirit who raised Christ dwells in you, and healing is your being conforming to the Christ already within, not an external impartation from a 'big man'.",
+    "To 'abide' (John 15) simply means remain: Christ is in you, so don't climb out of yourself, run to heaven or dissociate - stay present with him.",
+    "Father, Son and Spirit tabernacle in our flesh, the very part we dislike; sitting with them in our dark and amputated parts, and praying for those parts, lets the flesh resolve and change.",
+    "If you don't like yourself you can't love others; embracing yourself and embracing others belong together.",
+    "The second coming is an unveiling, not the return of an absent Christ, since he 'doesn't do abandonment'; Bruce tells of four atheists who discovered against their will someone in them loving them."
+  ],
+  "keyTerms": [
+    {
+      "term": "Union",
+      "definition": "The truth that all creation is held together in Christ, so whatever happened to him in the Incarnation, death and resurrection happened to all."
+    },
+    {
+      "term": "Unveiling",
+      "definition": "The Spirit's removal of the veil so we see the Christ who is already in us and in all; also Bruce's reading of the second coming."
+    },
+    {
+      "term": "Abide",
+      "definition": "From the Greek for 'remain': staying present with yourself and with Christ in you rather than dissociating or climbing toward heaven."
+    },
+    {
+      "term": "Flesh (sarx)",
+      "definition": "Our fallen human condition, which Jesus entered and cleaned up, and in which Father, Son and Spirit now dwell."
+    },
+    {
+      "term": "Inside out / bottom up",
+      "definition": "The direction of healing: life flowing from Christ within through our depths, rather than top-down impartation from outside."
+    },
+    {
+      "term": "Ecclesia",
+      "definition": "The church as the assembled 'living stones', not the institution or building."
+    },
+    {
+      "term": "Darkness",
+      "definition": "Beings with life, energy and intelligence who do not know love."
+    }
+  ],
+  "scriptures": [
+    "John 14:20",
+    "John 1:14",
+    "Romans 1:3-4",
+    "Romans 8:3-4",
+    "John 17:26",
+    "Ephesians 4:6",
+    "2 Corinthians 3:14-18",
+    "2 Corinthians 4:6",
+    "John 6:33",
+    "Romans 8:11",
+    "Ephesians 1:17-20",
+    "John 15:4-5",
+    "John 15:11",
+    "1 Peter 2:5",
+    "Zechariah 12:10"
+  ],
+  "quotes": [
+    "The Risen Christ is, unfortunately for us, in all.",
+    "Abiding in the Greek means remain. Jesus is in you - don't climb out of yourself.",
+    "If you want to sit presently with Jesus, go and sit in the parts of you you hate.",
+    "The second coming is an unveiling. He doesn't do abandonment."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "Healing from the inside out",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "Christ in all",
+        "detail": "Through union, the risen Christ already dwells in every person."
+      },
+      {
+        "id": "b",
+        "label": "Veil over our eyes",
+        "detail": "We cannot see him and live as if alone, climbing or dissociating."
+      },
+      {
+        "id": "c",
+        "label": "Abide: remain present",
+        "detail": "Stay with yourself instead of running to heaven or away from your mess."
+      },
+      {
+        "id": "d",
+        "label": "Sit in dark parts",
+        "detail": "Meet Father, Son and Spirit in the flesh and parts you dislike, and pray for them."
+      },
+      {
+        "id": "e",
+        "label": "Spirit unveils",
+        "detail": "The Spirit lifts the veil so we see Christ within and the Father in him."
+      },
+      {
+        "id": "f",
+        "label": "Rivers of life flow",
+        "detail": "Love and life rise from within, changing us and flowing out to others."
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "b",
+        "label": "hidden by"
+      },
+      {
+        "from": "b",
+        "to": "c",
+        "label": "invited to"
+      },
+      {
+        "from": "c",
+        "to": "d",
+        "label": "means"
+      },
+      {
+        "from": "d",
+        "to": "e",
+        "label": "allows"
+      },
+      {
+        "from": "e",
+        "to": "f",
+        "label": "releases"
+      }
+    ],
+    "note": "Healing moves from the bottom up: not reaching up for an absent God, but staying with ourselves until the One already within is unveiled."
+  },
+  "caseStudy": {
+    "title": "The colleague she can't stand",
+    "scenario": "Priya, a committed church member, privately despises a sarcastic colleague and avoids him at work. She also quietly dislikes the anxious, needy part of herself and tends to 'zone out' or scroll on her phone when she feels it. On Sundays she feels close to God, but during the week she feels distant and irritable. She has started to wonder whether her faith is real.",
+    "analysis": "Bruce's teaching suggests Priya is splitting reality: she keeps God 'up there' on Sundays and keeps both her colleague and her anxious self at arm's length. If Christ is in all, the colleague is someone Christ is holding together, and her anxious part is a place where Father, Son and Spirit already dwell. Her zoning out is a form of not abiding - leaving herself rather than remaining. Healing will not come by trying harder to climb toward God but by staying present with her own depths so the Spirit can unveil the One already there, which in turn makes engaging her colleague possible.",
+    "pathway": [
+      "Notice the moments she dissociates (scrolling, zoning out) and gently name them as 'leaving myself'.",
+      "Practise remaining: pause, breathe and acknowledge the anxious part rather than pushing it away.",
+      "Pray for that part of herself, asking that it would know the Father's love.",
+      "Before meetings, quietly remind herself 'Christ is holding this person together too'.",
+      "Seek to understand one thing about her colleague's story rather than settling for 'love but not like'.",
+      "If anxiety is persistent or overwhelming, talk with a counsellor or GP alongside her pastoral support."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Remain, don't run",
+      "how": "When you notice the urge to escape a feeling, stop for two minutes, put a hand on your chest and say 'I'm staying here with you, Jesus'. Let the feeling be present without fixing it."
+    },
+    {
+      "name": "Praying for a part of me",
+      "how": "Picture a part of yourself you dislike or have cut off. Imagine putting your arms around it and pray: 'May this part of me know the hugs and the face of the Father.'"
+    },
+    {
+      "name": "Christ-in-you glance",
+      "how": "Choose one difficult person each day and silently say 'Christ is in you' before speaking with them, then ask one genuinely curious question."
+    }
+  ],
+  "reflection": [
+    "Who are the people you most easily write off, and how would it change things to believe Christ is holding them together?",
+    "Which parts of yourself do you tend to run from, and what might it look like to 'remain' with Christ there?",
+    "Has your experience of God felt more like a top-down impartation or an inside-out unveiling?"
+  ],
+  "quiz": [
+    {
+      "q": "According to Bruce, what does the Greek word behind 'abide' mean?",
+      "options": [
+        "Obey carefully",
+        "Remain",
+        "Climb higher",
+        "Worship continually"
+      ],
+      "answer": 1,
+      "explain": "Abide means remain - stay present with Christ in you rather than running away from yourself."
+    },
+    {
+      "q": "How does Bruce describe the second coming?",
+      "options": [
+        "The return of a Jesus who has been absent",
+        "A final moral audit of humanity",
+        "An unveiling of the Christ who never left",
+        "A purely symbolic idea"
+      ],
+      "answer": 2,
+      "explain": "Because Christ is already in us and does not abandon, his coming is an unveiling."
+    },
+    {
+      "q": "Why does Bruce call Christ being 'in all' unfortunate for us?",
+      "options": [
+        "It removes our right to write anyone off and forces us to engage everyone",
+        "It makes church attendance unnecessary",
+        "It means sin no longer matters",
+        "It makes God less holy"
+      ],
+      "answer": 0,
+      "explain": "If Christ is in all, we have to honour and engage everybody and face our own prejudice."
+    }
+  ]
+}

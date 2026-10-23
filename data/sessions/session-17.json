@@ -1,0 +1,87 @@
+{
+  "session": 17,
+  "videoId": "XrLAVIV6qUQ",
+  "youtubeTitle": "The Gospel and Soul Health Session 17 - Dr Bruce Wauchope",
+  "volume": "",
+  "chapter": "Session 4 Key Themes: We Killed God!; Undoing the Tree and Confronting the Prince of Power of the Air; Jesus Confronted Bashan - Serpent; Psalm 22 and Seeing Dad's Face in our Darkness; The Party in Hades and Jesus' Proclamation to the Dead",
+  "topic": "The cross, the powers, and Dad's face",
+  "summary": "Wauchope argues that the human race, not God, killed Jesus, revealing how dark our darkness is, while God had planned for that very violence to be dealt with in Him. Darkness has no life of its own; it lives off the flow of zoe (the life of the Word) and twists it, as tyrants use borrowed life for death. On the cross Jesus, having already gone to the bottom of human flesh, faces the 'middle management' of the spiritual powers, the bulls of Bashan in Psalm 22. Psalm 22 is not a cry of the Trinity being torn apart; read to the end, the Father does not hide His face, and the Spirit shows Jesus Dad's face as He dies. Psalms 22, 23 and 24 are read as cross, descent to Hades (where Jesus proclaims freedom to the trapped dead) and ascension, a cosmic release with consequences for how we think about mental and spiritual health.",
+  "keyPoints": [
+    "We as a race killed God: you cannot separate yourself and say 'they did it'. That we beat, mocked and crucified the incarnate God shows how dark our darkness is, yet God had worked it out so our violence would be dealt with in Him.",
+    "Nothing has life in itself. Everything, including Satan and the powers, was made in, through, by and for the Word and is held together by zoe, the life of Christ.",
+    "Freedom was given so that there could be persons able to give and receive love; that freedom made darkness possible. Darkness is living off the flow of zoe while twisting it, as Hitler, Pol Pot and Stalin used life that was not theirs for death.",
+    "Darkness has intelligence, capability and drive, but is strangely stupid because it cannot see love. Wauchope makes the same point about AI: there is no love in it.",
+    "We have no eternal life in ourselves. Eternal life is in the Son, and the Son is in us ('unless you eat my flesh and drink my blood'). We participate in the new Adam's life.",
+    "Having cleaned up our flesh in His body, Jesus on the cross confronts the corporate darkness and the 'middle management', the sons of God or spiritual powers.",
+    "'My God, my God, why have you forsaken me?' quotes Psalm 22:1, the crucifixion psalm. It does not mean the Trinity was torn apart, since Jesus always prayed 'Abba', never 'God'.",
+    "Psalm 22:12-21 pictures the bulls of Bashan (the mountain of the serpent), lions and dogs tearing at Him: the spiritual powers attacking Jesus as He hangs on the tree.",
+    "Read the whole psalm: 'He has not hidden His face from Him' (22:24). As Jesus breathes His last, the Spirit shows Him Dad's face. The love that birthed the universe flows at the very bottom of human darkness.",
+    "Irenaeus says the trespass that came by a tree was undone by the tree of Christ's obedience. Athanasius says Christ dies with arms outstretched to embrace all, and dies 'in the air' to confront the prince of the power of the air.",
+    "Satan's 'skin for skin' challenge (Job) fails: Jesus faces death as a man without fear, freeing all who through fear of death were held in bondage (Hebrews 2).",
+    "Psalms 22, 23 and 24 run as cross, Hades and ascension. In Hades (the realm of the dead, not hell) Jesus proclaims to the spirits in prison that the gates are open, and He holds the keys of death and Hades. Wandering spirits do not know the way home, so we should not listen to them; they need to hear about Jesus."
+  ],
+  "keyTerms": [
+    {"term": "Zoe (ζωή)", "definition": "The life of the Word that fills and holds together all creation. No creature, including the powers, has life in itself."},
+    {"term": "Darkness", "definition": "Not a life-source of its own. It lives off the flow of zoe while twisting it toward death. It is intelligent but blind to love."},
+    {"term": "Middle management / sons of God", "definition": "The spiritual principalities and powers between God and humanity, which Jesus confronts on the cross."},
+    {"term": "Bulls of Bashan", "definition": "Psalm 22's image of spiritual beings tied to Bashan, the 'mountain of the serpent', encircling and tearing at the crucified Jesus."},
+    {"term": "Hades", "definition": "The world of the dead where those before Christ were trapped. It is distinct from hell. Jesus entered it and proclaimed release."},
+    {"term": "Prince of the power of the air", "definition": "Athanasius' term for the devil, whose sphere is the air; hence Christ's death 'in the air' on the cross."},
+    {"term": "Proclamation", "definition": "Jesus' 'preaching' to the spirits in prison: an announcement that they are free and the gates are open."}
+  ],
+  "scriptures": ["Psalm 22:1", "Psalm 22:12-13", "Psalm 22:16", "Psalm 22:19-21", "Psalm 22:24", "Psalm 23", "Psalm 24:3-4", "Psalm 24:7", "Psalm 68 (Bashan, mountain of God)", "John 1:3-4", "John 6:53", "1 Peter 3:18-19", "Hebrews 2:14-15", "Job 2:4", "Zechariah 9:11-12", "Matthew 27:52", "Matthew 21:33-34", "Revelation 1:18", "Isaiah 63", "Ephesians 2:2"],
+  "quotes": [
+    "We are the ones, as a race, who killed God, and yet God had it worked out that our violence would be dealt with in it.",
+    "Darkness doesn't have life in itself. Nothing has life in itself.",
+    "If you play 'My God, why have you forsaken me?', you've not read the chapter.",
+    "As He dies, the Holy Spirit shows Him Dad's face."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "Psalms 22-24: Jesus' descent and victory",
+    "nodes": [
+      {"id": "a", "label": "Humanity kills God", "detail": "The human race beats, mocks and crucifies the incarnate Son."},
+      {"id": "b", "label": "Bottom of our flesh", "detail": "Jesus has already cleaned up our fallen flesh in His own body."},
+      {"id": "c", "label": "Bulls of Bashan attack", "detail": "On the tree He confronts the spiritual powers, the 'middle management' (Psalm 22)."},
+      {"id": "d", "label": "Spirit shows Dad's face", "detail": "The Father does not hide His face, and the love that birthed the universe flows at the bottom."},
+      {"id": "e", "label": "Table in Hades", "detail": "Psalm 23: He proclaims freedom to the trapped dead in the presence of enemies."},
+      {"id": "f", "label": "Ascension: King of Glory", "detail": "Psalm 24: the gates lift and the mountain of the serpent becomes God's mountain."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "exposes"},
+      {"from": "b", "to": "c", "label": "goes deeper"},
+      {"from": "c", "to": "d", "label": "answered by"},
+      {"from": "d", "to": "e", "label": "made alive"},
+      {"from": "e", "to": "f", "label": "rises"}
+    ],
+    "note": "Read as one sequence, Psalms 22, 23 and 24 follow Jesus from the cross, down through the powers and Hades, and up in resurrection and ascension. The turning point is the Father's face revealed by the Spirit."
+  },
+  "caseStudy": {
+    "title": "Feeling forsaken at the bottom",
+    "scenario": "Mark, 42, lost his business and his marriage within a year. He tells his pastor that God has turned His back on him, quoting 'My God, why have you forsaken me?' as proof. At night he lies awake with condemning thoughts that feel almost like voices circling him. He has started to believe he is the darkness and that nothing good is left in him.",
+    "analysis": "Wauchope's reading answers Mark's interpretation directly. Jesus quoted Psalm 22:1, but the psalm ends with God not hiding His face, and at the bottom of human and spiritual darkness the Spirit showed Jesus the Father's face. Mark's darkness has no life of its own; it twists borrowed life. Christ has already gone lower than Mark has, so Mark's 'bottom' is a place Christ has entered and filled. The condemning thoughts sound like the powers' 'skin for skin' accusation, which Christ has already met and defeated.",
+    "pathway": [
+      "Read all of Psalm 22, then Psalms 23 and 24, slowly and in order, noticing where the psalm turns.",
+      "Name the accusing thoughts as accusations, not as the Father's voice.",
+      "Pray simply, 'Spirit, show me Dad's face here', instead of trying to climb out alone.",
+      "Tell a trusted friend or pastor about the night-time thoughts instead of carrying them in isolation.",
+      "If sleeplessness, hopelessness or thoughts of self-harm persist, see a GP or counsellor alongside pastoral care.",
+      "Practise receiving life as gift: begin each day remembering that your life is His life in you."
+    ]
+  },
+  "practices": [
+    {"name": "Read the whole psalm", "how": "Read Psalms 22, 23 and 24 as one story in a single sitting. Mark the verse where despair turns to 'You have answered me', and stay with it."},
+    {"name": "Face-seeking prayer", "how": "In a dark moment, pause and ask the Spirit to show you the Father's face toward you. Wait quietly for two minutes without fixing anything."},
+    {"name": "Borrowed-life examen", "how": "At the end of the day, notice where you used the life and energy given to you for love and where you twisted it toward harm, and give both back to Christ."}
+  ],
+  "reflection": [
+    "How does it change things to say 'we' killed Jesus rather than 'they' did?",
+    "Where have you read your own sense of abandonment into God, the way Psalm 22:1 is often misread?",
+    "What would it mean for you that Christ has already been lower than your lowest point?"
+  ],
+  "quiz": [
+    {"q": "According to Wauchope, what does Jesus' cry 'My God, my God, why have you forsaken me?' indicate?", "options": ["The Trinity was torn apart at the cross", "The Father turned His face away in wrath", "Jesus was quoting the first verse of Psalm 22, the crucifixion psalm", "Jesus lost His faith at the end"], "answer": 2, "explain": "He quotes Psalm 22:1, and the psalm itself ends with God not hiding His face."},
+    {"q": "How does Wauchope describe darkness?", "options": ["Living off the flow of zoe while twisting it", "An independent rival source of life", "Simply the absence of information", "A material substance"], "answer": 0, "explain": "Nothing has life in itself; darkness uses borrowed life for death."},
+    {"q": "In Wauchope's reading, where is Psalm 23 set?", "options": ["In the Garden of Eden", "At Jesus' baptism", "At the Last Supper", "In Hades, after Jesus' death"], "answer": 3, "explain": "He reads 22, 23 and 24 as cross, Hades and ascension, with the 'table in the presence of my enemies' prepared in Hades."}
+  ]
+}

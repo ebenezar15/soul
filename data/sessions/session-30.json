@@ -1,0 +1,87 @@
+{
+  "session": 30,
+  "videoId": "PZTGJ8256Vw",
+  "youtubeTitle": "The Gospel and Soul Health Session 30 - Dr Bruce Wauchope",
+  "volume": "Volume 2 - Christian Fish in Greek Soup",
+  "chapter": "Session 4 - Questions for Reflection",
+  "topic": "Probing questions to expose Greek assumptions",
+  "summary": "Bruce assumes that every Western Christian is 'cooked' in separation thinking and leads the group through searching questions he wrote after a revelation of Father, Son and Spirit. Is God a relational family of love, or Plato's silent, distant, perfect sphere? Can love exist without mutuality? He challenges circular and negative definitions of holiness ('the absence of sin'), suggesting instead that holiness is the unique, beautiful, set-apart quality of the relationships within the Trinity, which Jesus shares with us. He then questions payment views of the atonement, whether salvation is about sins or about relationship, when we died and rose with Christ, faith as relationship rather than accumulated power, and whether Adam or Christ is stronger. The goal is to let the Holy Spirit 'garden our brain' and change our worldview.",
+  "keyPoints": [
+    "Even people who say 'I just like Jesus' are likely shaped by the separation frame underlying the Western gospel. Questions help expose it.",
+    "Is God a community of love (Father, Son and Spirit indwelling one another), or the pagan picture from Plato and Plotinus of a single, silent, distant, unapproachable sphere of light contemplating itself?",
+    "A participant noticed she feels relational calling God 'Papa' but scared calling Him 'God'. Our emotional state shapes which God we picture.",
+    "We tend to imagine God with two faces, loving on one side and 'holy and just' on the other. Bruce asks: if God is love, and love needs mutuality and other-centredness, which is primary?",
+    "Deuteronomy 6:4 uses Elohim, a plural: God is one, yet relationship exists within God.",
+    "Holiness is often defined circularly ('set apart to God') or negatively ('the absence of sin'), which leaves room for our mythologies. Bruce asks whether holiness is instead positive and relational.",
+    "His proposal: holiness is the beauty, intimacy, joy, other-centredness and union of the relationships within the Trinity, so unique it is 'set apart'. Jesus brought this into human existence and shares it with us. We cannot manufacture holiness by performance.",
+    "Atonement questions: did Jesus also work in His 33 years, condemning sin in a fallen body and grinding out a new Adam? Was atonement 'at-one-ment', relational? If the Father needs payment but Jesus simply forgives, is Jesus really the express image of the Father?",
+    "Salvation questions: if the Lamb took away the world's sins, is hell populated by forgiven sinners? Salvation is less about removing sins than about knowing God; a participant added that we daily participate, or resist, in becoming new.",
+    "When did we die and rise: in Christ's death and resurrection, at belief, or at baptism? Can anyone hear or believe the gospel unless they are already, in Christ, born again?",
+    "Faith is receiving a spoken relationship, as Abram did. Faith as accumulated power applied to Scripture is no different from a magic wand.",
+    "Who is stronger, the first Adam or the second? Adam was not complete before he fell: he was 'alone' in the midst of plenty and could not give or receive love, a 'mystery of iniquity' met by the mystery of the Incarnation. Our calling is a higher purpose than a return to Eden."
+  ],
+  "keyTerms": [
+    {"term": "Greek view of God", "definition": "A single, silent, distant, perfect sphere of light, all-knowing and unmoved, contemplating itself; derived from Plato and Plotinus."},
+    {"term": "Relational holiness", "definition": "Holiness understood positively as the unique, beautiful, other-centred relationships of Father, Son and Spirit, shared with us in Christ."},
+    {"term": "Circular holiness", "definition": "Defining holiness as 'set apart to God' and God as holy, an untestable loop that invites mythology."},
+    {"term": "At-one-ment", "definition": "Atonement as making humanity one with the Father, a relational work done in and to humanity through Christ's life, death and resurrection."},
+    {"term": "Elohim", "definition": "The plural Hebrew word for God in Deuteronomy 6:4, pointing to relationship within God's oneness."},
+    {"term": "Mystery of iniquity", "definition": "The unexplained aloneness and darkness in Adam before the fall, met by the mystery of the Incarnation."},
+    {"term": "First and second Adam", "definition": "Adam, whose fall affected all humanity, and Christ, whose redemption affects all humanity even more strongly."}
+  ],
+  "scriptures": ["Deuteronomy 6:4", "Hebrews 12:14", "2 Corinthians 5:19", "2 Corinthians 5:14", "John 1:29", "John 17:3", "Romans 8:3", "Hebrews 1:3", "Genesis 15:6", "Romans 10:6-8", "2 Corinthians 13:5", "Colossians 1:27", "Colossians 3:11", "Acts 17:28", "Colossians 1:17", "Galatians 2:20", "John 3:3", "Romans 5:12-19", "1 Corinthians 15:45-47", "Genesis 2:18", "2 Thessalonians 2:7"],
+  "quotes": [
+    "Holy Spirit, continue to change my worldview to be in line with Your worldview.",
+    "Can love exist without mutuality?",
+    "Is hell populated by forgiven sinners? Think that through.",
+    "Do we have more belief in Adam's ability to corrupt the human race than in Christ's work to redeem it?"
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Greek Assumptions vs Trinitarian Questions",
+    "nodes": [
+      {"id": "l1", "label": "Solitary perfect sphere", "detail": "God as silent, distant, alone and unapproachable.", "side": "left"},
+      {"id": "l2", "label": "Holiness as absence", "detail": "Holiness defined negatively as sinlessness and separation.", "side": "left"},
+      {"id": "l3", "label": "Atonement satisfies God", "detail": "Payment fixes a problem in God so He can forgive.", "side": "left"},
+      {"id": "l4", "label": "Adam stronger than Christ", "detail": "Adam affects all; Christ only those who pray a prayer.", "side": "left"},
+      {"id": "r1", "label": "Community of love", "detail": "Father, Son and Spirit indwelling one another in mutual love.", "side": "right"},
+      {"id": "r2", "label": "Holiness as relationship", "detail": "The unique beauty of Trinitarian relationships, shared with us.", "side": "right"},
+      {"id": "r3", "label": "At-one-ment in humanity", "detail": "Christ heals a problem in us, through His whole life.", "side": "right"},
+      {"id": "r4", "label": "Christ the stronger Adam", "detail": "His work includes the whole race in a higher calling.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "l1", "to": "r1", "label": "questioned by"},
+      {"from": "l2", "to": "r2", "label": "questioned by"},
+      {"from": "l3", "to": "r3", "label": "questioned by"},
+      {"from": "l4", "to": "r4", "label": "questioned by"}
+    ],
+    "note": "Each pair shows an inherited Greek-shaped assumption and the Trinitarian alternative that Bruce's questions point toward."
+  },
+  "caseStudy": {
+    "title": "Two Gods in one prayer",
+    "scenario": "Leah, 37, notices that when she prays 'Dad' or 'Papa' she feels warm and safe, but when she says 'Almighty God' her body tightens and she braces for disapproval. She has always been taught that God is loving but also 'holy and just', which she pictures as a second, colder side waiting to judge. She thinks holiness means never making mistakes, and feels permanently unholy.",
+    "analysis": "Leah carries the 'two-faced God' that Bruce identifies as a Greek inheritance: love on one side, a distant, holy judge on the other. Her body's reaction shows how emotional state and image of God reinforce each other. Bruce's questions offer another view: holiness is not sterile sinlessness but the beautiful, unique relationships within the Trinity, which Jesus shares with her. It is something to desire and receive, not to achieve.",
+    "pathway": [
+      "Notice, without judging herself, which name for God triggers fear and which triggers safety.",
+      "Write her current definition of holiness, then rewrite it in positive, relational terms.",
+      "Read John 17:21-26 and see holiness as the Father-Son love that Jesus places in her.",
+      "Pray, 'Holy Spirit, change my worldview to be like Yours,' especially when the 'cold God' appears.",
+      "If deep fear of authority figures shows up elsewhere in life, explore it with a counsellor."
+    ]
+  },
+  "practices": [
+    {"name": "Question journal", "how": "Take one of Bruce's questions each day (for example, 'Can love exist without mutuality?') and write your honest answer. Notice where it reveals a Greek or a relational picture of God."},
+    {"name": "Name and notice", "how": "Pray using different names for God (Papa, Father, Lord, Almighty) and notice what your body does with each. Bring any fearful reaction to Jesus, the exact image of the Father."},
+    {"name": "Positive holiness list", "how": "List words that describe the relationships of Father, Son and Spirit (joy, intimacy, other-centredness, delight, beauty). Read the list as your working definition of 'holy.'"}
+  ],
+  "reflection": [
+    "When I picture God, how much of the 'silent, distant sphere' is in the image?",
+    "Have I thought of holiness as something to achieve or something to share in, and what difference would the change make?",
+    "Do I live as if Adam's failure is more powerful than Christ's redemption?"
+  ],
+  "quiz": [
+    {"q": "How does Bruce suggest holiness might be understood positively?", "options": ["As the absence of all sin", "As strict separation from the world", "As the unique, beautiful relationships of Father, Son and Spirit, shared with us", "As religious performance"], "answer": 2, "explain": "He proposes holiness is relational: the set-apart beauty of Trinitarian relationships that Jesus brings to us."},
+    {"q": "What point does Bruce make from the word Elohim in Deuteronomy 6:4?", "options": ["God is plural, so there is relationship within God's oneness", "God is a single solitary being", "Israel worshipped many gods", "The word refers only to angels"], "answer": 0, "explain": "The plural Elohim suggests that God's oneness includes relationship."},
+    {"q": "What question does Bruce raise about salvation and forgiveness?", "options": ["Whether forgiveness requires repeated sacrifice", "Whether only Christians' sins were removed", "Whether baptism removes original sin", "If the Lamb took away the world's sins, is hell populated by forgiven sinners?"], "answer": 3, "explain": "He presses that salvation is about knowing God in relationship, not only about removing sins."}
+  ]
+}

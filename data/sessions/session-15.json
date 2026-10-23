@@ -1,0 +1,90 @@
+{
+  "session": 15,
+  "videoId": "y0K54b_JisE",
+  "youtubeTitle": "The Gospel and Soul Health Session 15 - Dr Bruce Wauchope",
+  "volume": "Volume 1",
+  "chapter": "Chapter 3, Part 2 (Key Themes: Jesus beats His way forward to become aware of Himself in our brokenness; the Spirit dwelling with the Father and the Son in our flesh; the Lamb of God; Jesus faces the Usurper, Satan, and refuses to break solidarity with our humanity)",
+  "topic": "Jesus Beats His Way Through Our Flesh",
+  "summary": "Bruce clarifies that 'flesh' (sarx) means not the body but the parts of us that do not know we are loved; because Jesus became human, we embrace our bodies rather than escape them. Entering our flesh fully, Jesus was to some degree blind like us and had to 'beat his way forward' (prokopto, Luke 2:52), hammering out his sonship on the anvil of fallen Adamic existence over 33 years, as Baxter Kruger describes, and then sharing it with us. The Spirit was meanwhile becoming accustomed to dwell in humanity (Irenaeus). At his baptism all humanity was baptised in him, and John's 'Lamb of God' is reinterpreted as the one who lifts the veil so we can see the Father. In the wilderness Jesus refused complicity with the old Adam and top-down power; his ministry reversed the death flowing from Adam, and by living every moment in relationship with his Father he undid Adam's aloneness and functioned from 'I AM' rather than 'I am not' or 'I will be'.",
+  "keyPoints": [
+    "'Flesh' (sarx) is not the body or humanity but the dark structures where we do not know we are loved: accusation, fear, guilt and rejection.",
+    "Because Jesus became human, we do not need to escape our bodies; appetites for food and sex are part of being human and acceptable, contrary to the Greek idea that matter is unacceptable to God.",
+    "Jesus entered our flesh all the way and was, to some level, blind like us, having to work through it to meet the Father, himself and the Spirit within.",
+    "Luke 2:52's 'increased' (prokopto) pictures someone beating their way through brushwood with a machete: Jesus beat his way forward.",
+    "Kruger: the Trinity entering our alienation meant war; step by step Jesus refused to believe in the god of Adam, hammered out his sonship on the anvil of fallen existence and bent back the wrongness of the Adamic mind.",
+    "This is not 'Jesus did it, now you do it': he did it in his body in order to share it with us, as mediator.",
+    "Gethsemane is a window into his whole life of struggle; human depravity is the tabernacle of Father, Son and Spirit, so we need not be sterile to approach God (2 Corinthians 5:21).",
+    "Irenaeus: the Spirit descending on Jesus was becoming accustomed to dwell in the human race, so all three Persons are involved in our healing.",
+    "At his baptism 'to fulfil all righteousness', all humanity was in him: in union we have been baptised for the remission of sins in Christ ('one baptism').",
+    "'Lamb of God who takes away the sins of the world' combines Passover and atonement imagery; Bruce reads it as the Lamb who lifts away the veil so we can see Dad, making us 'persons' able to share their relationships, which also means Christ is in everyone.",
+    "In the wilderness Jesus refused to use power for himself, to become superhuman or to control people through institutions: the kingdom is inside-out and bottom-up.",
+    "His ministry of healing and deliverance reversed the death flowing from Adam; living 'not of myself' but with the Father, he undid Adam's aloneness and lived from 'I AM', without defences, secrets or conscience as god."
+  ],
+  "keyTerms": [
+    {"term": "Sarx (flesh)", "definition": "The parts of us that do not know we are loved, not the physical body."},
+    {"term": "Prokopto", "definition": "The Greek word in Luke 2:52 for 'increased', picturing beating one's way forward through brushwood."},
+    {"term": "Anvil of Adamic existence", "definition": "Kruger's image of Jesus hammering out his sonship within fallen human life."},
+    {"term": "Accustoming of the Spirit", "definition": "Irenaeus's idea that the Spirit, resting on Jesus, learned to dwell within humanity."},
+    {"term": "Lamb of God", "definition": "The one who lifts away the veil of darkness so humanity can see the Father."},
+    {"term": "Personhood", "definition": "The capacity to give and receive love face to face; Adam lost it in blindness and Jesus restores it."},
+    {"term": "I AM", "definition": "Jesus' secure identity in the Father's holding, in contrast with 'I am not' and 'I will be'."},
+    {"term": "Bottom-up kingdom", "definition": "God's way of working from the inside out and the lowest place, not through top-down control."}
+  ],
+  "scriptures": ["Luke 2:52", "2 Corinthians 5:21", "Matthew 3:13-15", "Ephesians 4:5", "John 1:29", "Romans 5:12", "1 Timothy 2:14", "Matthew 4:1-10", "John 7:38", "Genesis 3:16-19", "John 8:28-29", "John 16:32"],
+  "quotes": [
+    "We don't have to escape our body. We're right on it.",
+    "Step by step, blow by blow, He hammered out His sonship on the anvil of fallen Adamic existence.",
+    "The Lamb of God who lifts away our darkness so we can see Dad.",
+    "He didn't have to prove Himself. He only did what His Dad did."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "Jesus Beating His Way Forward",
+    "nodes": [
+      {"id": "a", "label": "Enters our flesh fully", "detail": "Takes on fallen human existence, partly blind like us."},
+      {"id": "b", "label": "Beats his way forward", "detail": "Thirty-three years hammering out sonship, refusing Adam's god."},
+      {"id": "c", "label": "Spirit accustomed to humanity", "detail": "The Spirit learns to dwell in human flesh with him."},
+      {"id": "d", "label": "Baptism: all of us", "detail": "Humanity is baptised in him to fulfil all righteousness."},
+      {"id": "e", "label": "Refuses Satan's way", "detail": "No self-serving power or top-down control in the wilderness."},
+      {"id": "f", "label": "Lives from I AM", "detail": "Never alone, always with the Father; aloneness is undone."},
+      {"id": "g", "label": "Shared with us", "detail": "His healed humanity is placed in us so we become persons."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "b", "to": "c", "label": "with"},
+      {"from": "c", "to": "d"},
+      {"from": "d", "to": "e", "label": "then"},
+      {"from": "e", "to": "f"},
+      {"from": "f", "to": "g", "label": "mediates"}
+    ],
+    "note": "Traces the incarnate life of Jesus as the progressive healing of Adam's flesh, which he then shares with humanity."
+  },
+  "caseStudy": {
+    "title": "Hannah and the 'unspiritual' body",
+    "scenario": "Hannah, 31, feels that God is distant whenever she is hungry, tired, attracted to someone or struggling. She believes she must get herself 'clean' before praying and often avoids God for days after a bad week. She also pushes herself to look strong at work and never admits weakness. Recently she has been exhausted and quietly ashamed of needing help.",
+    "analysis": "Hannah has absorbed the Greek split between God and matter and the 'sterile' model that says God cannot come near mess. Bruce teaches that Jesus entered our flesh fully, beat his way through it, and made human brokenness the tabernacle of the Trinity. Her drive to look strong is an 'I will be' answering an 'I am not', whereas Jesus lived from 'I AM' and did not have to prove himself.",
+    "pathway": [
+      "Affirm her body and appetites as good parts of being human that Jesus shared.",
+      "Pray from within the mess rather than waiting to be clean, remembering Gethsemane.",
+      "Notice where she is 'proving herself' and practise saying 'I need help' once a week.",
+      "Meditate on Jesus' words 'I am not alone, for the Father is with me' (John 16:32).",
+      "Attend to physical needs such as sleep, food and rest as part of spiritual life.",
+      "If exhaustion persists, see a GP to rule out physical or mental health causes."
+    ]
+  },
+  "practices": [
+    {"name": "Embodied prayer", "how": "Pray while noticing your body (breath, hunger, fatigue), thanking Jesus that he shares human flesh and is present in it."},
+    {"name": "Not of myself", "how": "Before tasks, pause and say 'Father, I do this with you,' echoing John 8:28-29."},
+    {"name": "Lift the veil", "how": "Read John 1:29 and pray, 'Lamb of God, lift away what keeps me from seeing Dad today.'"}
+  ],
+  "reflection": [
+    "Do you think of your body as an obstacle to God or as a place where he dwells?",
+    "Where do you try to 'prove yourself' rather than live from 'I AM' in the Father?",
+    "How does it change your view of baptism to see all humanity included in Jesus' baptism?"
+  ],
+  "quiz": [
+    {"q": "What does Bruce mean by 'flesh' (sarx)?", "options": ["The physical body", "Sexual desire", "The parts of us that don't know we're loved", "Human nature as created"], "answer": 2, "explain": "Flesh is the dark structures where love is unknown, not the body."},
+    {"q": "What does 'prokopto' in Luke 2:52 picture?", "options": ["Beating a way through brushwood with a machete", "Growing like a plant", "Climbing a ladder", "Resting in the Father"], "answer": 0, "explain": "Jesus beat his way forward through our fallen existence."},
+    {"q": "How does Bruce reinterpret 'Lamb of God who takes away the sins of the world'?", "options": ["A sacrifice to appease the Father", "A purely Passover symbol", "A sign of judgment", "The one who lifts the veil so we can see the Father"], "answer": 3, "explain": "Following Kruger, the Lamb removes our blindness to Dad."}
+  ]
+}

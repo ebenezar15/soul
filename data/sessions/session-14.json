@@ -1,0 +1,89 @@
+{
+  "session": 14,
+  "videoId": "OQWrqdtaV38",
+  "youtubeTitle": "The Gospel and Soul Health Session 14 - Dr Bruce Wauchope",
+  "volume": "Volume 1",
+  "chapter": "Chapter 3: We are in Jesus Christ - Session 1: Recap of the Problem of our Flesh; Recap of the Father, Son and Spirit and our Calling; Athanasius, On the Incarnation: What Faith is; Israel as the Womb of the Incarnation; Incarnation into what they made - our flesh; Whatever is not assumed is not healed",
+  "topic": "Incarnation into our flesh; faith as relationship",
+  "summary": "Opening Chapter 3, Wauchope recaps the framework: creation exists in, by and for the Word and is sustained by zoe; darkness is life without love; and the flesh is Adam's aloneness plus an accusing conscience, a self-split and buried pain, with sins as its fruit. Using a live 'Trinity' demonstration, he shows the pre-creation purpose of humanity placed in the middle of the Father-Son-Spirit love, and Adam as alone in the middle of plenty, unable to give or receive love and so not yet a person. Following Athanasius, he argues that repentance cannot fix humanity's slide toward non-being: what is needed is healing, not just forgiveness. God works from the bottom up. He handed the nations to angelic powers, chose Abram, and built Israel's structures as the womb in which Jesus could be understood. Faith, first seen in Abram, is receiving a spoken relationship. Jesus took a body as dark as any in history, because whatever is not assumed is not healed, and worked through it with the Spirit until the evil one had 'nothing in Him'.",
+  "keyPoints": [
+    "All things are made and sustained 'in' (en) the Word, like a womb inside God. Zoe flows in everyone even when we are blind to it, and darkness is life with intent and drive but no love.",
+    "The flesh begins with Adam's aloneness, then adds the Tree, an accusing conscience ('the woodpecker'), self-splitting, defences and a buried attachment 'black hole' of pain. Galatians 5's 'works of the flesh' are what we call sins.",
+    "Guilt padlocks fear and fear produces a freeze response, which suits religious systems that say 'be good, pay your tithes, don't grow'.",
+    "Through a live demonstration of Father, Son and Spirit face-to-face in love with a person placed in the middle, Wauchope shows the pre-creation purpose: we are predestined to be inside their love.",
+    "Adam is 'alone in the middle of plenty', like being at a feast unable to see the food. Unable to give or receive love, he cannot yet be a person; John 17:26 promises that the Father's love for the Son will be in us 'till we have faces'.",
+    "Father, Son and Spirit share one passion for us. They won't leave salvation up to us, 'a recipe for failure'; the Son will enter our corruption and sort it out in His own being.",
+    "The Christian walk is not morality, satisfying the accuser or climbing to God. It is discovering Jesus Christ in the middle of you, speaking and changing you from the bottom up, and He is in all people, not just believers.",
+    "Athanasius asks whether God should demand repentance and answers that repentance cannot recall humanity from corruption. Healing is needed, not merely forgiveness; even forgiven, the 'factory' of the flesh keeps producing mess.",
+    "After Babel, God divided the nations according to the 'sons of God' (Deuteronomy 32:8, Septuagint), handing them to angelic powers, then immediately met Abram to win back all nations from the bottom up and the inside out.",
+    "Abram believed and it was counted as righteousness. Faith is receiving a spoken relationship ('You're my son', 'Let me love you', 'Stay with me in your pain') and saying yes. It is not mustering belief or memorising verses.",
+    "Like a beaten puppy that flinches at kindness, humanity misconstrues God, so God built concepts and structures into Israel (temple, sacrifices 'given to you', emptied hands) as the womb in which Jesus could be understood.",
+    "'A body you prepared for me': Jesus took flesh as dark as anyone's. If He had come only 'down to the waist', those below would be lost. Holding the universe together from inside a dark body, He worked through it with the Spirit until 'the evil one has nothing in me', with no hook left."
+  ],
+  "keyTerms": [
+    {"term": "Zoe", "definition": "The life of Father, Word and Spirit flowing through Jesus into everything, present even where we are blind to it."},
+    {"term": "The flesh", "definition": "Humanity's fallen condition: aloneness, accusing conscience, self-splitting, defences and buried pain. It is the 'factory' of sins."},
+    {"term": "Person", "definition": "A being able to give and receive love face-to-face, which is the Trinity's goal for us."},
+    {"term": "Pre-creation purpose", "definition": "The Trinity's plan, before creation, to have humanity in the middle of their shared love."},
+    {"term": "Faith", "definition": "Receiving a spoken relationship from God, beginning with Abram, and responding 'yes'."},
+    {"term": "Israel as womb", "definition": "The nation in whose structures God prepared the concepts by which Jesus could be recognised."},
+    {"term": "Whatever is not assumed is not healed", "definition": "Christ had to take on the full depth of fallen human flesh, or those depths would remain unhealed."},
+    {"term": "Healing, not just forgiveness", "definition": "Athanasius' point: repentance and pardon leave the corruption intact, so humanity needs inner renewal."}
+  ],
+  "scriptures": ["Colossians 1:16-17", "John 1:4-5", "John 14:20", "Genesis 2:18", "Galatians 5:19-21", "John 17:26", "Revelation 13:8", "Genesis 3:15", "Genesis 11:1-9", "Deuteronomy 32:8", "Genesis 12:1-3", "Genesis 15:6", "Leviticus 17:11", "Matthew 11:27", "Hebrews 10:5", "John 14:30"],
+  "quotes": [
+    "Adam is alone in the middle of plenty.",
+    "It's healing that's needed, not forgiveness.",
+    "Faith is receiving a spoken relationship.",
+    "Jesus Christ is in you and you never put Him there."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "God's bottom-up response to our flesh",
+    "nodes": [
+      {"id": "a", "label": "Adam alone in plenty", "detail": "Blind in the middle of the Trinity's love; unable to be a person."},
+      {"id": "b", "label": "Flesh and non-being", "detail": "Conscience, splitting and pain drive humanity toward corruption."},
+      {"id": "c", "label": "Repentance can't fix", "detail": "Athanasius: forgiveness alone leaves the corruption intact."},
+      {"id": "d", "label": "Abram's faith", "detail": "God speaks a relationship, Abram receives it, and that is faith."},
+      {"id": "e", "label": "Israel: the womb", "detail": "Structures prepare concepts for understanding Jesus."},
+      {"id": "f", "label": "Christ assumes our flesh", "detail": "He takes the darkest body and works through to union."},
+      {"id": "g", "label": "Christ found within", "detail": "We discover Him in us, changing us from the bottom up."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "develops"},
+      {"from": "b", "to": "c", "label": "needs more than"},
+      {"from": "c", "to": "d", "label": "God begins"},
+      {"from": "d", "to": "e", "label": "grows into"},
+      {"from": "e", "to": "f", "label": "births"},
+      {"from": "f", "to": "g", "label": "heals"}
+    ],
+    "note": "Instead of imposing law from the top down, God works from the bottom up and the inside out: from one man's received relationship, through a nation, to the Son entering and healing our flesh from within."
+  },
+  "caseStudy": {
+    "title": "Trying harder to believe",
+    "scenario": "Leah, 38, feels she 'doesn't have enough faith'. She memorises verses and repeats them when anxious, but feels like a fraud because she still doubts God loves her. In church she says sorry to God constantly, yet nothing inside seems to change. She grew up with a critical father and flinches when anyone is kind to her.",
+    "analysis": "Leah treats faith as mustering belief, which Wauchope calls 'good memory', not faith. She is relying on repentance to fix what Athanasius says repentance cannot reach: the flesh needs healing, not just forgiveness. Like the beaten puppy, her history makes kindness feel threatening. Wauchope's model of faith is receiving a spoken relationship from Christ already in her ('You're my daughter', 'Stay with me in your pain') and saying a tentative yes.",
+    "pathway": [
+      "Shift from 'Do I believe enough?' to 'What is He saying to me?' by listening quietly after reading a short passage.",
+      "Write down any words of relationship that come alive ('You're mine') and answer honestly, even if only with 'Maybe'.",
+      "Practise staying with painful feelings for a few minutes while picturing Christ already in that place, instead of running from them.",
+      "Notice the flinch at kindness as an old wound, not as truth about God.",
+      "Consider counselling to work through the impact of her critical father, alongside spiritual direction."
+    ]
+  },
+  "practices": [
+    {"name": "Spoken-relationship journal", "how": "Daily, write one phrase you sense Christ speaking to you (for example, 'You're my child') and your honest reply. Faith grows as you receive, not as you strain."},
+    {"name": "Stay in the pain", "how": "When hurt surfaces, set a five-minute timer and remain with it, praying, 'Jesus, you've already been here; let me find you.'"},
+    {"name": "Group reading", "how": "Read Athanasius' On the Incarnation aloud with two or three others, a chapter a week, discussing what you notice together."}
+  ],
+  "reflection": [
+    "Where do you feel 'alone in the middle of plenty'?",
+    "Have you been seeking forgiveness when what you need is healing? What's the difference for you?",
+    "What has God been speaking to you that you have not yet fully received?"
+  ],
+  "quiz": [
+    {"q": "According to Wauchope, following Athanasius, why can't repentance alone fix humanity?", "options": ["Repentance is too difficult", "Repentance leaves the corruption of the flesh intact; healing is needed", "God doesn't accept repentance", "Repentance is only for Israel"], "answer": 1, "explain": "Even forgiven, the 'factory' of the flesh remains, so humanity needs healing."},
+    {"q": "How does Wauchope define faith, using Abram as the example?", "options": ["Memorising Scripture", "Mustering up belief", "Receiving a spoken relationship and saying yes", "Obeying the law perfectly"], "answer": 2, "explain": "God spoke to Abram, Abram received it, and that is faith."},
+    {"q": "Why did Jesus need a body with 'as much flesh as anybody in history'?", "options": ["Whatever He did not assume would not be healed", "To appear more relatable", "To fulfil a Roman legal requirement", "To avoid suffering"], "answer": 0, "explain": "If He came only part way down, those below would remain lost."}
+  ]
+}

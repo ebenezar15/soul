@@ -1,0 +1,89 @@
+{
+  "session": 56,
+  "videoId": "vFpQ9suIdV4",
+  "youtubeTitle": "The Gospel and Soul Health Session 56 - Dr Bruce Wauchope",
+  "volume": "Volume 3 - Soul Health",
+  "chapter": "Chapter 4 - The Amygdala, Trauma and Darkness (Session 3)",
+  "topic": "Inside a part: emotion, meaning and body memory",
+  "summary": "Bruce frames the gospel as a love story rather than a horror movie: our brains run on love or fear, and a 'dodgy gospel' of judgment locks people in fear so they cannot process or heal. He explains that, where love is absent, people can deliberately exploit the fear response to split others into parts (ritual abuse), and he urges anyone affected to begin with the foundation of union and the New Covenant, not with the darkness. He then maps the internal structure of a part: intense fear-based emotion, a frozen developmental age, attached meaning and beliefs, possible programs and triggers, defences, protector parts and memories stored in the body. Drawing on the Hebrew sense of 'soul' as the body's inner organs, he argues the body is central to healing: body memories are reliable while visual memories get 'photoshopped', so embracing the body rather than escaping it lets emotion flow and heal. Even in extreme fragmentation, the core (Christ in the person) cannot be reached, since everything of the Trinity leads to integration and everything of evil to fragmentation.",
+  "keyPoints": [
+    "The gospel is a love story, not a horror movie; the opposite of love is fear, and the brain functions from one or the other.",
+    "The internal judge can both trigger and lock fear, which is why a 'dodgy gospel' of judgment traps people rather than saving them.",
+    "Where love is absent, the fear response can be deliberately exploited to slice a person into parts 'like a salami' and program them; Bruce identifies this as ritual abuse.",
+    "For anyone affected, the starting point is not the darkness but the eternal love story: you were wanted before creation, and Jesus has joined the whole human race and heals from the bottom up.",
+    "The New Covenant (Jeremiah 31) means: I am in you and you can ask for help from within; no hierarchy, since everyone knows him; and all your mess is forgiven and forgotten.",
+    "Fear constricts our capacity to take in information and puts us in fight, flight or freeze, which suits institutions that want compliance but burns people out.",
+    "Each unprocessed part holds intense fear-based emotion at the developmental age it split, plus meaning, beliefs, possible programs, commands, triggers, defences and body memories.",
+    "In Hebrew thought the soul is the inner organs ('my kidneys cry out to you'), not a wispy Greek spirit; memories are processed through the body.",
+    "Body memories are reliable while visual and auditory memories are not: the brain 'photoshops' gaps, but the body replays emotion the same way every time.",
+    "A gospel that says escape your body cannot heal; treating your body and feelings as sacred and turning towards them lets emotion begin to flow, which is why somatic therapies help.",
+    "Magical thinking ('I make things happen, so bad things mean I'm bad'), attachment to the perpetrator (Stockholm syndrome), vows and religious guilt can all hold a part in place; protector parts manage the system.",
+    "Even in extreme fragmentation the core part, which survivors call the 'Christ child', cannot be reached: everything of the Trinity leads to integration, everything of evil to fragmentation."
+  ],
+  "keyTerms": [
+    {"term": "Dodgy gospel", "definition": "A gospel of separation, judgment and fear that locks accusation in place and cannot heal."},
+    {"term": "Part", "definition": "An island of unprocessed, fear-based emotion split off from the self, carrying its own age, meaning and triggers."},
+    {"term": "Body memory", "definition": "Unprocessed emotion and sensation stored in the body, which Bruce says replays reliably, unlike visual memory."},
+    {"term": "Magical thinking", "definition": "A young child's belief that they cause what happens, so bad events come to mean 'I am bad'."},
+    {"term": "Protector parts", "definition": "Parts that manage the system by avoiding triggers and keeping painful parts from surfacing."},
+    {"term": "Christ child (core part)", "definition": "The foundational core of a person, attached to Christ, which abusers cannot reach or split."},
+    {"term": "New Covenant", "definition": "God's promise that he is in us, that all know him without hierarchy, and that our sins are forgiven and forgotten."}
+  ],
+  "scriptures": ["Jeremiah 31:31-34"],
+  "quotes": [
+    "It's a love story, not a horror movie.",
+    "Body memories do not lie; visual and auditory memories do.",
+    "If I have to escape my body, how can I process unprocessed emotion?",
+    "Everything of Father, Son and Spirit leads to integration; everything of evil leads to fragmentation."
+  ],
+  "diagram": {
+    "type": "layers",
+    "title": "The internal structure of a part",
+    "nodes": [
+      {"id": "a", "label": "Protector parts", "detail": "Managers that avoid triggers and keep the part contained."},
+      {"id": "b", "label": "Triggers and defences", "detail": "Activated when something comes near the memory island."},
+      {"id": "c", "label": "Meaning, beliefs, programs", "detail": "'I'm bad', vows, commands or religious guilt attached to the part."},
+      {"id": "d", "label": "Developmental age", "detail": "The part stays at the age it split, such as three years old."},
+      {"id": "e", "label": "Intense fear-based emotion", "detail": "Unprocessed fight, flight, freeze or submission emotion."},
+      {"id": "f", "label": "Body memory", "detail": "Stored in the body and replayed reliably."},
+      {"id": "g", "label": "Core: Christ in you", "detail": "The foundation that cannot be split or reached by abuse."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "b", "to": "c"},
+      {"from": "c", "to": "d"},
+      {"from": "d", "to": "e"},
+      {"from": "e", "to": "f"},
+      {"from": "f", "to": "g"}
+    ],
+    "note": "From the outer defences down to the unbreakable core; healing comes by turning towards the part in love so the body can process it."
+  },
+  "caseStudy": {
+    "title": "A three-year-old's flood in a forty-year-old",
+    "scenario": "Rachel, 42, is a capable manager. When her partner raises his voice even slightly, she freezes, her chest tightens and she feels small and terrified. Afterwards she berates herself for 'overreacting' and prays for God to take the feelings away, but they keep returning.",
+    "analysis": "In Bruce's model a part is waking up: a young child's intense, fear-based emotion stored in the body, with meaning such as 'it's my fault' attached. Suppressing it with self-judgment or spiritualised escape keeps the judge locking the fear. Because body memory is reliable, the tightening in her chest is a doorway to processing.",
+    "pathway": [
+      "Replace self-criticism with: 'My body is sacred and what I'm feeling is part of my life.'",
+      "Rest in the New Covenant: Christ is in her and she can ask for help from within.",
+      "When it is safe, turn towards the sensation in her chest, breathing gently into it.",
+      "Notice any meaning attached (such as 'I'm bad' or 'I caused this') and gently question it.",
+      "Talk with her partner about how raised voices affect her.",
+      "Seek a trauma-informed or somatic therapist, especially if floods are intense or frequent."
+    ]
+  },
+  "practices": [
+    {"name": "Turning towards the body", "how": "When a strong feeling arises, pause and locate it in your body. Breathe towards that place for a few minutes without trying to fix or explain it."},
+    {"name": "New Covenant reminder", "how": "Each morning say: 'You are in me; I can ask you for help; my mess is forgiven and forgotten.' Use it as the frame before facing hard feelings."},
+    {"name": "Meaning audit", "how": "After a strong reaction, write down what it 'meant' about you (for example 'I'm a failure'). Ask whether that is a child's magical-thinking conclusion."}
+  ],
+  "reflection": [
+    "Have you been taught, directly or not, to distrust or escape your body?",
+    "What meanings did you attach to painful events as a child?",
+    "How does knowing your core cannot be reached change how you approach your wounded parts?"
+  ],
+  "quiz": [
+    {"q": "Why does Bruce say body memories are more reliable than visual memories?", "options": ["The brain photoshops visual gaps, but the body replays emotion the same way", "Visual memories are always false", "The body forgets nothing at all", "Scripture says so explicitly"], "answer": 0, "explain": "Fragmented visual memory gets stitched together, while unprocessed body emotion replays consistently."},
+    {"q": "In Hebrew thought, as Bruce describes it, what does 'soul' refer to?", "options": ["A wispy spirit escaping the body", "The intellect only", "The inner organs and body", "The church community"], "answer": 2, "explain": "The Psalms speak of the kidneys or liver crying out to God."},
+    {"q": "What do survivors of ritual abuse call the core part that cannot be reached?", "options": ["The protector", "The Christ child", "The judge", "The rescuer"], "answer": 1, "explain": "Christ is at the bottom of the human race, so the core cannot be split."}
+  ]
+}

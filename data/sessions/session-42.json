@@ -1,0 +1,190 @@
+{
+  "session": 42,
+  "videoId": "96pEO6aoNnA",
+  "youtubeTitle": "The Gospel and Soul Health Session 42 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 2, Session 6 - Deconstructing the validity of the Conscience: Level 2 from Scripture; Level 3 - reorientating and redeeming the Conscience to serve Jesus, Love and Life",
+  "topic": "Redeeming the conscience to serve love",
+  "summary": "Having undone the judge, law and records, Bruce urges people to answer their inner accuser directly: 'You have no basis; I am a child of God and Christ is in me.' Level 2 shows that Jesus himself moved sin, righteousness and judgment from a legal to a relational frame (John 16:8-11): sin is refusing the relationship given in him, righteousness is his going to the Father and taking us with him, and judgment falls on the ruler of this world who planted the accuser. Level 3 reorients the conscience: the tree of the knowledge of good and evil is not cut out but made to serve the Tree of Life, knowing that life with love is good and life without love is evil, with no outstanding law but to love one another. Bruce quotes David Goa that morality is to life as a condom is to procreation, and recounts the question 'Who told you that you were naked?' as a way of exposing assumptions such as 'I must be perfect'. In practice, he recommends side-stepping accusatory systems and learning Marshall Rosenberg's Nonviolent Communication, since judgment brings death into any interaction while values, needs, emotions and intuitions bring rich relationship.",
+  "keyPoints": [
+    "When the accuser speaks, turn to it inside and say: 'You have no basis; I am a child of God, my acceptance is relational, and Christ is in me - I never put him there.'",
+    "Jesus' statement that the Spirit convicts the world of sin, righteousness and judgment (John 16:8-11) does not mean 'conviction of sin' in a moralistic sense; it means we have all three wrong.",
+    "Sin is relational: 'because they do not believe in me' - refusing the sonship or daughterhood given in Jesus, not failing the Ten Commandments.",
+    "Righteousness is Jesus going to the Father and taking us with him, not our self-righteous climb up an imaginary stairway.",
+    "Judgment falls on the ruler of this world, who put the accuser into us; Jesus came to clean that up so we are not accused.",
+    "Two trees: the tree of the knowledge of good and evil is not removed but reoriented to serve the Tree of Life - 'every knee shall bow, every tongue confess, and every conscience will do what it's told'.",
+    "The redeemed conscience no longer compares legally or accuses; it knows that life with love is good and life without love is evil, and owes nothing but to love one another (Romans 13:8).",
+    "David Goa: 'Morality is to life as a condom is to procreation' - moralism crimps the rivers of living water meant to flow from within.",
+    "God's first question to fallen humanity was 'Who told you that you were naked?'; we should ask what our conscience assumes (e.g. 'I must be perfect, always win') and where love is in it.",
+    "Communion is not grovelling to get forgiven: we start from the covenant that we are forgiven and worthy because we belong to the Father, not by performance.",
+    "Undoing the conscience unlocks the fear response and lets love flow; it must be revisited again and again, gently challenging it in ourselves and loved ones.",
+    "With accusatory family members, learn to side-step accusation, and use Marshall Rosenberg's Nonviolent Communication: describing what you see and feel rather than judging ('you're brilliant' or 'you're terrible') keeps life flowing."
+  ],
+  "keyTerms": [
+    {
+      "term": "Relational sin",
+      "definition": "Refusing the relationship of sonship or daughterhood given to us in Jesus."
+    },
+    {
+      "term": "Righteousness",
+      "definition": "Jesus going to the Father and bringing us with him, rather than our self-righteous climbing."
+    },
+    {
+      "term": "Judgment",
+      "definition": "Christ's judgment on the ruler of this world and the accuser it planted in us."
+    },
+    {
+      "term": "Reoriented conscience",
+      "definition": "The conscience as servant of Jesus, discerning life with love (good) from life without love (evil)."
+    },
+    {
+      "term": "Tree of death",
+      "definition": "Bruce's name for the unredeemed tree of the knowledge of good and evil, which brings death to every interaction it judges."
+    },
+    {
+      "term": "Nonviolent Communication",
+      "definition": "Marshall Rosenberg's approach of speaking from observations, feelings and needs without judgment."
+    }
+  ],
+  "scriptures": [
+    "John 16:8-11",
+    "Philippians 2:10-11",
+    "Romans 13:8",
+    "John 7:38",
+    "Genesis 3:11",
+    "1 John 1:7"
+  ],
+  "quotes": [
+    "You're wrong about sin because you don't believe in me - it's relational.",
+    "Every knee shall bow, every tongue confess, and every conscience will do what it's told.",
+    "What is truly good is life and love; what is evil is life without love.",
+    "The moment you put judgment into a human interaction you bring death."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Sin, righteousness and judgment reframed",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "Sin = breaking rules",
+        "detail": "The conscience frames sin as failing moral law.",
+        "side": "left"
+      },
+      {
+        "id": "b",
+        "label": "Righteousness = my climb",
+        "detail": "Self-righteous effort up an imaginary stairway to God.",
+        "side": "left"
+      },
+      {
+        "id": "c",
+        "label": "Judgment = accusing me",
+        "detail": "The accuser condemns us day and night.",
+        "side": "left"
+      },
+      {
+        "id": "d",
+        "label": "Sin = refusing relationship",
+        "detail": "Not believing in Jesus and the sonship he gives.",
+        "side": "right"
+      },
+      {
+        "id": "e",
+        "label": "Righteousness = Jesus' homecoming",
+        "detail": "He goes to the Father and takes us with him.",
+        "side": "right"
+      },
+      {
+        "id": "f",
+        "label": "Judgment = on the accuser",
+        "detail": "The ruler of this world is judged, so we are not accused.",
+        "side": "right"
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "d",
+        "label": "reframed"
+      },
+      {
+        "from": "b",
+        "to": "e",
+        "label": "reframed"
+      },
+      {
+        "from": "c",
+        "to": "f",
+        "label": "reframed"
+      }
+    ],
+    "note": "Left: the conscience's legal frame. Right: Jesus' relational frame from John 16:8-11, which the redeemed conscience now serves."
+  },
+  "caseStudy": {
+    "title": "Winning every argument",
+    "scenario": "Daniel was raised to believe he had to be perfect - top marks, first place, never wrong. At home he wins every argument with his partner, but she feels judged and has withdrawn. When she says, 'I feel like nothing I do is good enough for you', he responds by listing the facts that prove he is right. He privately feels the same about himself and never rests.",
+    "analysis": "Daniel's conscience operates from an unspoken assumption ('I must be perfect') that Bruce traces with the question 'Who told you that you were naked?'. Its right/wrong grid has become the tree of death in his relationship: every judgment, even a positive one, puts him above his partner and drains life from their connection. A redeemed conscience would ask a different question - is there life and love here? - and Nonviolent Communication offers a practical way to speak from feelings and needs rather than verdicts.",
+    "pathway": [
+      "Ask, 'Who told you that you had to be perfect?' and trace where the assumption came from.",
+      "Each time he feels accused inside, respond: 'I'm a child of God; you have no basis.'",
+      "In conflicts, replace verdicts with observations, feelings and needs (NVC).",
+      "Ask his partner what she needs rather than defending his correctness.",
+      "Read John 16:8-11 and Romans 13:8 and let 'love one another' be the only outstanding law.",
+      "Consider couples counselling if patterns remain entrenched."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Talk back to the accuser",
+      "how": "When an accusing thought appears, say inwardly: 'You have no basis for that. I am a child of God and Christ is in me.' Then rest for a moment in that truth."
+    },
+    {
+      "name": "Who told you?",
+      "how": "Write one rule you live by (e.g. 'I must always win'). Ask 'Who told me that?' and 'Where is love in it?' and bring the answer to Jesus."
+    },
+    {
+      "name": "Judgment-free sentence",
+      "how": "Once a day, express appreciation or concern without evaluating the person: describe what you observed and how you feel, as in Nonviolent Communication."
+    }
+  ],
+  "reflection": [
+    "What unspoken rules has your conscience assumed for you, and who 'told' you them?",
+    "How does seeing sin as refusing relationship, rather than rule-breaking, change how you approach confession or communion?",
+    "Where might a reoriented conscience - asking 'is there life and love here?' - guide you differently this week?"
+  ],
+  "quiz": [
+    {
+      "q": "According to Bruce's reading of John 16:9, what is sin?",
+      "options": [
+        "Breaking any of the Ten Commandments",
+        "Refusing the relationship given to us in Jesus",
+        "Having negative emotions",
+        "Failing to attend church"
+      ],
+      "answer": 1,
+      "explain": "Jesus said 'because they do not believe in me' - sin is relational."
+    },
+    {
+      "q": "In the redeemed conscience, what is evil?",
+      "options": [
+        "Any rule-breaking",
+        "Strong emotion",
+        "Life without love",
+        "Disagreeing with leaders"
+      ],
+      "answer": 2,
+      "explain": "Good is life with love; evil is life without love."
+    },
+    {
+      "q": "What tool does Bruce recommend for speaking without judgment?",
+      "options": [
+        "Nonviolent Communication by Marshall Rosenberg",
+        "Formal confession lists",
+        "Debate techniques",
+        "Silence and withdrawal"
+      ],
+      "answer": 0,
+      "explain": "NVC helps people speak from feelings and needs, keeping judgment (the tree of death) out."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "session": 10,
+  "videoId": "vwrLGLg87QY",
+  "youtubeTitle": "The Gospel and Soul Health Session 10 - Dr Bruce Wauchope",
+  "volume": "Volume 1: The Gospel of John",
+  "chapter": "Chapter 2: We are in Jesus Christ (Session 1 Key Themes: Creation is in Christ - Creation, Aloneness and the Black Hole)",
+  "topic": "Creation in Christ, Adam's Aloneness, Black Hole",
+  "summary": "Opening chapter two ('We are in Jesus', from John 14:20), Bruce sets out to define the 'flesh' and the darkness in us, using models drawn from years of sitting with damaged Christians. All creation, without exception, is made, given life and held together in, through, by and for the Eternal Son, inside the Trinity like a womb rather than separate from God. Genesis 1 moves from 'good' to 'very good', yet Genesis 2 says 'it is not good that man is alone': Adam is alone in the middle of plenty, which Bruce reads as the mysterious beginning of blindness and evil, not merely the lack of a wife. Because we were made for attachment within the divine union, aloneness sits against the echo of our calling and produces the deep pain he calls the 'black hole'. From this aloneness flows a big 'I AM NOT', answered by a big 'I WILL BE', and the capacity to 'other' people and do violence, later intensified by the conscience.",
+  "keyPoints": [
+    "The non-negotiables of chapter one form the frame; questions built on false premises (such as the Father turning his face from the Son) cannot be answered within it.",
+    "Chapter two ('We are in Jesus') defines the flesh and darkness so we can later see how deeply Christ entered it; the models come from sitting with damaged Christians and noticing repeated structures that go back to Adam.",
+    "All creation is made inside the Eternal Son, inside Father, Son and Spirit like a womb, not God and universe pulled apart as in Greek philosophy.",
+    "Colossians 1 uses 'en' (in): all things, visible and invisible, at every level of power, are created in, through and for him and consist in him; we are not battery packs but have Christ's zoe flowing through us.",
+    "Genesis 1 shows God commanding the universe to bring forth life ('good'), but personally making humanity ('very good').",
+    "Genesis 2's 'it is not good that man is alone' is a huge understatement: Adam is alone in the middle of plenty, in the council of God with the angels, contradicting the pre-eternal purpose.",
+    "This aloneness is not mainly about lacking a wife; it is the beginning of blindness and the 'mystery of iniquity', which will be met by the 'mystery of godliness', the Incarnation.",
+    "We were made for spiritual attachment within the divine union; blind to it, we meet emptiness, and aloneness sits against the echo of our calling as sons and daughters.",
+    "The black hole: the only reason we have such pain is that we were made for relationship; if there were no calling there would be no pain.",
+    "This pain is ultimately relieved only by the unveiling in us of the love with which the Father loves the Son (John 17).",
+    "Under human activity sits a big 'I AM NOT', and in response we build a big 'I WILL BE' through false identities.",
+    "Aloneness creates the capacity to 'other' people; combined with a conscience that splits good and bad, we judge others and feel validated in violence, which ultimately killed Jesus."
+  ],
+  "keyTerms": [
+    {"term": "Flesh", "definition": "The structures of darkness and false identity built in the human mind since Adam, which this chapter sets out to define."},
+    {"term": "Creation in Christ", "definition": "Everything is made, given life and held together in, through, by and for the Eternal Son, like a womb within the Trinity."},
+    {"term": "Zoe", "definition": "The life of God, the life of Christ flowing through the whole universe and sustaining every being."},
+    {"term": "Aloneness", "definition": "Adam's blindness to the divine relationships around and within him: alone in the middle of plenty."},
+    {"term": "Black hole", "definition": "The deep pain that arises because our calling to relationship remains while we are blind to it."},
+    {"term": "Mystery of iniquity", "definition": "The unexplained origin of blindness and evil between Genesis 1's 'very good' and Genesis 2's 'not good'."},
+    {"term": "I AM NOT / I WILL BE", "definition": "The false identity of non-being beneath the black hole, and the striving to build an identity in response."},
+    {"term": "Othering", "definition": "Treating another person as separate from me, not part of me, which enables judgment and violence."}
+  ],
+  "scriptures": ["John 14:20", "Colossians 1:16-17", "John 1:3-4", "Genesis 1", "Genesis 2:18", "1 Timothy 3:16", "John 17:26"],
+  "quotes": [
+    "The only reason we've got pain like a black hole is we were made for relationship.",
+    "If there was no calling there is no pain.",
+    "Man's alone in the middle of plenty.",
+    "Under this will be a very big fat 'I AM NOT', and in response a very big 'I WILL BE'."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "From Aloneness to Othering",
+    "nodes": [
+      {"id": "a", "label": "Made in Christ for union", "detail": "All creation exists in the Son, made for relationship with Father, Son and Spirit."},
+      {"id": "b", "label": "Adam alone in plenty", "detail": "Blindness emerges; Adam cannot see the relationships surrounding him."},
+      {"id": "c", "label": "Echo of the calling", "detail": "The calling to sonship remains, so aloneness sits against it."},
+      {"id": "d", "label": "Black hole pain", "detail": "Deep attachment pain because what we were made for is missing."},
+      {"id": "e", "label": "I AM NOT", "detail": "A false identity of non-being forms beneath our activity."},
+      {"id": "f", "label": "I WILL BE", "detail": "We strive to build substitute identities and relationships."},
+      {"id": "g", "label": "Othering and violence", "detail": "Separate and in pain, we make others outsiders, judge and harm them."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "blinded"},
+      {"from": "b", "to": "c"},
+      {"from": "c", "to": "d", "label": "produces"},
+      {"from": "d", "to": "e"},
+      {"from": "e", "to": "f", "label": "drives"},
+      {"from": "d", "to": "g", "label": "enables"}
+    ],
+    "note": "Shows how blindness to our union in Christ produces the black hole and its outworkings."
+  },
+  "caseStudy": {
+    "title": "Daniel, lonely in a full house",
+    "scenario": "Daniel is a 45-year-old father with a busy household, a good job and a church small group. Yet late at night he feels a hollow ache, as if he is fundamentally on his own. He fills the gap with work achievements and scrolling, and he has become quick to write off colleagues as 'useless'. He cannot explain the ache, because by every outward measure he has plenty.",
+    "analysis": "Daniel's experience mirrors Adam alone in the middle of plenty. The ache is the black hole: pain that exists because he was made for attachment within the life of Father, Son and Spirit and is blind to it. His achievements are an 'I WILL BE' answering a hidden 'I AM NOT', and his dismissiveness is the beginnings of othering that grows from aloneness.",
+    "pathway": [
+      "Name the ache honestly rather than treating it as a failure or something to fill.",
+      "Reflect on Colossians 1:17 and John 14:20: he is already in Christ, held in the Trinity's life.",
+      "Notice when he reaches for achievement or scrolling to cover the ache, and pause to pray instead.",
+      "Practise seeing one 'useless' colleague as someone held in the same Christ.",
+      "Share the ache with a trusted friend or small-group member to begin experiencing attachment.",
+      "If the emptiness becomes persistent low mood, see a GP or counsellor."
+    ]
+  },
+  "practices": [
+    {"name": "'In Him' meditation", "how": "Sit quietly for five minutes repeating 'In him I live and move and have my being' while noticing your breath as a gift of his life."},
+    {"name": "Notice the ache", "how": "When you feel empty or restless, write down what you reach for (busyness, food, screens) and what you were actually longing for."},
+    {"name": "Un-othering", "how": "Each day choose one person you are tempted to dismiss and pray, 'They are held in Christ too.'"}
+  ],
+  "reflection": [
+    "Where do you feel 'alone in the middle of plenty'?",
+    "What 'I WILL BE' projects have you built to answer an inner 'I AM NOT'?",
+    "Who have you 'othered' recently, and what might change if you saw them as part of you in Christ?"
+  ],
+  "quiz": [
+    {"q": "According to Bruce, why do humans experience 'black hole' pain?", "options": ["Because God withholds love", "Because of bad parenting only", "Because we were made for relationship and are blind to it", "Because the body is evil"], "answer": 2, "explain": "If there were no calling to relationship, there would be no pain."},
+    {"q": "How does Bruce read 'it is not good that man is alone' (Genesis 2:18)?", "options": ["Adam simply needed a wife", "Adam was alone in the middle of plenty, the start of blindness", "Animals were a failed experiment", "God made a mistake in creation"], "answer": 1, "explain": "Adam was surrounded by the council of God yet alone, which contradicts the pre-eternal purpose."},
+    {"q": "What does the Greek word 'en' in Colossians 1 emphasise?", "options": ["Creation is inside the Son", "Creation is separate from God", "Creation came by evolution", "Only heaven is in Christ"], "answer": 0, "explain": "All things are made and consist in him, like a womb."}
+  ]
+}

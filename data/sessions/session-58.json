@@ -1,0 +1,90 @@
+{
+  "session": 58,
+  "videoId": "E6Dn6_wLvyo",
+  "youtubeTitle": "The Gospel and Soul Health Session 58 - Dr Bruce Wauchope",
+  "volume": "Volume 3 - Soul Health",
+  "chapter": "Chapter 4 - The Amygdala, Trauma and Darkness (Session 5)",
+  "topic": "Demystifying darkness: fragmentation, covenants and the gospel",
+  "summary": "Bruce sets out to demystify how darkness and soul control work, not to fascinate but so people can see through them and lose their fear. In his framework, fear is used to fragment a person's soul, and those fragments can be exchanged or held like mixed-up jigsaw pieces and controlled through lies such as karma, the 'law of sin and death'. He insists there is no separate battery of evil: it is the Trinity's life (Zoe) twisted through fear and control, on a spectrum that includes the ordinary ways we control others through fear and guilt. The gospel undercuts all of this: because Christ the sinless one died and all humanity died with him (Isaiah 28's annulled covenant with death), no covenant, ritual or blood oath has authority over anyone. Healing then involves restoring spiritual boundaries, reclaiming one's own life and returning what belongs to others, breaking agreements with darkness, and owning things through confession, with Jesus gathering every lost part.",
+  "keyPoints": [
+    "Recap: pulling your field in around you like a cylinder lets you rest, whereas an extended field leaves you exhausted and hypervigilant.",
+    "Recap on responsibility: the abuser is responsible for the abuse; victims often wrongly take it on, which disorders responsibility. The victim is responsible only for what they themselves do.",
+    "Bruce's jigsaw analogy: fear fragments a person, and if pieces of one person's soul are mixed into another's 'puzzle', neither can ever get back together.",
+    "There is no 'battery pack of evil': darkness is the life of Father, Son and Spirit (Zoe) twisted through fear and control, used without love.",
+    "Before condemning those in the occult, hold up a mirror: controlling others through fear or guilt sits on the same spectrum.",
+    "From his experience working with ritual-abuse survivors and people who described military programming, Bruce argues the same human mechanism is at work: fragment through fear, then program the parts.",
+    "'Squid jig' hooks such as guilt, shame-meaning ('I'm bad') and programming stop parts returning; the gospel undoes most of them, but a good counsellor may be needed for the rest.",
+    "You do not need to be a better wizard than the wizards: Bruce describes his own earlier study of the occult and Kabbalah as 'doing it the wrong way' before he understood the gospel.",
+    "Because Christ the sinless one died, and all humanity died in him, the law of sin and death can no longer be used against anyone (Isaiah 28:18; compare Aslan's 'deeper magic' and the broken Stone Table).",
+    "Christ's blood and water poured out to baptize the cosmos; his blood is 'fixed-up humanity', so blood covenants made by us are void because we died with him.",
+    "Restoring spiritual boundaries is simple prayer: send back what belongs to another, call back your own life cleansed, and close the soul tie.",
+    "Darkness can work like a radio frequency (e.g. lust) a person tunes into; breaking agreements, using the will and confession (owning, not earning forgiveness) restore the person, and Jesus gathers every part so none is lost."
+  ],
+  "keyTerms": [
+    {"term": "Fragmentation", "definition": "The splitting of the soul into parts, which Bruce says is always driven by fear."},
+    {"term": "Squid jig", "definition": "Bruce's image for the multiple hooks (guilt, meaning, programming) that snag a part and stop it from returning and integrating."},
+    {"term": "Law of sin and death", "definition": "The cosmic 'karmic' law that 'the soul that sins shall die', which Bruce says is broken because the sinless Christ died and all died in him."},
+    {"term": "Soul tie", "definition": "A life-flow connection between two people through which parts of each can pass; closed by prayer that returns what belongs to each."},
+    {"term": "Spiritual boundaries", "definition": "The integrity of one's being and field, restored so that others no longer have 'portals' of access."},
+    {"term": "Confession", "definition": "Owning and facing what is going on so healing can flow; not a means of getting sins forgiven, which Christ has already done."}
+  ],
+  "scriptures": ["Isaiah 28:16-18", "Ezekiel 18:4", "Matthew 3:15", "John 19:34", "John 1:29", "John 6:12", "Deuteronomy 6:4", "Revelation 18:13"],
+  "quotes": [
+    "There is no big battery pack of evil. It's the life flow of Father, Son and Spirit, twisted through fear and control.",
+    "You don't have to be a better wizard than the wizards.",
+    "Christ has pulled the rug out: through death, the law of sin and death is wiped out.",
+    "Union, integration, unity is of the ways of God; fragmentation and control are not."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "How darkness controls vs how the gospel frees",
+    "nodes": [
+      {"id": "a", "label": "Fear fragments the soul", "detail": "Fear is used to split a person into parts.", "side": "left"},
+      {"id": "b", "label": "Parts mixed and held", "detail": "Pieces of people exchanged like jigsaw pieces in the wrong puzzle.", "side": "left"},
+      {"id": "c", "label": "Karmic law enforces", "detail": "'You deserve this' lies use the law of sin and death to keep control.", "side": "left"},
+      {"id": "d", "label": "Covenants and soul ties", "detail": "Rituals, blood oaths and connections keep portals open.", "side": "left"},
+      {"id": "e", "label": "All died in Christ", "detail": "The sinless one died, so the law of sin and death is broken.", "side": "right"},
+      {"id": "f", "label": "Covenants annulled", "detail": "Proclaiming the gospel voids every agreement with death.", "side": "right"},
+      {"id": "g", "label": "Boundaries restored", "detail": "Return what is others', call back your life, close the tie.", "side": "right"},
+      {"id": "h", "label": "Jesus gathers every part", "detail": "Let no part be lost; integration is the way of God.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "b", "to": "c"},
+      {"from": "c", "to": "d"},
+      {"from": "e", "to": "f", "label": "voids"},
+      {"from": "f", "to": "g", "label": "frees"},
+      {"from": "g", "to": "h", "label": "allows"},
+      {"from": "c", "to": "e", "label": "undercut by"}
+    ],
+    "note": "Bruce's demystified 'anatomy and physiology' of control on the left, and the structural answer of the gospel on the right."
+  },
+  "caseStudy": {
+    "title": "Untangling after a controlling relationship",
+    "scenario": "Priya left a long relationship in which her partner controlled her through guilt and fear. Months later she still hears his criticisms as her own thoughts, feels oddly 'connected' to his moods, and believes she deserved how she was treated. She cannot settle and feels constantly on guard.",
+    "analysis": "In Bruce's framework, control through guilt and fear sits on the same spectrum as darker forms of manipulation: it fragments and binds. The belief 'I deserved it' is the karmic law of sin and death used against her, and it disorders responsibility, since the abuser is responsible for the abuse. Her hypervigilance suggests her boundaries remain extended and open.",
+    "pathway": [
+      "Name the truth about responsibility: his abuse was his responsibility, not hers.",
+      "Rest in the gospel: in Christ the law of 'you deserve this' has no authority over her.",
+      "Pray a simple boundary prayer: return everything of him to him, call back her own life cleansed, and close the tie.",
+      "Break agreements with lies such as 'I'm bad' or 'I deserved it', with the Holy Spirit's help.",
+      "Practise drawing her field in to rest, rather than scanning for danger.",
+      "Work with a trauma-informed counsellor, and seek safety support if contact or threats continue."
+    ]
+  },
+  "practices": [
+    {"name": "Boundary prayer", "how": "Name a relationship where you feel entangled. Pray: 'Everything of them in me, go back; everything of me in them, come back to me, cleansed; I close this connection in Jesus' name.'"},
+    {"name": "Mirror check", "how": "At the end of the day ask: 'Did I try to control anyone today through fear or guilt?' Own it simply and choose another way."},
+    {"name": "Gospel proclamation to a part", "how": "When a part of you feels it deserves punishment, speak to it: 'When Jesus died, you died with him; no law of death has authority over you now.'"}
+  ],
+  "reflection": [
+    "Where have you taken responsibility for something another person did to you?",
+    "In what subtle ways do you use fear or guilt to control others?",
+    "How does knowing you died with Christ change your fear of spiritual darkness?"
+  ],
+  "quiz": [
+    {"q": "What does Bruce say darkness's power actually is?", "options": ["An independent evil battery equal to God", "Merely human imagination", "The Trinity's life (Zoe) twisted through fear and control", "Impersonal karma"], "answer": 2, "explain": "He insists there is no battery pack of evil, only twisted Zoe."},
+    {"q": "Why, according to Bruce, is the law of sin and death broken?", "options": ["Because people perform the right rituals", "Because the sinless Christ died and all humanity died in him", "Because the occult is imaginary", "Because believers tithe and attend church"], "answer": 1, "explain": "The soul that sins shall die, but the sinless one died, so the law can no longer be used against us."},
+    {"q": "What is the 'squid jig' image used to describe?", "options": ["Hooks like guilt and meaning that stop parts returning", "A ritual used by the occult", "The Holy Spirit's gathering of parts", "A healthy boundary"], "answer": 0, "explain": "Parts get snagged on multiple hooks that must be undone for memory to process."}
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "session": 57,
+  "videoId": "6Kf_wZuj-pw",
+  "youtubeTitle": "The Gospel and Soul Health Session 57 - Dr Bruce Wauchope",
+  "volume": "Volume 3 - Soul Health",
+  "chapter": "Chapter 4 - The Amygdala, Trauma and Darkness (Session 4)",
+  "topic": "Abuse, personal space and responsibility",
+  "summary": "Bruce demonstrates that every person has a personal space, a non-physical field we are implicitly aware of and can feel others entering. Abuse violates this space and the person's will: in self-defence the field pushes out, sometimes tens of metres, leaving the person hypervigilant, powerless to defend such a wide boundary and often frozen, which is how fragmented parts form. Healing includes learning to draw the field back in to the body, which brings peace and the ability to defend one's boundaries. Theologically, persons exist in communion as Jesus does with the Father and Spirit, and a healthy person is fully free and fully responsible for themselves, responsible to others but not for them. Abuse disorders responsibility among abuser, victim and rescuer, moving the locus of control outside the self; bringing it back, with love rather than conscience running, opens the way for healing.",
+  "keyPoints": [
+    "Each person has a personal space, a field around them that others can feel entering, even though we seldom notice it explicitly.",
+    "When someone's boundaries are violated, they defend not only with their arms but by pushing their field outwards.",
+    "Bruce recounts walking across a car park with patients abused as children until he was outside their space: often 40-50 metres away.",
+    "With a field that wide, anyone entering a room is already 'inside' the person's space, which makes them powerless and constantly on guard, as in crowded malls or flights.",
+    "The field is dynamic and can be drawn back in; Bruce has people hold up their arms and tap their elbows to bring their field back to their body, where they can actually defend it.",
+    "The aim of abuse is to violate the will and ultimately control the person; the push-out and freeze response is how a part can be formed.",
+    "A person is not an isolated 'individual substance of a rational nature' (Boethius) but a being in relationship, as Jesus exists in communion with the Father and the Spirit.",
+    "Healthy personhood means being fully free and fully responsible for yourself: responsible to others, not for them.",
+    "Abuse disorders responsibility: the abuser blames the victim, the victim blames themselves, and the rescuer, the worst, enables the pattern to continue.",
+    "Moving the locus of control outside yourself leaves you powerless; bringing it back with love running, rather than conscience, lets love begin healing your parts."
+  ],
+  "keyTerms": [
+    {
+      "term": "Personal space (field)",
+      "definition": "A non-physical, dynamic boundary around a person that others can feel entering, which can expand or be drawn back in."
+    },
+    {
+      "term": "Abuse",
+      "definition": "The violation and damage of a person's boundary space, aimed at violating the will and controlling the person."
+    },
+    {
+      "term": "Disordering of responsibility",
+      "definition": "The confusion created by abuse in which abuser, victim and rescuer each take on or shed responsibility wrongly."
+    },
+    {
+      "term": "Locus of control",
+      "definition": "The centre of responsibility for one's own emotions, actions and thoughts, which belongs within oneself."
+    },
+    {
+      "term": "Rescuer",
+      "definition": "The person who tries to make everything okay, thereby enabling the abusive pattern to continue."
+    },
+    {
+      "term": "Person",
+      "definition": "A being in relationship and community, after the pattern of the Trinity, not an isolated individual."
+    }
+  ],
+  "scriptures": [],
+  "quotes": [
+    "You are responsible to others, but not for them.",
+    "If rescuers stop rescuing, people's lights go on.",
+    "The moment you take the centre of control outside yourself, you're powerless.",
+    "Bring it back to yourself and have love running; then love can begin healing your bits."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "From violation to recovered boundaries",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "Boundary violated",
+        "detail": "Abuse invades the person's space and will."
+      },
+      {
+        "id": "b",
+        "label": "Field pushes out",
+        "detail": "The space expands, sometimes tens of metres, in defence."
+      },
+      {
+        "id": "c",
+        "label": "Freeze and fragmentation",
+        "detail": "Paralysed and unable to defend, a part forms."
+      },
+      {
+        "id": "d",
+        "label": "Responsibility disordered",
+        "detail": "Locus of control moves outside the self; abuser, victim and rescuer roles."
+      },
+      {
+        "id": "e",
+        "label": "Draw field back in",
+        "detail": "Bring the space back to the body where it can be defended."
+      },
+      {
+        "id": "f",
+        "label": "Own yourself, with love",
+        "detail": "Fully free and responsible for yourself, so love can heal the parts."
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "b",
+        "label": "triggers"
+      },
+      {
+        "from": "b",
+        "to": "c",
+        "label": "leads to"
+      },
+      {
+        "from": "c",
+        "to": "d",
+        "label": "produces"
+      },
+      {
+        "from": "d",
+        "to": "e",
+        "label": "healing begins"
+      },
+      {
+        "from": "e",
+        "to": "f",
+        "label": "enables"
+      }
+    ],
+    "note": "How abuse expands and disorders a person, and the path back to a defensible boundary and self-responsibility."
+  },
+  "caseStudy": {
+    "title": "Always on guard",
+    "scenario": "Tom, who grew up with a volatile father, feels drained after any crowded event. In meetings he tracks everyone's mood across the room and feels responsible when a colleague is upset. He often rushes to smooth over conflict between others, then feels resentful and exhausted.",
+    "analysis": "In Bruce's terms, Tom's field likely pushed out in childhood and never came back in, so the whole room is 'in his space' and he is constantly vigilant. He has also absorbed disordered responsibility, taking responsibility for others' emotions and adopting the rescuer role, which keeps the locus of control outside himself.",
+    "pathway": [
+      "Notice when he feels everyone 'in his space', and practise drawing his field back to his body.",
+      "Use a grounding cue such as tapping his forearms or elbows to come back into his body.",
+      "Distinguish 'responsible to' from 'responsible for' in specific situations at work.",
+      "Step back from rescuing one conflict this week and observe what happens.",
+      "Let love rather than an anxious conscience guide him, receiving the Father's love for himself.",
+      "Consider a trauma-informed counsellor to work through childhood experiences."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Arms-and-elbows grounding",
+      "how": "Hold your arms up in front of you and gently tap your elbows or forearms, intending to bring your space back to your body. Notice how much quieter it feels."
+    },
+    {
+      "name": "To, not for",
+      "how": "When you feel weighed down by someone's emotions, say to yourself: 'I am responsible to them, not for them,' then decide what is genuinely yours to do."
+    },
+    {
+      "name": "Rescuer pause",
+      "how": "Before stepping in to fix someone else's problem, wait 24 hours and ask whether your help empowers them or enables a pattern."
+    }
+  ],
+  "reflection": [
+    "When do you feel others 'in your space' even at a distance?",
+    "Whose emotions or choices have you been carrying as your responsibility?",
+    "Where might you be playing the rescuer, and what would happen if you stopped?"
+  ],
+  "quiz": [
+    {
+      "q": "What does Bruce say happens to a person's field when their boundaries are violated?",
+      "options": [
+        "It disappears entirely",
+        "It pushes outward, sometimes tens of metres",
+        "It shrinks to the skin permanently",
+        "It merges with the abuser's field"
+      ],
+      "answer": 1,
+      "explain": "In self-defence the field expands, leaving the person hypervigilant and powerless."
+    },
+    {
+      "q": "Which statement reflects Bruce's view of healthy responsibility?",
+      "options": [
+        "I am responsible for everyone around me",
+        "Others are responsible for my emotions",
+        "Responsibility belongs to the community alone",
+        "I am responsible to others, not for them"
+      ],
+      "answer": 3,
+      "explain": "A healthy person is fully free and responsible for themselves."
+    },
+    {
+      "q": "Why does Bruce call the rescuer role 'the worst'?",
+      "options": [
+        "It is the most violent",
+        "It enables the abusive pattern to continue",
+        "It always involves lying",
+        "It has no effect at all"
+      ],
+      "answer": 1,
+      "explain": "By making everything okay, the rescuer keeps the disordered system going."
+    }
+  ]
+}

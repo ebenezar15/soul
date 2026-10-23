@@ -1,0 +1,90 @@
+{
+  "session": 9,
+  "videoId": "FxgkQqVykLw",
+  "youtubeTitle": "The Gospel and Soul Health Session 9 - Dr Bruce Wauchope",
+  "volume": "Volume 1: The Gospel of Union",
+  "chapter": "Chapter 1: Jesus is in the Father (Section 8 Key Themes: Summary of the Eight Non-negotiables)",
+  "topic": "The Eternal Love Story: Gospel Summary",
+  "summary": "Bruce reads through a summary of the gospel as an eternal love story, recapping the 'non-negotiables' of the first chapter. The Father, Son and Spirit, who love each other so intimately they are One, dreamed that we would share their life, made us in the Eternal Son, and held us in freedom. Humanity inexplicably closed off from their love and moved toward non-being, but the Son, who was always going to become one of us, entered not only creation but our darkness, healed our fractured being from the inside, submitted to our violence, and was raised by the Spirit with all humanity included. Wrath is presented as a subset of love aimed at redemption, not punishment, and penal 'pay-off' models of the cross are rejected as dark. Our part is to agree with Christ and let him love us, which undoes aloneness, fear, rejection, guilt and shame and removes our conscience from being God to us; worship is simply grateful response.",
+  "keyPoints": [
+    "The gospel is an eternal love story: the Lovers (Father, Son and Spirit), so intimate they are One, dreamed that we would exist and share their life, relationships and eternal life.",
+    "We were made and are held together in the Eternal Son, and sustained in freedom; that freedom means we need not share in love, which makes darkness possible.",
+    "Darkness is life without love; humanity closed off from their love and, living life in darkness, moves toward death and non-being. Any answer without love (even intelligent AI answers) is darkness.",
+    "God's wrath is real but a subset of love: it is the 'No! You will not perish!' aimed at redemption and pulling us in, not at punitive destruction.",
+    "The Incarnation was never Plan B: one of them was always going to cross the 'event horizon' between uncreated and created, because we cannot climb up to them.",
+    "Because of our mess, the Son entered not only what God made but what we made (our reduction of life without love), penetrating our blindness to meet the Father and Spirit in himself and heal our fractured being: his 'atoning life', at-one-ment in his own being.",
+    "Bruce rejects the picture of Jesus' blood paying off a pile of sins to a 'Molech'-like Father, or limited atonement for only the chosen, as corrupt and dark; Jesus did this for everybody.",
+    "We killed him through lies, slander and greed (an insight Bruce had reading Polycarp in the Sulu Sea); in dying he faced the spiritual darkness as a man without running or fighting, and the Spirit showed him the Father's face, because the bond was never broken.",
+    "Because he holds all things together, our deicide was our suicide, and his resurrection was our rebirth: 'I was born again when Jesus rose from the dead two thousand years ago'; extinguishment is no longer an option.",
+    "We now find this remade Adam, Christ, inside us; we did not put him there. Darkness does not know what love is, so he will not force us but asks us to agree with him and let him love us.",
+    "His love undoes aloneness, separation, fear, rejection, guilt and shame, and his presence removes our conscience (from the tree of the accuser) from being God to us; the Tree of Life is now in humanity.",
+    "We do not make this happen; we discover we are sons and daughters and always have been, so worship is simply saying 'thank you' rather than climbing to heaven."
+  ],
+  "keyTerms": [
+    {"term": "Non-negotiables", "definition": "The eight foundational truths of chapter one (Trinitarian love, pre-eternal purpose, creation in Christ, etc.) that frame all further discussion."},
+    {"term": "Pre-eternal purpose", "definition": "The 'dream' of Father, Son and Spirit before creation that we would share in their life, love and relationships."},
+    {"term": "Darkness", "definition": "Life without love; living the life of Christ that flows through all things, but closed off from love, which produces death."},
+    {"term": "Atoning life", "definition": "Christ's whole incarnate life in which he made at-one-ment in his own being between God and fallen humanity, not only his death."},
+    {"term": "Wrath as a subset of love", "definition": "God's refusal to let us perish or go to non-being; wrath aimed at redemption rather than punishment."},
+    {"term": "Event horizon", "definition": "Bruce's image for the boundary between the uncreated God and creation, which only God can cross toward us."},
+    {"term": "Deicide was our suicide", "definition": "Because Christ holds all things together, when humanity killed him, humanity died in him, and so rose in his resurrection."},
+    {"term": "Conscience as God", "definition": "The accusing knowledge of good and evil that has usurped God's place in us, which Christ's presence removes."}
+  ],
+  "scriptures": ["John 17:23-26", "Colossians 1:17", "John 1:3-4"],
+  "quotes": [
+    "Life and darkness makes death! Welcome to the human race!",
+    "It's not love and wrath. It's love, with wrath underneath.",
+    "I was born again when Jesus rose from the dead two thousand years ago.",
+    "Darkness does not know what love is. He's asking us to agree with Him: let Me love you."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "The Eternal Love Story",
+    "nodes": [
+      {"id": "a", "label": "Trinity's eternal love", "detail": "Father, Son and Spirit love each other so intimately they are One."},
+      {"id": "b", "label": "The dream", "detail": "They dreamed we would share their life, relationships and eternal life."},
+      {"id": "c", "label": "Made in the Son", "detail": "We are created, sustained and held together in the Eternal Son, in freedom."},
+      {"id": "d", "label": "Closed off: darkness", "detail": "Humanity turned from their love, living life without love toward non-being."},
+      {"id": "e", "label": "Son enters our darkness", "detail": "He becomes human, heals our fractured being from inside and submits to our violence."},
+      {"id": "f", "label": "Death and rebirth", "detail": "Our deicide was our suicide; his resurrection was humanity's rebirth."},
+      {"id": "g", "label": "Christ found in us", "detail": "We agree to let him love us; shame and fear are undone and we discover we are sons and daughters."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "overflows"},
+      {"from": "b", "to": "c", "label": "creates"},
+      {"from": "c", "to": "d", "label": "turn away"},
+      {"from": "d", "to": "e", "label": "love refuses loss"},
+      {"from": "e", "to": "f", "label": "we kill him"},
+      {"from": "f", "to": "g", "label": "Spirit unveils"}
+    ],
+    "note": "The gospel as one continuous love story, from the Trinity's eternal communion through the fall and Christ's descent to our discovery of his life within us."
+  },
+  "caseStudy": {
+    "title": "Grace who keeps paying God back",
+    "scenario": "Grace, a 34-year-old church volunteer, grew up hearing that Jesus' death satisfied an angry Father. She serves on four rosters and feels a constant low dread that she has not done enough to be accepted. When she makes a mistake at work, she hears an inner voice listing everything wrong with her. She privately wonders whether God the Father actually likes her or merely tolerates her because of Jesus.",
+    "analysis": "Grace's picture of the cross splits the Father from the Son, leaving her with a Father to appease and a conscience acting as God to her. In Bruce's framework, wrath is a subset of love aimed at rescue, Christ has already made at-one-ment in his own being for everybody, and her task is not performance but agreeing to let the Father, Son and Spirit love her, including in the parts of herself she avoids.",
+    "pathway": [
+      "Read the 'love story' summary slowly and note where it contradicts her inner picture of the Father.",
+      "Name the accusing inner voice as conscience, not as God's voice.",
+      "Practise a simple prayer of consent: 'I agree with you; love me here.'",
+      "Bring one painful memory or 'corner' of herself to God in imagination, picturing the Spirit holding that younger self.",
+      "Reduce some rostered service, then notice what fear arises and offer it to God rather than fixing it with effort.",
+      "If the dread is persistent or overwhelming, talk with a trusted pastor or a qualified counsellor."
+    ]
+  },
+  "practices": [
+    {"name": "Read the love story aloud", "how": "Write out the eight-point summary (Lovers, dream, creation, darkness, incarnation, death, rebirth, Christ in us) and read it aloud slowly once a day for a week, pausing at each 'how good is that?'"},
+    {"name": "Prayer of agreement", "how": "Each morning say: 'Father, Son and Spirit, I agree with you. I let you love me today, including in the places I avoid.'"},
+    {"name": "Thank-you worship", "how": "Replace one 'I will' prayer each day with a 'thank you' for something Christ has already done."}
+  ],
+  "reflection": [
+    "Which picture of the Father did you grow up with, and how does it compare with 'Dad is better than you can ever know'?",
+    "Where in your life does your conscience act as God to you?",
+    "What would it mean in practice to 'agree with Him to let Him love you' this week?"
+  ],
+  "quiz": [
+    {"q": "How does Bruce describe darkness?", "options": ["The absence of life", "Life without love", "A punishment from God", "Lack of moral effort"], "answer": 1, "explain": "Darkness still runs on Christ's life but without love, and so produces death."},
+    {"q": "According to the session, what is God's wrath?", "options": ["Equal and opposite to his love", "Punishment that must be paid in blood", "A subset of love aimed at redemption", "Reserved only for the unchosen"], "answer": 2, "explain": "Wrath is God's 'No, you will not perish', serving his love."},
+    {"q": "What does Christ ask of us, since darkness does not know love?", "options": ["To agree with him and let him love us", "To perform better and obey more", "To sign up and join a church", "To pay back what he paid"], "answer": 0, "explain": "He will not force us; our part is to agree and let him love us."}
+  ]
+}

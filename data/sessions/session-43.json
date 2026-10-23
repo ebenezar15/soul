@@ -1,0 +1,88 @@
+{
+  "session": 43,
+  "videoId": "41abvksa5Lc",
+  "youtubeTitle": "The Gospel and Soul Health Session 43 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 2 - Session 7",
+  "topic": "Zoe, personhood, freedom and Christ's cosmic victory",
+  "summary": "Bruce summarises the whole series in two sentences: knowing that Jesus and the Father are one and that we are in Jesus and he in us, and experiencing the Father and Son's love flowing in us so that it flows out to others. Because the universe has no life in itself, all life, including that of tyrants, is Christ's zoe; there are not two kingdoms, only one universe in which darkness is life lived without love. Magic is simply manipulating zoe for power and control, and control is the opposite of the personhood the Trinity desires for each of us, who are free and responsible to others, not for them. The redeemed conscience becomes a servant of the tree of life, asking 'Is this life flowing in love?' The second coming is the unveiling of a present Christ, not the return of an absent one; and because we died when Jesus died, the law of sin and death, the accuser's claims, and every blood agreement and ritual are broken by the 'deeper magic' of sonship.",
+  "keyPoints": [
+    "The series in two sentences: Jesus and the Father are one and we are in union with Jesus; in that union the Father and Son's love flows in us and out to others. It is hard only because we have made ourselves complicated with defences, which are agreements with darkness.",
+    "The universe has no life in itself; Christ the Word sustains it. All our good and disastrous decisions participate in his zoe, and even tyrants such as Hitler, Stalin and Pol Pot operated from Christ's life, in darkness.",
+    "There are not two kingdoms (Satan's and God's) with us in between; there is one universe held together by Father, Son and Spirit, and darkness within it wherever life is not lived in love.",
+    "Magic is manipulating the flow of zoe for power without love. Seeking life is not bad, but control is never love, so a witch who truly moves toward love will stop controlling.",
+    "God's call is that we become persons: fully free, fully responsible for ourselves, responsible to others but not for them. There is no control in personhood or in the Trinity, who give creation freedom within boundaries and delight in each unique person.",
+    "Our accusing conscience, fragmented parts, suppressed emotions and screaming attachment needs amount to non-personhood: we cannot receive or give love from there. The same act can be done to look good or manage inner pain, or to bless, so we shouldn't judge each other.",
+    "Christ suffers in freely giving his life to a universe that can misuse it, but the 'deck is stacked': he has gone to the very bottom of human depravity and is placed in everybody.",
+    "The second coming is not the return of an absent Jesus but the unveiling of a present one: the veil will be pulled back, people will see that Christ is in them, and the earth will be filled with the knowledge of the Lord's glory.",
+    "The redeemed conscience doesn't disappear; it shifts from morality and separation to serving the tree of life, asking 'Am I flowing in Christ's life, and is it flowing in love for everyone affected?', for example testing whether an attraction is truly loving in its whole context.",
+    "Augustine's Greek-influenced dualism makes us flee our bodies. But if Jesus became flesh and entered our sarx, we can drop down into ourselves and find him rather than escape. Genesis 3's hardships describe the impeded flow of life, not a punishing curse.",
+    "When we killed Jesus we died with him, so we are free from the law of sin and death. To the accusing conscience, to Satan, and to blood agreements made in ritual we can say 'I have died', and those claims are broken.",
+    "By killing the sinless one, humanity broke the law 'the soul that sins shall die', like the Stone Table in Narnia. The 'deeper magic' is sonship and daughterhood in the Trinity's love. Jesus proclaimed the open cage in Hades, but without control, so some spirits still don't know the way home."
+  ],
+  "keyTerms": [
+    {"term": "Zoe", "definition": "Christ's life that sustains and animates all creation. No creature has life in itself."},
+    {"term": "One universe", "definition": "Bruce's rejection of two-kingdom dualism: there is only creation held together by the Trinity, with darkness wherever life is lived without love."},
+    {"term": "Magic", "definition": "Manipulating the flow of zoe for power and control rather than love."},
+    {"term": "Personhood", "definition": "Becoming fully free and fully responsible for oneself, responsible to but not for others, without control, which is the Trinity's goal for each person."},
+    {"term": "Redeemed conscience", "definition": "The knowledge of good and evil reoriented to serve the tree of life (Christ), discerning whether life is flowing in love."},
+    {"term": "Second coming as unveiling", "definition": "The pulling back of the veil so that humanity sees the Christ already present in them."},
+    {"term": "Deeper magic", "definition": "Borrowing from C. S. Lewis: the pre-creation purpose of sonship and daughterhood in the Trinity's love, which overrides the law of sin and death."},
+    {"term": "Augustine's sandwich", "definition": "Bruce's shorthand for Western dualism inherited from Greek philosophy that separates body from spirit and God from creation."}
+  ],
+  "scriptures": ["John 1:3-4", "John 1:14", "Colossians 1:17", "John 8:12", "John 16:8-11", "Habakkuk 2:14", "Proverbs 21:30", "Zechariah 12:10", "Philippians 2:10-11", "Genesis 3:16-19", "Revelation 5:5-6", "Romans 8:2", "Ezekiel 18:4", "Psalm 22:12-13", "Psalm 23:5", "1 Peter 3:19", "Revelation 1:18", "Jeremiah 31:34"],
+  "quotes": [
+    "There's not two kingdoms. There's only one universe held together by Father, Son and Spirit, and there happens to be darkness in it.",
+    "Magic is about control, and that's not love.",
+    "The second coming is not the return of an absent Jesus; it's the unveiling of a present one.",
+    "Mr Conscience, you say I deserve to die. Well, I have died."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "One zoe: light, darkness and unveiling",
+    "nodes": [
+      {"id": "a", "label": "Christ's zoe in all", "detail": "All created life is sustained by the Word."},
+      {"id": "b", "label": "Life in love = light", "detail": "Life lived in love makes more life and personhood."},
+      {"id": "c", "label": "Life without love = darkness", "detail": "Control, magic and violence misuse Christ's life and make death."},
+      {"id": "d", "label": "We died in Jesus", "detail": "Killing the sinless one broke the law of sin and death and every agreement."},
+      {"id": "e", "label": "Conscience becomes servant", "detail": "It now asks whether life flows in love."},
+      {"id": "f", "label": "Unveiling of Christ within", "detail": "The second coming: humanity sees the Christ already in them."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "lived in love"},
+      {"from": "a", "to": "c", "label": "lived without love"},
+      {"from": "c", "to": "d", "label": "overcome by"},
+      {"from": "d", "to": "e", "label": "frees"},
+      {"from": "e", "to": "b", "label": "guides toward"},
+      {"from": "b", "to": "f", "label": "toward"}
+    ],
+    "note": "One life (zoe) can be lived in love or without it. Christ's death breaks darkness's legal hold, redeems the conscience, and moves creation toward the unveiling."
+  },
+  "caseStudy": {
+    "title": "From crystals to Christ within",
+    "scenario": "Leah spent years in alternative spirituality, seeking 'energy' and protection through rituals. Now drawn to Jesus, she feels afraid that her past has given darkness a legal claim over her, and her new church friends warn her darkly about 'demonic doorways'. She swings between fascination with power and terror of it.",
+    "analysis": "In Bruce's framework, Leah was seeking life, which is not bad in itself, since all life is Christ's zoe, but sometimes through control rather than love. There are not two equal kingdoms to fear. Because she died with Christ, every agreement and law used against her is broken, and the cage door is open. Her task is not to fear power but to let life flow in love and to become a free person.",
+    "pathway": [
+      "Affirm that all true life she sought comes from Christ, who is already in her.",
+      "Declare simply in prayer: 'When Jesus died, I died; every agreement I made outside of love is broken. I choose to live Christ's life in love.'",
+      "Let go of any practices aimed at control, replacing them with receptive prayer and loving relationships.",
+      "Use her conscience as a servant by asking of each choice: is life flowing in love here?",
+      "Find a grace-centred, non-fearful community; if she has experienced abuse in ritual settings, seek a trauma-informed counsellor."
+    ]
+  },
+  "practices": [
+    {"name": "Life-in-love check", "how": "Before a significant decision, ask: is this Christ's life flowing through me in love for everyone it will affect, not just me or one person?"},
+    {"name": "'I have died' declaration", "how": "When accusation or fear of past agreements arises, say aloud: 'When Jesus died, I died. That claim is broken; I belong to the Father.'"},
+    {"name": "Drop down, don't climb", "how": "In stillness, move your attention into your body and inner life, expecting to find Christ already there rather than reaching outward to find God."}
+  ],
+  "reflection": [
+    "Where do I still picture two competing kingdoms, and how does 'one universe held by Christ' change my fear?",
+    "In which relationships do I try to control rather than let the other person become themselves?",
+    "What would it look like for my conscience to serve the tree of life rather than accuse me?"
+  ],
+  "quiz": [
+    {"q": "How does Bruce define magic?", "options": ["A separate supernatural power opposed to God", "Harmless entertainment", "Manipulating the flow of Christ's zoe for power and control without love", "Any use of nature in healing"], "answer": 2, "explain": "Magic plays with the life of Christ in creation for control, which is the opposite of love."},
+    {"q": "What does Bruce say the second coming is?", "options": ["The unveiling of a Christ already present in humanity", "The return of an absent Jesus to judge", "The rapture of the church", "A purely symbolic idea"], "answer": 0, "explain": "The veil will be pulled back and people will see Christ in them."},
+    {"q": "Why can a believer say to the accuser 'I have died'?", "options": ["Because they have confessed every sin", "Because they joined a church", "Because the conscience has disappeared", "Because when Jesus died, humanity died with him, freeing us from the law of sin and death"], "answer": 3, "explain": "Christ's death included ours, breaking the law of sin and death and every agreement made against us."}
+  ]
+}

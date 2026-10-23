@@ -1,0 +1,90 @@
+{
+  "session": 50,
+  "videoId": "cVlkZwGax5Q",
+  "youtubeTitle": "The Gospel and Soul Health Session 50 - Dr Bruce Wauchope",
+  "volume": "Volume 3 - Soul Health",
+  "chapter": "Chapter 3 - Soul Health; Session 5 - Other Internal Structures",
+  "topic": "Unlocking injustice so forgiveness can flow",
+  "summary": "Bruce explains why injustice is one of the hardest internal knots to undo: because we are made in the image of a just God, we rightly sense that what was done to us was not fair, and so we cannot simply let it go. Yet Jesus calls us to forgive, and the clash between God's justice and God's mercy, as we understand them, locks the soul and keeps us tied to the person who hurt us. For many people the answer is simply to ask the Spirit to share Jesus' own love and forgiveness for the situation. For others, justice must first be seen to be done before release can happen, so Bruce gives a structured exercise: list the other's abuse and neglect and your own, confess your part under the finished work of Christ, voice the hurt from a position of power, and then hand the person to Jesus, to whom all judgment is given. Once justice is placed in Christ's hands, the person can forgive and release, and any remaining resistance may point to parts of the self that are not yet willing.",
+  "keyPoints": [
+    "Grief requires letting go, but injustice makes letting go feel impossible: 'How can I forgive when it's not fair, and when it was deliberate?'",
+    "Our sense of injustice is good in origin: we are made in the image of a just God and we have value, so we rightly refuse to be treated as nothing.",
+    "The bind: God is just and this was unjust, yet God is merciful and Jesus says I must forgive, so two images of God fight inside me and lock my soul.",
+    "While I cannot forgive, I stay bonded to the person who hurt me; they live in me, tormenting me, and I maintain my own pain in the name of justice.",
+    "Option one is the ordinary Christian walk: abide in Jesus' love (John 15) and ask the Holy Spirit to share Jesus' own love and forgiveness for this event, since we do not have it ourselves. For many this is enough.",
+    "Option two is for those whose asking does not flow through to release; in our fallen minds justice slides into revenge, but God is not into revenge, so the injustice must be unlocked another way.",
+    "Christ reconciles the conflicting images: he took the law to the tree, took the old Adam to death, was wounded and killed by the human race, and rebirthed humanity in himself.",
+    "Step one of the exercise: write down everything the other person did (abuse) and failed to do (neglect), and then, ruthlessly honestly, everything you did and failed to do to them; pain rising tells you there is unforgiven material.",
+    "Step two: stand up high (a chair or step) with the person imagined in front of you, which puts you in a position of power rather than victimhood; first confess your own wrongs and proclaim Christ's finished work and God's forgiveness to you.",
+    "Confession does not get you forgiven, since that is already done in Christ, but it allows your soul to grow and heal.",
+    "Step three: speak out all they did and failed to do and how it felt, then declare 'I refuse to judge you; all judgment is given to the Son; I hand you to Jesus to judge; I release you and I forgive you.'",
+    "Forgiving is not condoning. Injustice by institutions adds a second layer, reclaiming a conscience you have externalised to them, and if the will to forgive is present but release does not come, there are likely parts of you not yet willing."
+  ],
+  "keyTerms": [
+    {"term": "Injustice lock", "definition": "The internal bind where the soul cannot forgive because the hurt was unfair, while also knowing God calls it to forgive, so the two images of God conflict and nothing moves."},
+    {"term": "Bondage to the offender", "definition": "The ongoing tie to a person who hurt us that is kept alive by not releasing them, so they continue to have power over us and torment us."},
+    {"term": "Abuse and neglect", "definition": "The two lists for the exercise: what someone did that hurt (abuse) and what they failed to do that they should have (neglect). Both are judgments, but both can be real."},
+    {"term": "Position of power", "definition": "Standing physically higher than the imagined offender during the exercise so the person speaks from strength rather than victimhood."},
+    {"term": "Handing over to judgment", "definition": "Refusing to judge or condemn the offender yourself and entrusting them to Jesus, to whom the Father has given all judgment, which places justice in his hands so release becomes possible."},
+    {"term": "Finished work of Christ", "definition": "Jesus joined himself to humanity, died, rose and ascended with us, removing the sin of the world. This is the ground of our own forgiveness, proclaimed before dealing with the other's wrongs."},
+    {"term": "Complicated grief", "definition": "Grief tangled up with injustice that keeps a person connected to people, memories and situations they need to release."}
+  ],
+  "scriptures": ["John 15:9", "John 15:11", "John 14:27", "John 16", "John 5:22"],
+  "quotes": [
+    "As long as I don't forgive, I'm tied to the person who hurt me.",
+    "I maintain my pain in the name of justice.",
+    "Your confession does not get you forgiven, but it allows your soul to grow and heal.",
+    "I refuse to judge you. I hand you to Jesus to judge. I release you and I forgive you."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "Unlocking injustice to forgive",
+    "nodes": [
+      {"id": "a", "label": "Unjust, deliberate hurt", "detail": "Someone wronged me, and my God-given sense of justice says it was not fair."},
+      {"id": "b", "label": "Locked: can't forgive", "detail": "Justice and mercy collide inside me, and I stay bonded to the offender."},
+      {"id": "c", "label": "Ask to share Jesus' forgiveness", "detail": "Option one: the Spirit shares Jesus' love and forgiveness, which is enough for many people."},
+      {"id": "d", "label": "List abuse and neglect", "detail": "Write down both sides honestly: what they did and didn't do, and what I did and didn't do."},
+      {"id": "e", "label": "Confess own part", "detail": "From a high place, own your wrongs and proclaim Christ's finished work for you."},
+      {"id": "f", "label": "Voice hurt, hand to Jesus", "detail": "Speak out what they did, refuse to judge, and give them to Jesus to judge."},
+      {"id": "g", "label": "Release and forgive", "detail": "With justice in Christ's hands, the bond is cut and the soul is freed."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "creates"},
+      {"from": "b", "to": "c", "label": "option one"},
+      {"from": "c", "to": "g", "label": "often enough"},
+      {"from": "b", "to": "d", "label": "option two"},
+      {"from": "d", "to": "e"},
+      {"from": "e", "to": "f"},
+      {"from": "f", "to": "g", "label": "unlocks"}
+    ],
+    "note": "Shows the two pathways out of the injustice lock: the simple share-in-Jesus route, and the structured exercise that first places justice in Christ's hands so forgiveness can follow."
+  },
+  "caseStudy": {
+    "title": "The business partner who walked away",
+    "scenario": "Mark's business partner quietly moved clients to a new company and left Mark with the debts. Three years later Mark still replays conversations at night, rehearses what he would say, and feels his chest tighten whenever the man's name comes up. He knows as a Christian he 'should forgive' and has prayed many times, but every attempt ends with 'but it wasn't fair, and he knew exactly what he was doing.'",
+    "analysis": "Mark is caught in the injustice lock. His sense that it was wrong reflects the image of a just God and his own value, so simply 'letting it go' feels like saying he is nothing. Because he cannot release his former partner, the man still lives in him and holds power over him. The prayers have not produced release, so the option two process fits: justice needs to be placed somewhere before forgiveness can flow.",
+    "pathway": [
+      "Write two honest lists of what the partner did and failed to do, and of Mark's own failures and neglect in the partnership.",
+      "Stand on a step with the partner imagined below, confess his own part, and declare Christ's finished work and forgiveness for himself.",
+      "Speak out everything the partner did and how it felt, letting the emotion come out fully.",
+      "Declare: 'I refuse to judge you; I hand you to Jesus to judge; I release you and forgive you,' remembering that forgiving is not condoning or reconciling.",
+      "Pursue any appropriate legal or financial remedies separately and calmly, without revenge as the driver.",
+      "If parts of him still resist, explore this with a pastor or trained counsellor rather than forcing it."
+    ]
+  },
+  "practices": [
+    {"name": "Abuse and neglect ledger", "how": "Take one person you struggle to forgive and write four columns: what they did, what they failed to do, what I did, and what I failed to do. Notice where pain rises, because that marks unforgiven material."},
+    {"name": "Handing-over declaration", "how": "Stand somewhere slightly raised, imagine the person in front of you, and after voicing the hurt say aloud: 'I refuse to judge you. I hand you to Jesus to judge. I release you and I forgive you.'"},
+    {"name": "Sharing Jesus' forgiveness", "how": "In a quiet moment pray: 'Jesus, I don't have forgiveness for this; please share yours with me by your Spirit,' and rest in his love rather than trying to produce it yourself."}
+  ],
+  "reflection": [
+    "Is there someone I remain tied to because what they did feels too unfair to release?",
+    "How might my sense of injustice reflect God's image in me, and where has it slid into a wish for revenge?",
+    "What would it mean for me to trust Jesus to judge this person more wisely, and more mercifully, than I could?"
+  ],
+  "quiz": [
+    {"q": "According to Bruce, what happens while we are unable to forgive someone who hurt us?", "options": ["They lose all influence over us", "We remain bonded to them and keep our own pain alive", "God withholds his forgiveness from us", "We become more just than they are"], "answer": 1, "explain": "Not forgiving keeps us tied to the offender, so we maintain our pain in the name of justice."},
+    {"q": "Why does Bruce have the person stand on a chair or step during the exercise?", "options": ["To make the exercise feel dramatic", "To symbolise being above God's law", "To place them in a position of power rather than victimhood", "To help them shout louder"], "answer": 2, "explain": "Standing higher lets the person speak from strength rather than from the position of a victim."},
+    {"q": "In the exercise, what unlocks the injustice so that forgiveness becomes possible?", "options": ["Handing the offender to Jesus, to whom all judgment is given", "Confronting the offender face to face", "Waiting until the offender apologises", "Deciding the offence was not really wrong"], "answer": 0, "explain": "Refusing to judge and entrusting the person to Christ's judgment means justice is catered for, so release can follow."}
+  ]
+}

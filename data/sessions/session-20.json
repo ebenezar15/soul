@@ -1,0 +1,85 @@
+{
+  "session": 20,
+  "videoId": "f1I6GmX2isg",
+  "youtubeTitle": "The Gospel and Soul Health Session 20 - Dr Bruce Wauchope",
+  "volume": "Volume 1",
+  "chapter": "Chapter 3 Session 7 - Propitiation Understood in the Context of the Love Story; The Mercy Seat and the Two Tabernacles; Eternal Life is through Relationship; Faith is Receiving a Spoken Relationship",
+  "topic": "Propitiation reframed: Jesus the Mercy Seat",
+  "summary": "Wauchope reframes propitiation (hilastērion) within the overarching love story rather than a Western framework of separation and paying off a deity. The Mosaic sacrifices were given down to a guilt-ridden, flesh-driven humanity, in the earthly tabernacle built around the Tree of Knowledge, to manage the flesh and prepare for Christ. The heavenly tabernacle is about the pre-creation purpose of adoption. Jesus, fully God and fully man, is Himself the Mercy Seat, the meeting place of uncreated and created, who carries cleansed humanity into union. He is the 'atoning victim' of our violence, not of the Father, and in a non-violent way our violence becomes our healing. Wauchope then critiques the taught model ('God is holy and can't look on sin; sin separates; sin must be paid for'): it misreads Habakkuk 1:13 and Isaiah 59:2, splits Father from Son, removes grace and mercy, ignores union and the flesh, and is external to the New Covenant.",
+  "keyPoints": [
+    "Recap: the blood of Jesus is the life of a human who was totally dark and totally cleaned up, one with Father, Word and Spirit. Jesus 'beat His way through' (prokoptō) the darkness to discover union, poured that life into creation and carried us into the heavenly temple.",
+    "Hilastērion can mean mercy seat, atoning sacrifice or atoning victim. Everything depends on the frame: the love story, or the earthly Mosaic tabernacle plus a Western idea of separation and paying up to God.",
+    "There are two tabernacles. The heavenly one expresses the pre-creation purpose: creation caught up into Father, Son and Spirit as sons and daughters, with the Lamb slain from the foundation. The earthly one, a copy, meets us inside the Tree of Knowledge and its accusing guilt.",
+    "Sacrifices were given down to people under an accuser ('take a bull, take a goat'), though their blood could never take away sin. They helped us cope and pointed forward to Christ.",
+    "The high priest carried twelve black stones on his shoulders and twelve coloured stones over his heart: Israel's darkness and its beauty carried together into the Most Holy Place.",
+    "The Mosaic law was given into a flesh-driven race so every mouth would be stopped (Romans 3:19) and the flesh managed. It could never heal Adam's aloneness, and preaching law increases sin. The torn veil ended that structure, and Revelation's New Jerusalem has no temple.",
+    "Eternal life is through relationship, not law: Christ has it in His relationship with the Father. Faith is receiving a spoken relationship.",
+    "The risen Jesus is the Mercy Seat, the Mediator, the only place where uncreated and created meet. He fulfils both heavenly and earthly laws, and the heavenly supersedes the earthly.",
+    "Jesus is the atoning victim of our hands, not of the Father. The Trinity used our violence, non-violently, to complete our healing.",
+    "The taught model rests on misquotes. Habakkuk 1:13 means God cannot see evil and do nothing. Isaiah 59:2 says sin hides God's face from us: we are blind, not separated, and separation is impossible.",
+    "Its fatal flaw is splitting Father and Son: Jesus could forgive and get dirty but the Father needed payment and turned His face away. That denies that Jesus reveals the Father and 'God was in Christ reconciling the world'. Payment also cancels grace, and if there is no mercy there is no Mercy Seat.",
+    "That model also omits Sonship, starts from separation instead of union, makes the first Adam stronger than the second, leaves the 'factory' of the flesh intact and stays external to the New Covenant's 'Christ in you'. Even the Lord's Prayer's 'forgive as you are forgiven' would then demand blood from others."
+  ],
+  "keyTerms": [
+    {"term": "Propitiation (hilastērion)", "definition": "Mercy Seat, the meeting place of uncreated and created, fulfilled in the person of Jesus. It is not a payment to appease God."},
+    {"term": "Heavenly tabernacle", "definition": "The original pattern, expressing the pre-creation purpose of adoption: the law of the Spirit and of life."},
+    {"term": "Earthly (Mosaic) tabernacle", "definition": "The copy, given into the fallen, accused mind of humanity to manage the flesh and point to Christ."},
+    {"term": "Atoning victim", "definition": "Jesus as the victim of human violence, not of the Father, through which our healing was non-violently completed."},
+    {"term": "Prokoptō", "definition": "'Beating one's way forward': Jesus pushing through the darkness of our flesh to discover union with Father and Spirit."},
+    {"term": "Faith", "definition": "Receiving a spoken relationship with the Father in the Son."},
+    {"term": "The factory", "definition": "The flesh, the source of what we call sins, which a payment model leaves untouched."}
+  ],
+  "scriptures": ["Romans 3:25", "1 John 2:2", "1 John 5:7-8", "Leviticus 17:11", "Hebrews 8:5", "Hebrews 9:12", "Hebrews 10:4", "Revelation 13:8", "Exodus 28:9-21", "Romans 3:19", "Matthew 27:51", "Revelation 21:22", "Romans 8:3-4", "Habakkuk 1:13", "Habakkuk 2:4", "Isaiah 59:2", "Psalm 22:1", "2 Corinthians 5:14", "2 Corinthians 5:19", "John 14:9", "Galatians 5:19-21", "Matthew 6:12"],
+  "quotes": [
+    "Propitiation means Mercy Seat, the place of meeting of the Uncreated and the created.",
+    "If there's a payment, there's no mercy. If there's no mercy, there's no Mercy Seat.",
+    "You are blind, not God, and blindness is not separation.",
+    "Sin cannot split God. We're not that powerful."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "Two frames for propitiation",
+    "nodes": [
+      {"id": "a", "label": "Starts from separation", "detail": "Holy God can't look on sin; sin separates us.", "side": "left"},
+      {"id": "b", "label": "Blood paid up", "detail": "The Father demands payment and turns His face from the Son.", "side": "left"},
+      {"id": "c", "label": "Morality, no mercy", "detail": "Payment cancels grace; the flesh 'factory' is left intact.", "side": "left"},
+      {"id": "d", "label": "Starts from union", "detail": "All is made and held in the Son; we are blind, not separated.", "side": "right"},
+      {"id": "e", "label": "Life given down", "detail": "God gives; Jesus is a victim of our violence, not the Father's.", "side": "right"},
+      {"id": "f", "label": "Jesus the Mercy Seat", "detail": "The meeting place carrying us into Sonship and adoption.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "a", "to": "b"},
+      {"from": "b", "to": "c"},
+      {"from": "d", "to": "e"},
+      {"from": "e", "to": "f"}
+    ],
+    "note": "Left: the payment model, framed in the earthly tabernacle and in Greek separation thinking. Right: Wauchope's love-story frame, rooted in the heavenly tabernacle and the oneness of Father, Son and Spirit."
+  },
+  "caseStudy": {
+    "title": "Afraid of the Father, fond of Jesus",
+    "scenario": "Hannah, 24, grew up hearing that God couldn't look at her sin and that Jesus stood between her and an angry Father. She feels warm toward Jesus but freezes when praying to the Father, picturing Him as stern and disappointed. Lately she has also struggled to forgive a friend, feeling the friend must 'pay' first. She wonders whether she is really forgiven, since she still has to confess everything.",
+    "analysis": "Hannah has absorbed the payment model of propitiation that Wauchope critiques. It splits the Father from the Son, makes forgiveness depend on payment and leaves her living in the earthly tabernacle of accusation. Its logic also spills into her relationships, demanding 'blood' from her friend before mercy. In Wauchope's frame, Jesus reveals exactly what the Father is like, the Father was in Christ reconciling, and Jesus is the Mercy Seat where she is already held.",
+    "pathway": [
+      "Read John 14:9 and 2 Corinthians 5:19, and let Jesus' face reshape her picture of the Father.",
+      "Pray to the Father using 'Abba' or 'Dad', imagining Him as Jesus shows Him.",
+      "Reread Habakkuk 1:13 and Isaiah 59:2 in context to dismantle the 'God can't look at you' belief.",
+      "Practise extending to her friend the same no-payment mercy she has received, at her own pace.",
+      "If the fear of God is entangled with harsh experiences of authority figures, explore this with a counsellor or pastor."
+    ]
+  },
+  "practices": [
+    {"name": "Face of the Father", "how": "Pick a Gospel story of Jesus welcoming someone and read it, replacing 'Jesus' with 'the Father' to absorb that Jesus reveals Dad exactly."},
+    {"name": "Two stones", "how": "Hold a dark stone and a coloured stone in prayer as a reminder that Christ carries both your darkness and your beauty before the Father."},
+    {"name": "No-payment forgiveness", "how": "Name one person you expect to 'pay' before you forgive. Ask Christ in you to let mercy flow without the payment."}
+  ],
+  "reflection": [
+    "How has the 'God can't look at sin' message shaped how you pray to the Father?",
+    "What changes if propitiation means a meeting place rather than a payment?",
+    "Where do you require 'blood' from others before showing mercy?"
+  ],
+  "quiz": [
+    {"q": "What does Wauchope say 'propitiation' (hilastērion) fundamentally means?", "options": ["A payment to satisfy divine anger", "A moral rulebook", "A ritual washing", "The Mercy Seat, the meeting place of uncreated and created"], "answer": 3, "explain": "He locates propitiation in the person of Jesus as the meeting place."},
+    {"q": "According to Wauchope, what does Isaiah 59:2 actually indicate?", "options": ["We are blind to God, not separated from Him", "God has left humanity", "God cannot hear prayer", "Sin is stronger than God"], "answer": 0, "explain": "Our sins hide His face from us; blindness is not separation."},
+    {"q": "What is Wauchope's main objection to the taught payment model?", "options": ["It uses too many Old Testament texts", "It is too emotional", "It splits the Father from the Son and removes mercy", "It emphasises the resurrection"], "answer": 2, "explain": "It ruptures the Trinity's indivisible union, and payment leaves no mercy."}
+  ]
+}

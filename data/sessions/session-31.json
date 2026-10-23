@@ -1,0 +1,87 @@
+{
+  "session": 31,
+  "videoId": "I30IonjQ5Tw",
+  "youtubeTitle": "The Gospel and Soul Health Session 31 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 1: Outline of Soul Healing",
+  "topic": "The Father's love in us answers our pain",
+  "summary": "Opening Volume 3, Bruce recaps the problem: humanity was made to be caught up in the love of Father, Son and Spirit, but Adam was alone and blind, the flesh developed, and a conscience became an internal accuser that splits us into acceptable and unacceptable parts over a deep aching pain. Jesus came into the bottom of our mess, not merely to forgive sins but to change the 'factory'. Through a phone call with a person in agony over a partner's affairs, he shows that the gospel is not about morality but relationship: when we cannot forgive, we ask the Spirit to take what Jesus has and share it with us (John 16:13-15). The love with which the Father loves the Son is already in us (John 17:26), and knowing it in our deep places would largely heal us. He introduces a rough schematic of the flesh (conscience, parts, black hole, the spin, pain management) as a tool for agreeing with God, and warns that dualism and the judge-guilt-fear-freeze chain block us from feeling God's love.",
+  "keyPoints": [
+    "Eight non-negotiables frame the series, including that Father, Son and Spirit are one in indivisible love and that there is a pre-creation purpose: humanity caught up in the middle of their love.",
+    "Adam was alone and clueless in the middle of plenty; aloneness is already sin, and with Eve he ate from the tree, beginning the development of the flesh.",
+    "Jesus came into our darkness not merely to forgive sins (already done) but to save us from them, changing the 'factory' rather than forgetting the bad output (Matthew 1:21).",
+    "The fallen conscience is an internal accuser, like its father Satan; relationship with God becomes external and transactional, and we split into okay and not-okay parts, with protective parts guarding deep pain caused by lost attachment.",
+    "Phone-call story: a person tangled in a partner's affairs, childhood abandonment, self-accusation and coping behaviours could not forgive; the answer was not moral effort but choosing to let Jesus share his forgiveness with them.",
+    "John 16:13-15 is the 'go-to' text for the gap between the beautiful gospel and the real mess: the Spirit takes what is Jesus' and declares it to us.",
+    "Nobody has it together; dropping the moral game of judging self and others, we simply admit we are broken people with Christ in us, loved, and ask for help.",
+    "We only feel pain because we are made in God's image with Christ in us; pain is the echo of an empty space where love should be experienced, unlike a whiteboard which feels nothing.",
+    "Christ in us also creates a healthy disturbance, ruling 'with a rod of iron' from the inside, breaking up identity-structures built from pain so we return to being sons and daughters of God.",
+    "At death everything is stripped away; God's only currency is persons, relationships and community.",
+    "Christ is in you and you never put him there, and the Father's love for Jesus is in you and you never put it there; Jesus tabernacled in our flesh from the bottom up, so we abide (remain) rather than climb.",
+    "The model is just a model, not a means of self-salvation; we must stay non-dualistic, because the judge locks guilt, guilt locks fear, fear keeps us frozen and unable to think or feel love."
+  ],
+  "keyTerms": [
+    {"term": "The flesh", "definition": "The part of the human being that does not know the love of God, developed from Adam's aloneness and the eating of the tree."},
+    {"term": "Conscience (fallen)", "definition": "An internal accuser, introduced in a dark place, that judges good and bad and splits us into acceptable and unacceptable parts."},
+    {"term": "Black hole", "definition": "The deep aching pain at our core arising from lost attachment, beneath which Christ actually dwells."},
+    {"term": "The spin", "definition": "The human problem-solving process that can go round and round, introduced here as part of the model of the flesh."},
+    {"term": "Pain management", "definition": "Coping devices (numbing, self-comfort) we use to handle unresolved pain."},
+    {"term": "Abide", "definition": "To remain; dropping into Christ who is already within, rather than climbing to God outside."},
+    {"term": "Dualism", "definition": "Pulling God and creation (and self) apart; it keeps us trapped in the judge-guilt-fear-freeze chain."}
+  ],
+  "scriptures": ["John 17:26", "John 16:13-15", "John 14:20", "Matthew 1:21", "John 1:14"],
+  "quotes": [
+    "He didn't come to forgive our sins, that was already done; he came to change our mess, heal our mess.",
+    "The Christian walk isn't about morality, it's about a relationship.",
+    "If I knew the love of Dad in the deep parts of me where I'm in pain, would that largely fix me?",
+    "Christ is in you and you never put him there."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "From the gap to love: the Spirit shares what Jesus has",
+    "nodes": [
+      {"id": "a", "label": "Made for Trinity's love", "detail": "The pre-creation purpose is that we be caught up in the love of Father, Son and Spirit."},
+      {"id": "b", "label": "Alone, blind, fleshly", "detail": "Adam's aloneness gives rise to the flesh, an accusing conscience and split parts."},
+      {"id": "c", "label": "Deep aching pain", "detail": "Pain is the echo of love we were made for but do not experience."},
+      {"id": "d", "label": "Jesus at the bottom", "detail": "Christ tabernacled in our flesh from the bottom up, bringing the Father's love."},
+      {"id": "e", "label": "Ask the Spirit", "detail": "We choose to ask the Spirit to take what Jesus has and share it with us."},
+      {"id": "f", "label": "Love felt within", "detail": "The Father's love for the Son is known in our deep parts, and healing begins."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "lost through Adam"},
+      {"from": "b", "to": "c", "label": "produces"},
+      {"from": "c", "to": "d", "label": "already met by"},
+      {"from": "d", "to": "e", "label": "accessed by"},
+      {"from": "e", "to": "f", "label": "shares"}
+    ],
+    "note": "Shows the movement from our created calling, through the flesh and pain, to receiving the Father's love already present in us through Christ by the Spirit (John 16:13-15; 17:26)."
+  },
+  "caseStudy": {
+    "title": "The forgiveness I can't produce",
+    "scenario": "Mia discovered her husband had an affair years ago and lied about it. They are trying again, but she lies awake replaying his betrayal, accusing him and then accusing herself. She has started drinking more in the evenings to 'switch off', and says she cannot feel God anymore. She has tried hard to forgive and keeps failing.",
+    "analysis": "Mia's internal accuser is running against both her husband and herself, locking guilt and fear so she cannot feel love. Her drinking is pain management. Bruce's framework says the issue is not a moral failure to forgive; she does not have the capacity, but Jesus does, and the Spirit takes what is his and shares it with her.",
+    "pathway": [
+      "Name the accusing loop without judging herself for having it.",
+      "Admit honestly: 'I cannot forgive this; I don't have the capacity.'",
+      "Pray simply: 'Holy Spirit, take Jesus' forgiveness and share it with me here.'",
+      "Notice the evening drinking as a sign of pain, and seek support from a GP or counsellor if it is escalating.",
+      "Find a trusted friend or couples counsellor to hold her while the pain surfaces.",
+      "Return to John 17:26 regularly: the Father's love for Jesus is already in her."
+    ]
+  },
+  "practices": [
+    {"name": "The John 16 prayer", "how": "When you hit the gap between the gospel and your mess, pause and say: 'Holy Spirit, please take what Jesus has for this and share it with me.' Then wait quietly for a minute."},
+    {"name": "Drop the moral scoreboard", "how": "When you notice yourself rating yourself or others as good or bad, say 'I'm broken, Christ is in me, and I'm loved' and put the verdict down."},
+    {"name": "Deep-place question", "how": "Once a day ask: 'Where in me is pain right now?' and imagine the Father's love for Jesus resting in exactly that place."}
+  ],
+  "reflection": [
+    "Where in your life is there a gap between the gospel you believe and the mess you experience?",
+    "What have you built your identity on besides being a son or daughter of God?",
+    "If you knew the Father's love in your deepest pain, what would change?"
+  ],
+  "quiz": [
+    {"q": "According to Bruce, what did Jesus come to do beyond forgiving sins?", "options": ["Give us a better moral code", "Change and heal our mess from the inside", "Remove us from the world", "Establish a religious institution"], "answer": 1, "explain": "He came to change the 'factory', saving us from our sins, not just forgetting them."},
+    {"q": "Which passage does Bruce call the 'go-to' for the gap between the gospel and our mess?", "options": ["Romans 12:1-2", "Psalm 23", "Matthew 5:48", "John 16:13-15"], "answer": 3, "explain": "The Spirit takes what is Jesus' and declares it to us."},
+    {"q": "Why does Bruce say we experience pain at all?", "options": ["Because we are made in God's image and are not experiencing the love we were made for", "Because God is punishing us", "Because we lack willpower", "Because the body is evil"], "answer": 0, "explain": "Pain is the echo of an empty space where love should be."}
+  ]
+}

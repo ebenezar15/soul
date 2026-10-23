@@ -1,0 +1,200 @@
+{
+  "session": 40,
+  "videoId": "4ttPixPu0Dk",
+  "youtubeTitle": "The Gospel and Soul Health Session 40 Dr Bruce Wauchope",
+  "volume": "Volume 3 (YouTube description reads 'Volume 1', apparently a typo; sessions 38-42 form Volume 3, Chapter 2)",
+  "chapter": "Chapter 2, Session 4 - The Lies from the Conscience continued; The Scales; Loss of relationships and emotions with the conscience; Deconstructing the validity of the conscience - Level 1 from Scripture",
+  "topic": "Scales, lost relationships, and dethroning the accuser",
+  "summary": "Bruce completes the list of the conscience's lies: lie 6, that we can balance good deeds against bad, buy time, earn credit or offload our negatives through projection (as humanity did when it killed Jesus and blamed the Father); and lie 7, that we are ultimately acceptable or unacceptable by what we have done - turning the love story into a horror movie. Living from a good/bad assessor destroys relationship: emotions, values, intuitions and needs are suppressed, marriages become right/wrong contests, and a conscience externalised onto a pastor or cult leader gives that person power over us. Yet life without love creates death, so the conscience is to be dethroned and reordered to serve the Tree of Life, measuring whether we walk in life and love. Level 1 of the deconstruction uses Scripture: Revelation 12:10-11 shows the accuser is overcome by the blood of the Lamb; 1 John 3:20 shows God is greater than a condemning heart; and Hebrews 10:22 speaks of hearts sprinkled from an evil conscience. An accusing conscience that contradicts what the Father says about us is evil, even 'antichrist'.",
+  "keyPoints": [
+    "Lie 6: we can balance good deeds against bad, buy time or gain credit by performance; making amends is good, but the internal 'pay-off' system is not.",
+    "We also offload negatives through projection: humanity killed God made human and then blamed the Father for wanting it.",
+    "Lie 7: we are ultimately judged acceptable or unacceptable by what we have done - losing personhood and our pre-creation calling as children, turning a love story into a horror movie.",
+    "The full list: separated; can climb back; conscience is the measure/God; records are kept; acceptability is in a law; we can earn or balance; we are judged by deeds.",
+    "We have made the loving heavenly Father worse than human parents, which shows how sick our projection is.",
+    "The conscience is the 'lock': once guilt runs, fear locks and we freeze, unable to think or feel.",
+    "Assessing someone constantly as good/bad (the 'woodpecker') means no relationship; emotions, values, intuitions, needs and experiences are suppressed, life becomes dry, and many abandon Christianity.",
+    "Right/wrong contests poison marriages; and when the conscience is externalised onto a pastor or cult leader, that person gains power over us - recovery means slowly learning to trust oneself again, often with deep rage.",
+    "Life without love creates death, so we still need discernment - but the conscience must be dethroned and reordered to serve the Tree of Life, measuring whether we walk in life and love and whether love is wide enough to include everyone affected.",
+    "Revelation 12:10-11: the accuser is cast down and overcome by the blood of the Lamb; since we died with Christ there is no ground for accusation.",
+    "1 John 3:20: if our heart condemns us, God is greater than our heart - so the condemning voice is not God.",
+    "Hebrews 10:22 speaks of hearts sprinkled from an evil conscience; a conscience that opposes the finished work of Christ and contradicts 'you are my child' is evil, even antichrist."
+  ],
+  "keyTerms": [
+    {
+      "term": "Scales",
+      "definition": "The inner balancing of good deeds against bad to determine worth."
+    },
+    {
+      "term": "Projection",
+      "definition": "Offloading our negatives onto others - including blaming the Father for the death of Jesus."
+    },
+    {
+      "term": "Woodpecker",
+      "definition": "Bruce's image for the conscience tapping away night and day with accusation and assessment."
+    },
+    {
+      "term": "Externalised conscience",
+      "definition": "Handing one's internal sense of right and wrong to a leader, giving them power over us."
+    },
+    {
+      "term": "Evil conscience",
+      "definition": "A conscience that accuses and opposes the finished work of Christ and what the Father says about us."
+    },
+    {
+      "term": "Lock",
+      "definition": "Guilt locking the fear response, freezing thought and feeling."
+    },
+    {
+      "term": "Dethroning the conscience",
+      "definition": "Removing the conscience from the place of God and reordering it to serve Jesus, life and love."
+    }
+  ],
+  "scriptures": [
+    "Genesis 2:17",
+    "Revelation 12:10-11",
+    "1 John 3:20",
+    "Hebrews 10:22"
+  ],
+  "quotes": [
+    "We've lost a love story and thrown ourselves into a horror movie.",
+    "If your heart condemns you, God is greater than your heart.",
+    "Your conscience will be accusing you when God doesn't.",
+    "Sorry, Mr Conscience: you are not God, not close to God, not the way back."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "The seven lies of the conscience",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "1. I'm separated",
+        "detail": "We believe we are alone and cut off from God."
+      },
+      {
+        "id": "b",
+        "label": "2. I can climb back",
+        "detail": "We think we can cross the imagined gap ourselves."
+      },
+      {
+        "id": "c",
+        "label": "3. Conscience is God",
+        "detail": "The accuser is treated as the measure and the way back."
+      },
+      {
+        "id": "d",
+        "label": "4. Law defines worth",
+        "detail": "Acceptability is contained in a code rather than relationship."
+      },
+      {
+        "id": "e",
+        "label": "5. Records are kept",
+        "detail": "A ledger of good and bad deeds is held against us."
+      },
+      {
+        "id": "f",
+        "label": "6. I can balance it",
+        "detail": "Good deeds offset bad, or negatives are projected onto others."
+      },
+      {
+        "id": "g",
+        "label": "7. Judged by deeds",
+        "detail": "Final acceptance rests on performance - a horror movie, not a love story."
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "b"
+      },
+      {
+        "from": "b",
+        "to": "c"
+      },
+      {
+        "from": "c",
+        "to": "d"
+      },
+      {
+        "from": "d",
+        "to": "e"
+      },
+      {
+        "from": "e",
+        "to": "f"
+      },
+      {
+        "from": "f",
+        "to": "g"
+      }
+    ],
+    "note": "Each lie builds on the one before; the whole chain begins with the impossible lie of separation and is undone by Scripture's witness that the accuser is cast down."
+  },
+  "caseStudy": {
+    "title": "Leaving a controlling church",
+    "scenario": "Mark spent ten years in a church where the senior pastor's word decided everything from career choices to whom he could date. He left after being publicly shamed, but now he second-guesses every decision and hears the pastor's voice condemning him. He oscillates between rage and feeling he has abandoned God. His marriage has become a constant argument about who is right.",
+    "analysis": "Bruce would describe Mark's conscience as externalised: he handed his internal sense of right and wrong to a leader, who gained power over him, and now experiences that voice as God's. Because the accuser still sits on the throne, his relationships are reduced to good/bad assessment, as seen in his marriage. Bruce stresses that the way back is long, involving rage and slowly learning to trust oneself. Scripture (1 John 3:20; Revelation 12:10) helps separate the condemning voice from God, who is greater than his heart.",
+    "pathway": [
+      "Recognise the condemning voice as the externalised conscience, not God (1 John 3:20).",
+      "Practise small decisions on his own, noticing his values, needs and intuitions.",
+      "Allow and express anger safely, for example with a counsellor experienced in spiritual abuse.",
+      "With his wife, shift from right/wrong debates to sharing feelings and needs.",
+      "Find a safe, non-controlling community at his own pace.",
+      "Seek professional help if anger or anxiety is overwhelming."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Greater than my heart",
+      "how": "When a condemning thought arises, answer it aloud: 'God is greater than my heart' (1 John 3:20), and ask what the Father actually says about you."
+    },
+    {
+      "name": "Swap assessing for meeting",
+      "how": "In your next conversation with someone close, catch yourself grading them good or bad, and instead ask what they are feeling and needing."
+    },
+    {
+      "name": "Spot the scales",
+      "how": "After a mistake, notice if you try to 'pay it off' with extra good deeds. Make any genuine amends, then consciously refuse the balancing game."
+    }
+  ],
+  "reflection": [
+    "Which of the seven lies do you most recognise operating in you, especially after you've failed?",
+    "Have you handed your conscience to someone else? What has that done to your trust in yourself?",
+    "How does knowing that 'God is greater than our heart' change the way you respond to self-condemnation?"
+  ],
+  "quiz": [
+    {
+      "q": "What does Bruce say 1 John 3:20 shows about the condemning conscience?",
+      "options": [
+        "It is God's own voice",
+        "It should be ignored only on Sundays",
+        "God is greater than it, so it is not God",
+        "It is always right"
+      ],
+      "answer": 2,
+      "explain": "If our heart condemns us, God is greater than our heart, so the accusation is not God."
+    },
+    {
+      "q": "What happens when the conscience is externalised onto a leader?",
+      "options": [
+        "The leader gains power over the person",
+        "The person becomes more independent",
+        "Guilt disappears",
+        "Relationships improve"
+      ],
+      "answer": 0,
+      "explain": "Handing over one's conscience gives the leader power, as in cults."
+    },
+    {
+      "q": "Which lie involves offsetting good deeds against bad ones?",
+      "options": [
+        "Lie 1",
+        "Lie 3",
+        "Lie 4",
+        "Lie 6"
+      ],
+      "answer": 3,
+      "explain": "Lie 6 is that we can balance good deeds against bad, buy time or earn credit."
+    }
+  ]
+}

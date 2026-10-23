@@ -1,0 +1,197 @@
+{
+  "session": 51,
+  "videoId": "S3MZ3MKcMfs",
+  "youtubeTitle": "The Gospel and Soul Health Session 51 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 3 (Session 6)",
+  "topic": "The black hole and attachment theory",
+  "summary": "Bruce introduces the 'black hole', the deep inner pain that feels bottomless and like non-existence, and which unconsciously governs much of life through both avoidance ('I am not') and striving ('I will be'). He traces it to Adam's aloneness in Genesis 2, the first 'not good': surrounded by God and the divine council yet unable to connect, Adam carried a spiritual attachment pain that runs through human history in incomplete parenting. He then surveys attachment science: Winnicott's holding, play and true/false self, Bowlby's proximity-seeking for survival, Ainsworth's work, and the Circle of Security, which found that a mother's way of relating, not housing or food, determined a child's emotional security. A child needs a secure base for exploration and a safe haven of protection, comfort, delight and help organising feelings, a profoundly relational picture with no moralism in it. Bruce closes with his own experience of sitting over his black hole for three days, trusting that Christ holds everything together, until it tore open to reveal a pearl crowned with thorns: Christ in us and us in Christ in mutual suffering.",
+  "keyPoints": [
+    "Most people know a deep inner pain that feels like a bottomless abyss, as if going near it would mean dropping forever or ceasing to exist.",
+    "This black hole unconsciously governs life: we avoid what touches it, and it drives us forward. The pain says 'you're not', and we respond 'I will be'.",
+    "Bruce sees the Enneagram as a description of our flesh's response to the black hole, not a basis for acceptance.",
+    "Genesis 1 repeats 'good', but Genesis 2:18 gives the first 'not good': Adam was alone. This was not about a partner (animals were tried) but about relationship.",
+    "Adam was alone in the middle of plenty, among God and the divine council, unable to connect: a spiritual attachment pain at the start of human history, the 'mystery of iniquity'.",
+    "Freud's untestable 'unconscious fantasies' were challenged by Winnicott (holding, play, true and false self) and Bowlby, the father of attachment theory, who was himself rejected by the psychoanalysts.",
+    "Bowlby's key insight: infants seek proximity to an identified attachment figure for survival; this is built into the species.",
+    "Cueing begins at the breast (look up, unattach, look, reattach) and widens as the toddler checks back every few metres, until the child is launched.",
+    "The Circle of Security showed that training a mother to read and meet her child's needs produced secure attachment within months; the key factor was the relationship, not house or food.",
+    "A child needs: support my exploration, watch over me, delight in me, help me; welcome me back, protect me, comfort me, organise my feelings; be bigger, stronger, wiser and kind. It is all relationship, no morality, like a relationship with the Father.",
+    "Attachment is dyadic: there is no isolated individual, only persons in relationship, and few of us received all of this, which is why the lid lifts on our pain.",
+    "Bruce faced his own black hole for three days, trusting that Jesus holds all things together; it tore like hessian to reveal a pearl (us in Christ, Christ in us) and then a crown of thorns: mutual suffering through which we come to be."
+  ],
+  "keyTerms": [
+    {
+      "term": "Black hole",
+      "definition": "The deep, seemingly bottomless inner pain of aloneness, fear and non-being that governs much of life unconsciously."
+    },
+    {
+      "term": "Attachment",
+      "definition": "The built-in need for proximity to and care from an attachment figure for survival."
+    },
+    {
+      "term": "Holding",
+      "definition": "Winnicott's concept of the caregiver's containing care, echoed in Christ's holding of us."
+    },
+    {
+      "term": "True self / false self",
+      "definition": "Winnicott's distinction between the self that emerges in safe play and the self formed in reaction to the caregiver."
+    },
+    {
+      "term": "Cueing",
+      "definition": "The child's repeated checking back with the caregiver before and after moving away, which widens as they grow."
+    },
+    {
+      "term": "Circle of Security",
+      "definition": "Hoffman, Cooper and Powell's model: a secure base for exploration and a safe haven for return."
+    },
+    {
+      "term": "Spiritual attachment pain",
+      "definition": "Adam's ache at being made for Trinitarian communion yet unable to connect, passed through humanity."
+    }
+  ],
+  "scriptures": [
+    "Genesis 1:31",
+    "Genesis 2:18",
+    "Colossians 1:17",
+    "Revelation 21:21"
+  ],
+  "quotes": [
+    "The pain says 'Bruce, you're not', so Bruce says 'I will be'.",
+    "It's not good that Adam is alone: the first 'not good' in the Bible.",
+    "It was the presence of Mum and how Mum related which governed whether the child was emotionally safe.",
+    "If I'd started from separation from God, I wouldn't have been able to face my black hole."
+  ],
+  "diagram": {
+    "type": "cycle",
+    "title": "The Circle of Security",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "Secure base",
+        "detail": "A bigger, stronger, wiser, kind caregiver to go out from."
+      },
+      {
+        "id": "b",
+        "label": "Support my exploration",
+        "detail": "Watch over me, delight in me, help me, enjoy me."
+      },
+      {
+        "id": "c",
+        "label": "Child explores and plays",
+        "detail": "Takes charge; the caregiver interferes only when needed."
+      },
+      {
+        "id": "d",
+        "label": "Child cues to return",
+        "detail": "Checks back when the world feels strange or hard."
+      },
+      {
+        "id": "e",
+        "label": "Safe haven",
+        "detail": "Welcome me, protect me, comfort me."
+      },
+      {
+        "id": "f",
+        "label": "Organise my feelings",
+        "detail": "Put words around emotions and help work them out."
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "b",
+        "label": "launches"
+      },
+      {
+        "from": "b",
+        "to": "c"
+      },
+      {
+        "from": "c",
+        "to": "d"
+      },
+      {
+        "from": "d",
+        "to": "e",
+        "label": "returns to"
+      },
+      {
+        "from": "e",
+        "to": "f"
+      },
+      {
+        "from": "f",
+        "to": "a",
+        "label": "restores"
+      }
+    ],
+    "note": "What every child needs, entirely relational; where this was missing, the black hole of attachment pain forms."
+  },
+  "caseStudy": {
+    "title": "A parent who wants to do better",
+    "scenario": "Josh is a father of a clingy four-year-old who cries whenever he leaves for work. Josh grew up with a distant, critical father and finds himself snapping 'stop being a baby'. He feels guilty and confused, and notices an old ache in himself when his son reaches for him.",
+    "analysis": "In the attachment framework Bruce presents, his son is cueing for a safe haven, needing comfort and help organising big feelings. Josh's ache suggests his own black hole is being touched: he never received this himself. The answer is relational rather than moral, and Josh's growth in receiving the Father's holding can shape how he holds his son.",
+    "pathway": [
+      "Learn the Circle of Security needs and look for his son's cues for exploring and returning.",
+      "Replace correction with comfort: name the feeling ('You're sad Daddy's going') and stay present.",
+      "Create a simple, warm goodbye ritual and reliable return.",
+      "Notice his own ache and bring it to God, trusting that Christ holds even this pain.",
+      "Consider a parenting course based on attachment, or a counsellor, to explore his own history."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Feelings organiser",
+      "how": "When a child, friend or you yourself are upset, put words around the feeling ('You seem disappointed and tired') before offering any solution."
+    },
+    {
+      "name": "Held over the abyss",
+      "how": "If you approach deep pain, first affirm: 'Christ holds all things together, including what is beneath this pain.' Go only as far as feels safe, ideally with a trusted companion or counsellor."
+    },
+    {
+      "name": "Delight practice",
+      "how": "Each day express delight (not just approval) to someone you care for, and allow yourself to imagine the Father delighting in you."
+    }
+  ],
+  "reflection": [
+    "Which of the Circle of Security needs did you receive most, and which least, as a child?",
+    "How have avoidance ('I am not') and striving ('I will be') shown up in your life?",
+    "What would make it safe enough for you to look at your own deep pain?"
+  ],
+  "quiz": [
+    {
+      "q": "What is the first 'not good' in Genesis, according to Bruce?",
+      "options": [
+        "Eating the forbidden fruit",
+        "The serpent's lie",
+        "Cain killing Abel",
+        "Adam being alone"
+      ],
+      "answer": 3,
+      "explain": "Genesis 2:18 names Adam's aloneness, which Bruce reads as relational attachment pain."
+    },
+    {
+      "q": "What did the Circle of Security research find determined a child's emotional security?",
+      "options": [
+        "Adequate food",
+        "A stable house",
+        "The mother's way of relating to the child",
+        "Moral instruction"
+      ],
+      "answer": 2,
+      "explain": "Trained mothers produced secure children regardless of housing or food."
+    },
+    {
+      "q": "What emerged when Bruce's black hole tore open?",
+      "options": [
+        "Complete emptiness",
+        "A pearl, later crowned with thorns",
+        "A dark figure",
+        "A locked door"
+      ],
+      "answer": 1,
+      "explain": "The pearl represents us in Christ and Christ in us in mutual suffering."
+    }
+  ]
+}

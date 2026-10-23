@@ -1,0 +1,204 @@
+{
+  "session": 52,
+  "videoId": "AJMzaTx0tUA",
+  "youtubeTitle": "The Gospel and Soul Health Session 52 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 3 (Session 7)",
+  "topic": "Core sensitivities: 'I am not' and 'I will be'",
+  "summary": "Drawing on attachment research and the Circle of Security, Bruce notes that early attachment wounds raise the risk of later problems, but attachment is plastic and changes through a secure base, especially when caregivers learn to read a child's cues. Building his own model of core sensitivities, he describes what a child needs (connection, safety and security, and the freedom to be a person) and their reverse: aloneness, being scared and hurt, and 'I'm not a person'. Through magical thinking the child concludes 'I failed to make them love me, I'm a failure, I'm bad', a black hole of pain that we fear and wall off. From that 'I am not' we construct a false 'I will be' (not separated, not unsafe, with value and esteem) that no achievement can satisfy, because what is missing is relationship. The gospel is not moral but relational: Jesus became flesh and went to the bottom of our attachment pain, and the Spirit dismantles our defences so we can know the Father's love there, which dissolves the pain and quietens our triggers.",
+  "keyPoints": [
+    "Attachment problems in infancy and childhood increase the probability of later pathology, and secure attachment is protective, but attachment is plastic, not fixed for life.",
+    "Lasting change, including in counselling, happens from a secure base; to help a child, start by helping the parents read the child's cues. Most harm comes from ignorance, not ill intent.",
+    "Bruce presents his own model, influenced by Masterson's work, 'with necessary trepidation': a child needs connection, safety and security, and freedom to explore and be a person.",
+    "When this is disordered the reverse appears in deepening shades from grey to black: alone; scared and hurt; 'I'm not a person, I have no value, I'm nothing'.",
+    "Through magical thinking (crying brings a feed, so 'I make things happen') the child concludes: 'I failed to make them love me, so I'm a failure, so I'm bad.'",
+    "This black hole of pain feels like non-survival, so we develop fear of and aversion to it, putting boundaries around it and staying away.",
+    "In response we build a false self, 'I will be': not separated, not unsafe, with value and esteem. This is why millionaires still want another million: the pain is never satisfied.",
+    "We carry two false identities, the felt 'I am not' and the driven 'I will be', both rooted in broken relationship (Winnicott's false self).",
+    "Even those with very loving parents carry this to some degree; good parenting reduces it but no one has it all.",
+    "The gospel is not moral but relational: what was broken was relationship, and what Christ brings into our darkness is relationship with Father, Son and Spirit.",
+    "The Holy Spirit pulls down our defences, not for pleasure, but because defended hearts cannot feel the Father's love; Jesus has gone to the bottom of our pain and is working up through us.",
+    "As the Father's love reaches the core, long-held pain can mysteriously disappear and triggers lose their charge; the 'judgment' is simply the question: will you let me love you?"
+  ],
+  "keyTerms": [
+    {
+      "term": "Circle of Security",
+      "definition": "An attachment-based model showing a child's need for a secure base to explore from and a safe haven to return to."
+    },
+    {
+      "term": "Core sensitivities",
+      "definition": "Bruce's model of the three core needs (connection, safety, being a person) and their wounded reverse."
+    },
+    {
+      "term": "I am not",
+      "definition": "The felt false identity of the black hole: alone, scared, hurt, valueless and bad."
+    },
+    {
+      "term": "I will be",
+      "definition": "The driven false self built to escape the pain: never separated, never unsafe, always valued."
+    },
+    {
+      "term": "Magical thinking",
+      "definition": "The young child's belief that they cause everything, so being unloved means they failed and are bad."
+    },
+    {
+      "term": "Sarx (flesh)",
+      "definition": "The place in us that does not know we are loved, which Christ entered and inhabits."
+    }
+  ],
+  "scriptures": [
+    "John 1:14",
+    "John 14:20",
+    "John 17:26",
+    "Hebrews 13:5",
+    "Romans 8:38-39",
+    "2 Corinthians 5:10"
+  ],
+  "quotes": [
+    "The gospel ain't moral one bit; it's about the bringing of relationship into our darkness.",
+    "The thing missing from the beginning is relationship.",
+    "How can you feel the love of Dad while you're defended?",
+    "They don't do abandonment, they don't do leaving."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "From broken attachment to the false self, and the way home",
+    "nodes": [
+      {
+        "id": "a",
+        "label": "Core needs unmet",
+        "detail": "Connection, safety and being a person are disordered."
+      },
+      {
+        "id": "b",
+        "label": "Alone, scared, hurt",
+        "detail": "Deepening to 'I'm not a person, I'm nothing'."
+      },
+      {
+        "id": "c",
+        "label": "I failed, I'm bad",
+        "detail": "Magical thinking explains the pain as my fault."
+      },
+      {
+        "id": "d",
+        "label": "Fear walls it off",
+        "detail": "Aversion and boundaries keep us from the pain."
+      },
+      {
+        "id": "e",
+        "label": "False self: I will be",
+        "detail": "Driven striving for safety, value and esteem that never satisfies."
+      },
+      {
+        "id": "f",
+        "label": "Jesus at the bottom",
+        "detail": "Christ in our flesh brings the Father's love into the pain."
+      },
+      {
+        "id": "g",
+        "label": "Becoming a person",
+        "detail": "Pain dissolves, triggers quieten, real being emerges."
+      }
+    ],
+    "edges": [
+      {
+        "from": "a",
+        "to": "b",
+        "label": "produces"
+      },
+      {
+        "from": "b",
+        "to": "c",
+        "label": "interpreted as"
+      },
+      {
+        "from": "c",
+        "to": "d",
+        "label": "feared"
+      },
+      {
+        "from": "d",
+        "to": "e",
+        "label": "drives"
+      },
+      {
+        "from": "f",
+        "to": "b",
+        "label": "enters"
+      },
+      {
+        "from": "f",
+        "to": "g",
+        "label": "heals into"
+      }
+    ],
+    "note": "The 'I am not' drives the 'I will be'; only relationship brought in from the bottom up heals both."
+  },
+  "caseStudy": {
+    "title": "Never enough",
+    "scenario": "Leah, 38, built a successful business and is admired by friends. Yet each milestone brings a brief high followed by emptiness and a push for the next goal. When her partner is distant even for a day, she feels a sickening sense that she is alone and worthless.",
+    "analysis": "In Bruce's model, Leah's 'I will be' (achievement, value, esteem) is powered by an underlying 'I am not'. Her partner's distance touches the black hole of aloneness, and no achievement satisfies because what is missing is relationship, not success.",
+    "pathway": [
+      "Notice the cycle: the emptiness after success and the panic at distance both point to core pain.",
+      "Breathe down into her body when the pain surfaces and pray: 'Holy Spirit, take what Jesus has and hold me.'",
+      "Name the conclusion she drew as a child ('I'm a failure, I'm bad') and recognise it as magical thinking.",
+      "Practise receiving love in relationships without performing for it.",
+      "Allow the Spirit to dismantle defences gradually, with patience rather than self-blame.",
+      "Work with a counsellor who can provide a secure base for exploring attachment history."
+    ]
+  },
+  "practices": [
+    {
+      "name": "Breathe to the pelvis",
+      "how": "When old pain surfaces, breathe slowly all the way down to your pelvis and repeat: 'Holy Spirit, take what Jesus has and hold me.'"
+    },
+    {
+      "name": "I am not / I will be map",
+      "how": "Draw two columns. List what you fear you are ('I am not...') and what you strive to be ('I will be...'). Notice how the first drives the second."
+    },
+    {
+      "name": "Letting love in",
+      "how": "Each day sit for five minutes with the question 'Will you let me love you?' and answer honestly without forcing a feeling."
+    }
+  ],
+  "reflection": [
+    "Which of the three core needs (connection, safety, being a person) feels most tender for you?",
+    "What 'I will be' goals have never quite satisfied you, and what pain might they be covering?",
+    "Where might the Spirit be pulling down defences in your life so that you can know the Father's love?"
+  ],
+  "quiz": [
+    {
+      "q": "According to the attachment research Bruce cites, is attachment style fixed for life?",
+      "options": [
+        "Yes, it is set in infancy",
+        "No, it is plastic and can change from a secure base",
+        "Only medication changes it",
+        "It changes only in childhood"
+      ],
+      "answer": 1,
+      "explain": "Attachment is plastic; change comes from a secure base and caregiver change."
+    },
+    {
+      "q": "Why can no achievement satisfy the 'I will be' drive?",
+      "options": [
+        "Because the pain driving it comes from missing relationship",
+        "Because goals are always too small",
+        "Because ambition is sinful",
+        "Because others are jealous"
+      ],
+      "answer": 0,
+      "explain": "The missing element is relationship, which performance cannot supply."
+    },
+    {
+      "q": "Why, in Bruce's view, does the Holy Spirit pull down our defences?",
+      "options": [
+        "To punish us for sin",
+        "To make us more religious",
+        "To prove we are weak",
+        "So we can know the Father's love at the bottom of us"
+      ],
+      "answer": 3,
+      "explain": "Defended hearts cannot feel the Father's love; the goal is always love."
+    }
+  ]
+}

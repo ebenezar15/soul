@@ -1,0 +1,87 @@
+{
+  "session": 35,
+  "videoId": "2u-TnbCmz2o",
+  "youtubeTitle": "The Gospel and Soul Health Session 35 - Dr Bruce Wauchope",
+  "volume": "Volume 3",
+  "chapter": "Chapter 1, Session 5",
+  "topic": "Pain management, emerging feelings and the spin",
+  "summary": "Continuing the overview of how the gospel undoes the flesh, Bruce compares healing to snakes and ladders: the accuser can send us sliding down, and we start again at our own pace with the Spirit, who mothers us. As defences and the good-bad split drop, past pain returns, but also emotions, needs, values, experiences and intuition cross back over the divide, and we become human rather than religious robots. Everything of Father, Son and Spirit leads to integration and oneness; everything of darkness leads to splitting, dissociation and fragmentation. He introduces four ways we manage pain: numbing or suppressing, self-comfort in the body, self-comfort in the mind, and dissociation, urging us to observe our patterns without judgment, since preaching law makes them worse (Romans 7-8). He also introduces the spin, our problem-solving loop that can spiral painfully, and teaches that some issues cannot be fixed but must be grieved.",
+  "keyPoints": [
+    "Christ does not erase and restart us; he works with who we are, so healing is a process, not an instant wipe.",
+    "Healing is like snakes and ladders: the accuser (the snake) can send us down, and we start again; there is no hurry and no rulebook, just love.",
+    "With the conscience dropped we stop judging ourselves good or bad, because Jesus says we are wrong about sin, righteousness and judgment; his method is 'you're my son, you're my daughter'.",
+    "As barriers drop, old pain resurfaces; a friend, Kaz, found it a delight to discover a hurting part in later life and embrace it.",
+    "Emotions, needs, values, experiences and intuition return across the divide, so we laugh, cry and get angry: we become human, not 'plastic fantastic' robots.",
+    "Everything of Father, Son and Spirit leads to integration and oneness; everything of darkness leads to splitting, dissociation and fragmentation (cf. Deuteronomy 6:4).",
+    "Four pain-management options: (1) numb or suppress, (2) self-comfort in the body (food, drugs, sex), (3) self-comfort in the mind (audio-visual, fantasy), (4) dissociation.",
+    "Watch your own patterns without moral judgment and even laugh at yourself; preaching the law makes things worse (Romans 7), while God did through his Son what the law could not (Romans 8:3-4).",
+    "Australians' 'pokies' illustrate numbing: gamblers often say, 'I just don't feel anything; it's so good.'",
+    "We don't have to deal with every issue: many 'balloons' are tethered to one anchor point, and removing a core lie (like separation from God) causes a domino or beaver-dam cascade.",
+    "Addictions are a means of managing pain, though some are also chemically driven; the response is facing pain emotionally, not 'just stop it'.",
+    "The spin is the brain's problem-solving loop; with unsolvable issues it can spiral like a whirlwind into pain, and some things must be grieved rather than fixed, as Jesus was a man of sorrows acquainted with grief."
+  ],
+  "keyTerms": [
+    {"term": "Snakes and ladders", "definition": "Bruce's image for non-linear healing, with setbacks when the accuser returns."},
+    {"term": "Integration and oneness", "definition": "The direction of everything that comes from Father, Son and Spirit within the soul."},
+    {"term": "Dissociation", "definition": "Splitting off parts of oneself in response to pain; the extreme pain-management option."},
+    {"term": "Pain management (1-2-3-4)", "definition": "Numbing or suppressing, bodily self-comfort, mental self-comfort and dissociation."},
+    {"term": "Anchor point", "definition": "A core lie or wound to which many issues are tethered; dealing with it releases many at once."},
+    {"term": "The spin", "definition": "The brain's repetitive problem-solving loop which can spiral into distress."},
+    {"term": "Grieving", "definition": "Letting unsolvable losses be felt and pass through, rather than spinning to fix them."}
+  ],
+  "scriptures": ["Deuteronomy 6:4", "Psalm 110:1", "Romans 1:16", "Romans 7", "Romans 8:3-4", "John 16:8", "Isaiah 53:3"],
+  "quotes": [
+    "Everything of Father, Son and Spirit leads to integration and oneness.",
+    "Everything of darkness leads to splitting and dissociation and fragmentation.",
+    "Watch your patterns and get to know yourself, and have a laugh at yourself.",
+    "Some issues can't be faced and fixed; they need to be grieved."
+  ],
+  "diagram": {
+    "type": "hierarchy",
+    "title": "Four ways we manage pain (from mild to extreme)",
+    "nodes": [
+      {"id": "p", "label": "Unprocessed pain", "detail": "Deep pain we don't know what to do with."},
+      {"id": "a", "label": "1. Numb or suppress", "detail": "Shut feeling down, e.g. gambling machines, TV."},
+      {"id": "b", "label": "2. Comfort in body", "detail": "Food, drugs, sex used to soothe."},
+      {"id": "c", "label": "3. Comfort in mind", "detail": "Audio-visual, fantasy and mental escape."},
+      {"id": "d", "label": "4. Dissociation", "detail": "Splitting off parts entirely as a response to pain."},
+      {"id": "h", "label": "Face, feel and grieve", "detail": "Held by the Spirit, we look at pain without judgment and let it process."}
+    ],
+    "edges": [
+      {"from": "p", "to": "a", "label": "managed by"},
+      {"from": "p", "to": "b", "label": "managed by"},
+      {"from": "p", "to": "c", "label": "managed by"},
+      {"from": "p", "to": "d", "label": "managed by"},
+      {"from": "p", "to": "h", "label": "healed by"}
+    ],
+    "note": "Pain sits at the top; the four coping options branch below it, while the healthy path is to face and grieve the pain in love."
+  },
+  "caseStudy": {
+    "title": "The late-night scroll",
+    "scenario": "After a hard day managing her ageing mother's care, Leah finds herself scrolling her phone until 2am, then eating sweets in bed. She tells herself off every morning and resolves to stop, but the pattern repeats. Lately she lies awake going over the same unsolvable questions about her mother's decline.",
+    "analysis": "Leah is using mental and bodily self-comfort to manage grief, and her self-scolding (the accuser) makes the pattern worse, as Romans 7 suggests. Her late-night thinking is the spin: trying to solve something that cannot be fixed. Bruce's way forward is observing without judgment, facing the pain and learning to grieve.",
+    "pathway": [
+      "Notice the scroll-and-snack pattern with curiosity, not condemnation.",
+      "Ask: 'What pain am I managing right now?' and name it as grief.",
+      "Let herself cry or sit with the sadness, asking the Spirit to hold her.",
+      "Recognise the spin and say: 'This can't be fixed; it needs to be grieved.'",
+      "Share the load with a friend, support group or grief counsellor.",
+      "If sleep or eating problems persist, see a GP."
+    ]
+  },
+  "practices": [
+    {"name": "Pattern watching", "how": "For a week, when you reach for a coping behaviour, jot which of the four it is and what pain preceded it. No judging; a laugh is allowed."},
+    {"name": "Stop the spin", "how": "When thoughts loop on an unsolvable problem, ask: 'Is this to fix or to grieve?' If to grieve, give yourself ten minutes to feel it with Jesus."},
+    {"name": "Welcome a part", "how": "When an old hurt resurfaces, mentally put your arms around that part of yourself, as Kaz did, and thank God you found it."}
+  ],
+  "reflection": [
+    "Which of the four pain-management strategies do you reach for most?",
+    "What in your life are you trying to fix that may need to be grieved?",
+    "Where are you seeing emotions or intuition return as judgment eases?"
+  ],
+  "quiz": [
+    {"q": "According to Bruce, everything of darkness in the soul leads to what?", "options": ["Integration", "Rest", "Splitting, dissociation and fragmentation", "Oneness"], "answer": 2, "explain": "Darkness splits; Father, Son and Spirit integrate."},
+    {"q": "Which is NOT one of the four pain-management options?", "options": ["Numbing or suppressing", "Grieving with Jesus", "Self-comfort in the body", "Dissociation"], "answer": 1, "explain": "Grieving is the healthy path, not a coping device."},
+    {"q": "What is 'the spin'?", "options": ["A worship practice", "The accuser's voice", "A type of dissociation", "The brain's problem-solving loop that can spiral into pain"], "answer": 3, "explain": "Some problems can't be solved and must be grieved instead."}
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "session": 54,
+  "videoId": "aqUghHC17Wg",
+  "youtubeTitle": "The Gospel and Soul Health Session 54 - Dr Bruce Wauchope",
+  "volume": "Volume 3 - Soul Health",
+  "chapter": "Chapter 4 - The Amygdala, Trauma and Darkness (Session 1)",
+  "topic": "The love story and the amygdala's love/fear switch",
+  "summary": "Bruce opens the chapter by recapping the love story with a live tableau: the Father, Son and Spirit love one another, and humanity's pre-creation purpose is to be caught up in that relationship. The universe exists inside the Word, and life (Zoe) flows through everything; we can live that life in love (light) or without love (darkness), so darkness is not an absence of life or power but of love. Jesus became flesh, went to the bottom of human darkness, died, was raised, freed the dead and now dwells in every person, sharing the Father's love through the Spirit. He then introduces the amygdala as a near-switch between two whole neurohormonal worlds, love and fear, with layers of fear response: hypervigilance, freeze, fight, flight or faint, and submission. The opposite path, trust and warmth leading to embrace and union, shows why a horror-movie gospel keeps people in fear while the true gospel is a love story.",
+  "keyPoints": [
+    "We are in a love story, but fear running in us makes it hard to believe; conscience can lock fear in place through guilt, producing a freeze in brain and heart.",
+    "God is love: Father, Son and Spirit love one another, and the pre-creation purpose of humanity is to be caught up in the middle of that relationship.",
+    "Instead, humanity built a false god and mistook the accusing conscience for God, trying to climb back to him.",
+    "There is no outside to God: the universe was made inside the Word, and his life (Zoe) flows through everything (John 1:3-4).",
+    "Darkness is not the absence of life, power, will or drive; it is simply the absence of love. Those who manipulate the powers of the universe through magic are still handling Christ's life.",
+    "The Word became not just human but flesh, our darkness, going to its very bottom; crucified by us, he faced the powers as an ordinary man, was raised, and proclaimed freedom to the dead.",
+    "Two guarantees: Jesus Christ is in you and you never put him there; the love of the Father, Son and Spirit is in you and you never put it there. The Spirit shares it with you (John 16; John 17:26).",
+    "For humans the opposite of love is not hate but fear; hate still holds a connection.",
+    "The amygdala acts almost as a switch between two entirely different neurohormonal 'universes', love and fear, as when a pleasant city street becomes a horror movie once you expect an attacker.",
+    "Fear has layers: hypervigilance, then freeze, then fight, flight or faint, and finally submission, seen in concentration camp victims and Caribbean 'zombie' control.",
+    "The love pathway mirrors it: trust and warmth open the door, leading to embrace and union.",
+    "How readily we switch depends on past experience, like a beaten dog versus a loved dog; imagining walking into a family reunion reveals your own switch. Bruce says his teaching is not 'a travel brochure to a place he hasn't been'."
+  ],
+  "keyTerms": [
+    {"term": "Amygdala", "definition": "A small nucleus on each side of the brain that continually assesses for love or fear and switches the whole person between them."},
+    {"term": "Darkness", "definition": "Life lived without love: still full of drive, desire and power, but lacking love."},
+    {"term": "Light", "definition": "Life lived in love, in which we can see what is going on."},
+    {"term": "Zoe", "definition": "The life of Christ, given to and flowing through all creation."},
+    {"term": "Fear layers", "definition": "Hypervigilance, freeze, fight/flight/faint, then submission: the descending responses of fear."},
+    {"term": "Horror-movie gospel", "definition": "The Western framing of God as a moral threat who will punish us unless we get ourselves together."}
+  ],
+  "scriptures": ["1 John 4:8", "John 1:3-4", "John 1:14", "Psalm 23:5", "Revelation 1:18", "John 14:20", "John 16:14-15", "John 17:21-26", "Isaiah 63", "Ephesians 3:10", "Matthew 20:16", "Revelation 13:8", "John 7:38"],
+  "quotes": [
+    "Darkness is just the absence of love.",
+    "For us the flip side of love is not hate; it's fear.",
+    "Jesus Christ is in you and you never put him there.",
+    "I'm not handing out travel brochures to a place I haven't been."
+  ],
+  "diagram": {
+    "type": "contrast",
+    "title": "The amygdala switch: fear vs love",
+    "nodes": [
+      {"id": "f1", "label": "Hypervigilance", "detail": "Scanning for threat; the first layer of fear.", "side": "left"},
+      {"id": "f2", "label": "Freeze", "detail": "Stiff and unable to move or think.", "side": "left"},
+      {"id": "f3", "label": "Fight, flight, faint", "detail": "Aggression, escape or collapse.", "side": "left"},
+      {"id": "f4", "label": "Submission", "detail": "Total surrender to control.", "side": "left"},
+      {"id": "l1", "label": "Trust", "detail": "The door into love; the opposite of vigilance.", "side": "right"},
+      {"id": "l2", "label": "Warmth and openness", "detail": "Feeling safe enough to receive.", "side": "right"},
+      {"id": "l3", "label": "Embrace", "detail": "Moving towards others rather than away.", "side": "right"},
+      {"id": "l4", "label": "Union", "detail": "Caught up in the Trinity's love and one another.", "side": "right"}
+    ],
+    "edges": [
+      {"from": "f1", "to": "f2"},
+      {"from": "f2", "to": "f3"},
+      {"from": "f3", "to": "f4"},
+      {"from": "l1", "to": "l2"},
+      {"from": "l2", "to": "l3"},
+      {"from": "l3", "to": "l4"}
+    ],
+    "note": "Two distinct neurohormonal worlds; past experience shapes which way the amygdala switches."
+  },
+  "caseStudy": {
+    "title": "The family reunion",
+    "scenario": "Grace dreads her family's Christmas gathering. As soon as she walks in she notices herself scanning faces, rehearsing what to say and feeling tight in her stomach. Within an hour she either retreats to the kitchen or snaps at her brother, then drives home exhausted and guilty.",
+    "analysis": "Bruce uses exactly this scenario to show the amygdala switch. Grace's past experiences have trained her brain to flip into fear: hypervigilance first, then flight (retreating) or fight (snapping). Guilt afterwards lets her conscience lock the fear in place. The love story offers a different foundation, with Christ in her sharing the Father's love.",
+    "pathway": [
+      "Before arriving, sit quietly and remind herself of the two guarantees: Christ is in her, and his love is in her.",
+      "Notice the first sign of hypervigilance and name it: 'I've flipped to fear.'",
+      "Use slow breathing and step outside briefly if she needs to re-ground.",
+      "Identify one safe person to connect with, to open the trust door.",
+      "Afterwards, replace self-accusation with curiosity about what triggered her.",
+      "If family gatherings bring up past harm, talk this through with a counsellor."
+    ]
+  },
+  "practices": [
+    {"name": "Switch check", "how": "Several times a day ask: 'Am I in love or in fear right now?' Notice body signals such as tight shoulders, shallow breathing or scanning."},
+    {"name": "Two guarantees", "how": "When fear rises, say: 'Jesus is in me and I never put him there; his love is in me and I never put it there.' Ask the Spirit to share it now."},
+    {"name": "Trust door", "how": "Choose one relationship where you feel safe and practise a small act of openness, such as sharing a feeling, to strengthen the love pathway."}
+  ],
+  "reflection": [
+    "Which fear layer do you most often find yourself in: vigilance, freeze, fight, flight, faint or submission?",
+    "Has the gospel you received felt more like a horror movie or a love story?",
+    "What happens in your soul when you imagine walking into a family reunion?"
+  ],
+  "quiz": [
+    {"q": "How does Bruce define darkness?", "options": ["The absence of life", "The absence of power", "The absence of love", "A separate evil realm"], "answer": 2, "explain": "Darkness still has life and drive; it just lacks love."},
+    {"q": "For humans, what does Bruce say is the opposite of love?", "options": ["Hate", "Indifference", "Sin", "Fear"], "answer": 3, "explain": "Hate still keeps a connection; fear is the brain's opposite mode."},
+    {"q": "What is the first layer of the fear response Bruce describes?", "options": ["Hypervigilance", "Submission", "Faint", "Fight"], "answer": 0, "explain": "Vigilance comes first, then freeze, then fight/flight/faint, then submission."}
+  ]
+}

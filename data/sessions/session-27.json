@@ -1,0 +1,89 @@
+{
+  "session": 27,
+  "videoId": "vANScbsFe3A",
+  "youtubeTitle": "The Gospel and Soul Health Session 27 - Dr Bruce Wauchope",
+  "volume": "Volume 2 - Christian Fish in Greek Soup",
+  "chapter": "Session 1 - The Origins of Greek Thought",
+  "topic": "How Greek dualism shaped Western Christianity",
+  "summary": "Opening Volume 2, 'Christian Fish in Greek Soup', Bruce traces how Western Christianity came to think in terms of separation from God. Greek dualism (Socrates, Plato, Aristotle), echoing Adam's fallen sense of aloneness, pulled apart what the Hebraic view held as one. Plotinus' Neoplatonism pictured a distant, unmoving, loveless God outside a geocentric universe of 55 crystal shells, with eternal, depraved matter and a 'divine spark' that must escape the body and climb back to God. Augustine, working within this accepted cosmology, made a 'sandwich' of Neoplatonism and the gospel; Aquinas later wove Aristotle back in, and over time dualism won out. Bruce argues that ideas like hell as 'eternal separation from God' and the 'Four Spiritual Laws' are cut-down Neoplatonism, while the Incarnation's union of God and matter actually helped give rise to science.",
+  "keyPoints": [
+    "Feeling angry when cherished theology is challenged is natural, because we have built on it. This volume explains how we got here and why it differs from the early church.",
+    "The 'natural' view, with God 'over there' and separate, is both ancient Greek thought and the fallen mind of Adam, who began from aloneness. The Hebraic view holds the universe inside God and one with Him (Deuteronomy 6:4).",
+    "Socrates, Plato and Aristotle were great minds who founded Western thought, but underneath them lies dualism: pulling things apart into two.",
+    "Plotinus' Neoplatonism set the Earth at the centre of 55 nested crystalline shells joined by 'ether'. God, the perfect 'unmoved mover', drove the spheres in a chain of causality, and astrology in the heavens determined events on Earth.",
+    "In this frame God is holy, unchangeable and rational, the source of the 'omnis' and of 'can't look on sin', but there is no relationality or love in God. The Trinity, by contrast, is a community of love.",
+    "Greek thought held that matter is eternal and depraved, like Lego bricks God merely arranges. Scripture says matter was created from nothing (Hebrews 11:3), a view physics now broadly aligns with.",
+    "Neoplatonic salvation: a 'divine spark' trapped in a corrupt body must climb back to God through humility, confession, repentance, holy living and mystical out-of-body union. Bruce notes how like some charismatic structures this sounds.",
+    "So the Incarnation, God becoming matter, was absurd to the educated Greek mind (1 Corinthians 1:23).",
+    "Augustine accepted the cosmology of his day and fitted the gospel into it, making an 'Augustine sandwich' of union-and-distinction with dualism-and-separation. Aquinas fused Aristotle back in, after Aristotle had come through Islamic thought.",
+    "'Hell is eternal separation from God' is not found in Scripture. It comes from Greek separation of God from matter. Even the divide in the Lazarus story (Luke 16) lies inside God and Christ.",
+    "When Galileo and Copernicus overturned the geocentric model, the institutional church defended the Greek frame. Meanwhile the Incarnation's affirmation of matter, as taught by Athanasius and others, helped give rise to science and medicine.",
+    "The 'Four Spiritual Laws' (separation by sin, crossing the cross to get back) are a cut-down Neoplatonism. Christ meets us whether our frames are right or wrong, because He is in us."
+  ],
+  "keyTerms": [
+    {"term": "Dualism", "definition": "Pulling reality apart into two separated realms, such as God and matter, spirit and body, or heaven and earth; a Greek habit of mind."},
+    {"term": "Hebraic oneness", "definition": "The understanding that God is one (a oneness richer than singularity) and that the universe exists within God without separation."},
+    {"term": "Neoplatonism", "definition": "Plotinus' religious system: a distant perfect God, eternal depraved matter, and souls climbing back to God by escaping the body."},
+    {"term": "Ptolemaic universe", "definition": "The Earth-centred cosmos of nested crystalline shells, accepted as true for centuries."},
+    {"term": "Unmoved mover", "definition": "The Greek God who never moves but causes all motion through a chain of causality; impersonal and without love."},
+    {"term": "Divine spark", "definition": "The Greek idea of an immortal fragment of God trapped in a corrupt material body."},
+    {"term": "Augustine sandwich", "definition": "Bruce's term for Augustine's fusion of Neoplatonic dualism with the gospel's union."},
+    {"term": "Christian fish in Greek soup", "definition": "Western Christians immersed so deeply in Greek assumptions that they can't see them."}
+  ],
+  "scriptures": ["Deuteronomy 6:4", "Hebrews 11:3", "1 Corinthians 1:23", "Luke 16:19-31", "Revelation 3:20"],
+  "quotes": [
+    "Oneness is Hebraic and pulling things apart is Greek.",
+    "There is no relationality or love in God in this Greek view.",
+    "We've got Christian fish in Greek soup; we can't even see how Greek we are.",
+    "Christ meets us whether our structures are right or wrong, because He's in us."
+  ],
+  "diagram": {
+    "type": "flow",
+    "title": "How Greek Dualism Entered Western Christianity",
+    "nodes": [
+      {"id": "a", "label": "Adam's aloneness", "detail": "The fallen sense that God is 'over there', separate from us."},
+      {"id": "b", "label": "Socrates, Plato, Aristotle", "detail": "Brilliant foundations of Western thought, undergirded by dualism."},
+      {"id": "c", "label": "Plotinus' Neoplatonism", "detail": "A distant, loveless God; eternal depraved matter; souls climbing back."},
+      {"id": "d", "label": "Augustine sandwich", "detail": "Gospel union layered onto the accepted Neoplatonic cosmology."},
+      {"id": "e", "label": "Aquinas adds Aristotle", "detail": "Aristotelian thought, preserved via Islam, woven into Western theology."},
+      {"id": "f", "label": "Separation theology today", "detail": "Hell as separation, the Four Spiritual Laws, climbing to God."},
+      {"id": "g", "label": "Incarnation and science", "detail": "God's union with matter, recovered, undoes dualism and fuels science."}
+    ],
+    "edges": [
+      {"from": "a", "to": "b", "label": "echoed in"},
+      {"from": "b", "to": "c", "label": "systematised by"},
+      {"from": "c", "to": "d", "label": "fused by"},
+      {"from": "d", "to": "e", "label": "extended by"},
+      {"from": "e", "to": "f", "label": "results in"},
+      {"from": "f", "to": "g", "label": "challenged by"}
+    ],
+    "note": "The historical stream by which a separation-based frame came to feel 'natural' and biblical, set against the Incarnation's union, which the early church held."
+  },
+  "caseStudy": {
+    "title": "Escaping the body",
+    "scenario": "Tom, 28, grew up believing his body and its desires were basically 'bad' and that true spirituality meant rising above the physical. He feels guilty enjoying food, exercise or rest, and pushes through exhaustion and illness in order to stay 'spiritual'. He also lives with a background fear that he might end up separated from God for ever. He assumes all of this is simply what the Bible teaches.",
+    "analysis": "Tom's spirituality reflects Neoplatonic dualism, matter as depraved and the soul climbing away from the body, more than the gospel. The Incarnation, God becoming flesh, affirms the body as a place God has joined Himself to. His fear of eternal separation also rests on a Greek frame of God outside creation rather than the Hebraic view of all things held within God.",
+    "pathway": [
+      "Identify which of his beliefs come from Scripture and which from inherited 'Greek soup', for example 'matter is bad' or 'God can't look on sin'.",
+      "Reflect on John 1:14: the Word became flesh. What does this say about his body?",
+      "Practise receiving ordinary bodily goods (meals, rest, movement) with thanks, as places where Christ is present.",
+      "Talk through his fear of separation with a pastor familiar with Trinitarian theology.",
+      "Ask a doctor to check his exhaustion and illness and follow their advice, rather than overriding his body's signals."
+    ]
+  },
+  "practices": [
+    {"name": "Spot the Greek soup", "how": "Write down five phrases you commonly hear in church, such as 'God can't look on sin' or 'eternal separation'. Ask of each: is this Hebraic union or Greek separation? Look up where it actually appears in Scripture."},
+    {"name": "Embodied gratitude", "how": "Once a day, thank Father, Son and Spirit for something physical: taste, warmth, movement. Let it remind you that God has entered matter, not despised it."},
+    {"name": "Socratic questioning", "how": "Like Socrates, gently question one belief each week: where did I learn this, what does it assume about God, and does it fit the God revealed in Jesus?"}
+  ],
+  "reflection": [
+    "Which 'Greek' assumptions about God, the body or heaven and hell have I absorbed without noticing?",
+    "How does my picture of God change if love and relationship, rather than unmoving perfection, are at the centre?",
+    "When my theology is challenged, do I tend to want to 'kill the messenger', and why?"
+  ],
+  "quiz": [
+    {"q": "What is a key feature of the Neoplatonic God, according to Bruce?", "options": ["A community of love", "A God who became human", "A perfect, unmoving, rational God with no love or relationality", "A God who dwells within matter"], "answer": 2, "explain": "The Greek 'unmoved mover' is holy and rational but without love; the Trinity is a community of love."},
+    {"q": "What does Bruce mean by the 'Augustine sandwich'?", "options": ["Augustine's fusion of Neoplatonic dualism with the gospel's union", "Augustine's rejection of all Greek philosophy", "Augustine's teaching on communion", "A medieval monastic rule"], "answer": 0, "explain": "Augustine worked within the accepted cosmology and layered the gospel onto it."},
+    {"q": "How, according to Bruce, did the Incarnation relate to the rise of science?", "options": ["It hindered science by denying the material world", "It had no connection to science", "It proved the Earth-centred universe", "By affirming that God can join matter, it helped give rise to science and medicine"], "answer": 3, "explain": "If God can become human, matter is not depraved, and the body and the world can be studied and healed."}
+  ]
+}
