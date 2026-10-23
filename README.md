@@ -14,6 +14,7 @@ apart from the web font.
 | **Home** | The overarching "love story" framework as an interactive cycle diagram, a 59-session progress strip, the volume and chapter structure, nine big ideas and the soul-healing pathway |
 | **Course map** | A zoomable radial mind map: volumes, then chapters, then sessions |
 | **Sessions** | For each of the 59 sessions: summary, quotes, linked Scriptures, a visual diagram (flowchart, cycle, contrast, hierarchy or layers), key ideas as a timeline, flip-card concepts, a case study, practices, private reflection journal and a quiz |
+| **New creation** | An in-depth study: *If we are a new creation, why heal the soul and process past memories?* It includes a Venn synthesis, four lenses on “new creation”, a two-ages timeline, a Greek word study filterable by tense, Paul’s indicative/imperative pattern, a memory flowchart, eight biblical examples of processing the past, ten objections answered (each with what the critic gets right), a comparison table, a mind map, a practice guide with decision tree and guardrails, 23 annotated sources, reflection and a quiz |
 | **Case studies** | Six extended multi-session case journeys, each with its own diagram, plus 59 session case studies |
 | **Toolkit** | "What are you facing?" Twelve practical guides (anxiety, the inner critic, grief, unforgiveness, overthinking, addictive comforts, burnout, loneliness, conflict, trauma, religious fear, feeling far from God) with flow diagrams, steps, practices and sessions to revisit, plus every practice in the series in one searchable list |
 | **Glossary** | Every key term, A to Z, searchable and linked to its sessions |
@@ -33,6 +34,7 @@ font that can't be freely embedded.
 data/sessions/session-NN.json   structured notes per session (summary, key points, terms,
                                 diagram spec, case study, practices, reflection, quiz)
 data/extras.json                framework, big ideas, pathway, extended case studies, toolkit
+data/study-newcreation.json     the New creation in-depth study
 src/styles.css                  design tokens + palettes (all colours derive from two hues)
 src/app.js                      router, views, diagram engine, radial mind map, quiz
 src/template.html               page shell

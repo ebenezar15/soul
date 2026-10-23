@@ -58,7 +58,7 @@
 
   /* ---------------- shell ---------------- */
   const ROUTES = [
-    ["home", "Home"], ["map", "Course map"], ["sessions", "Sessions"], ["cases", "Case studies"],
+    ["home", "Home"], ["map", "Course map"], ["sessions", "Sessions"], ["newcreation", "New creation"], ["cases", "Case studies"],
     ["toolkit", "Toolkit"], ["glossary", "Glossary"], ["quiz", "Quiz"],
   ];
   function shell() {
@@ -233,7 +233,10 @@
   function mountDiagrams(root) {
     (root || app).querySelectorAll(".dslot").forEach((el) => {
       const narrow = el.clientWidth < 560; if (el.dataset.narrow === String(narrow) && el.innerHTML) return;
-      el.dataset.narrow = String(narrow); el.innerHTML = renderDiagram(diagramSpecs.get(el.dataset.slot), narrow);
+      const spec = diagramSpecs.get(el.dataset.slot);
+      el.dataset.narrow = String(narrow);
+      if (typeof spec === "function") { el.innerHTML = spec(narrow); return; } // custom visual (Venn, timeline, mind map)
+      el.innerHTML = renderDiagram(spec, narrow);
       const legendItems = el.querySelectorAll(".d-legend li"); const gs = el.querySelectorAll(".d-node");
       const activate = (i) => { gs.forEach((g) => g.classList.toggle("active", g.dataset.i === i)); legendItems.forEach((l) => l.classList.toggle("active", l.dataset.i === i)); };
       gs.forEach((g) => { g.addEventListener("click", () => activate(g.dataset.i)); g.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); activate(g.dataset.i); } }); });
@@ -301,6 +304,14 @@
           <div class="stat"><b>${S.reduce((a, s) => a + s.quiz.length, 0)}</b><span>quiz questions</span></div>
         </div>
       </section>
+
+      <a class="feature-study" href="#newcreation">
+        <span class="eyebrow">In-depth study</span>
+        <h2>${esc(D.study.title)}</h2>
+        <p>${esc(D.study.question)}</p>
+        <span class="fs-meta">Venn synthesis · Greek word study · two-ages timeline · memory flowchart · ${D.study.objections.length} objections answered · mind map · practice guide · ${D.study.reading.reduce((a, g) => a + g.items.length, 0)} sources</span>
+        <span class="btn small">Read the study →</span>
+      </a>
 
       <section class="stack">
         <div class="section-head"><div><span class="eyebrow">The framework</span><h2>${esc(X.framework.title)}: the whole series in seven movements</h2></div></div>
@@ -399,6 +410,7 @@
         ${v.chapters.map((c) => `<div class="ch">${esc(c.name)}</div>${c.sessions.map((n) => `<a href="#s${n}" data-txt="${esc((n + " " + byN.get(n).topic + " " + byN.get(n).summary).toLowerCase())}" ${n === cur ? 'aria-current="page"' : ""}><span class="n">${n}</span><span>${esc(byN.get(n).topic)}</span><span class="ok">${done.has(n) ? "✓" : ""}</span></a>`).join("")}`).join("")}
       </details>`).join("")}</div></aside>`;
   }
+  const STUDY_LINKS = [6, 15, 21, 22, 23, 26, 33, 34, 35, 52, 55, 56, 59];
   function viewSession(n) {
     const s = byN.get(n); if (!s) return viewSession(1);
     store.set("last", n);
@@ -415,6 +427,7 @@
         </header>
         <nav class="jump" aria-label="Jump to section">${[["ov", "Overview"], ["dg", "Diagram"], ["kp", "Key ideas"], ["tm", "Concepts"], ["cs", "Case study"], ["pr", "Practice"], ["rf", "Reflect"], ["qz", "Quiz"]].map(([k, l]) => `<button class="chip" data-jump="${k}">${l}</button>`).join("")}</nav>
 
+        ${STUDY_LINKS.includes(n) ? `<a class="deeper" href="#newcreation"><span class="eyebrow">Go deeper</span><b>${esc(D.study.title)}</b><span>If we are a new creation, why heal the soul and process memories? An in-depth study that draws on this session.</span></a>` : ""}
         <section class="block" id="b-ov"><p class="summary">${esc(s.summary)}</p>
           ${s.quotes && s.quotes.length ? `<div class="quotes">${s.quotes.map((q) => `<blockquote class="quote"><p>${esc(q)}</p></blockquote>`).join("")}</div>` : ""}
           ${s.scriptures && s.scriptures.length ? `<div class="stack" style="gap:8px"><span class="eyebrow">Scriptures in this session</span><div class="scripture">${s.scriptures.map((r) => `<a class="chip" href="${bible(r)}" target="_blank" rel="noopener">${esc(r)}</a>`).join("")}</div></div>` : ""}
@@ -521,25 +534,164 @@
   function viewGlossary() {
     const map = new Map();
     S.forEach((s) => s.keyTerms.forEach((t) => { const k = t.term.trim(); const key = k.toLowerCase(); if (!map.has(key)) map.set(key, { term: k, def: t.definition, ns: [s.n] }); else if (!map.get(key).ns.includes(s.n)) map.get(key).ns.push(s.n); }));
+    D.study.glossary.forEach((t) => { const key = t.term.toLowerCase(); if (!map.has(key)) map.set(key, { term: t.term, def: t.definition, ns: [], study: true }); });
     const items = [...map.values()].sort((a, b) => a.term.replace(/^[^a-z0-9]+/i, "").localeCompare(b.term.replace(/^[^a-z0-9]+/i, ""), undefined, { sensitivity: "base" }));
     const groups = {}; items.forEach((it) => { const L = (it.term.replace(/^[^a-z0-9]+/i, "")[0] || "#").toUpperCase(); (groups[L] = groups[L] || []).push(it); });
     return `<div class="stack fade-in">
       <div class="section-head"><div><span class="eyebrow">Glossary</span><h2>${items.length} terms from the series</h2></div><input class="search" id="glFilter" placeholder="Search terms" aria-label="Search terms" style="max-width:320px"></div>
-      <div class="glossary" id="glossary">${Object.keys(groups).sort().map((L) => `<div class="gl-letter"><h3>${L}</h3>${groups[L].map((it) => `<div class="gl-item" data-txt="${esc((it.term + " " + it.def).toLowerCase())}"><b>${esc(it.term)}</b><p>${esc(it.def)}</p>${it.ns.map((n) => `<a href="#s${n}">Session ${n}</a>`).join("")}</div>`).join("")}</div>`).join("")}</div></div>`;
+      <div class="glossary" id="glossary">${Object.keys(groups).sort().map((L) => `<div class="gl-letter"><h3>${L}</h3>${groups[L].map((it) => `<div class="gl-item" data-txt="${esc((it.term + " " + it.def).toLowerCase())}"><b>${esc(it.term)}</b><p>${esc(it.def)}</p>${it.ns.map((n) => `<a href="#s${n}">Session ${n}</a>`).join("")}${it.study ? `<a href="#newcreation">New creation study</a>` : ""}</div>`).join("")}</div>`).join("")}</div></div>`;
   }
 
   /* ---- quiz ---- */
   let quizScope = "all";
   function viewQuiz() {
-    const pool = S.filter((s) => quizScope === "all" || s.vol === quizScope).flatMap((s) => s.quiz.map((q) => Object.assign({ n: s.n }, q)));
+    const pool = quizScope === "nc" ? D.study.quiz.slice() : S.filter((s) => quizScope === "all" || s.vol === quizScope).flatMap((s) => s.quiz.map((q) => Object.assign({ n: s.n }, q)));
     const qs = shuffle(pool).slice(0, 10);
     viewQuiz.current = qs;
     const best = store.get("best", {});
     return `<div class="stack fade-in" style="max-width:820px">
-      <div class="section-head"><div><span class="eyebrow">Review quiz</span><h2>Ten questions drawn from ${quizScope === "all" ? "the whole series" : esc(volOf(quizScope).name)}</h2></div></div>
-      <div class="chips" role="group" aria-label="Quiz scope"><button class="chip" data-qs="all" aria-pressed="${quizScope === "all"}">Whole series</button>${D.volumes.map((v) => `<button class="chip" data-qs="${v.id}" aria-pressed="${quizScope === v.id}">${esc(v.short)}</button>`).join("")}<button class="chip" id="newQuiz">New questions ↻</button></div>
-      ${best[quizScope] != null ? `<p class="muted tab-nums" style="font-size:var(--fs-sm)">Your best score here: ${best[quizScope]}/10</p>` : ""}
+      <div class="section-head"><div><span class="eyebrow">Review quiz</span><h2>${quizScope === "nc" ? "The new creation study" : "Ten questions drawn from " + (quizScope === "all" ? "the whole series" : esc(volOf(quizScope).name))}</h2></div></div>
+      <div class="chips" role="group" aria-label="Quiz scope"><button class="chip" data-qs="all" aria-pressed="${quizScope === "all"}">Whole series</button>${D.volumes.map((v) => `<button class="chip" data-qs="${v.id}" aria-pressed="${quizScope === v.id}">${esc(v.short)}</button>`).join("")}<button class="chip" data-qs="nc" aria-pressed="${quizScope === "nc"}">New creation study</button><button class="chip" id="newQuiz">New questions ↻</button></div>
+      ${best[quizScope] != null ? `<p class="muted tab-nums" style="font-size:var(--fs-sm)">Your best score here: ${best[quizScope]}/${qs.length}</p>` : ""}
       <div id="bigQuiz">${quizHTML(qs, true)}</div></div>`;
+  }
+
+  /* ================= STUDY: NEW CREATION ================= */
+  const NC = D.study;
+  const TENSE = { done: "Finished", ongoing: "Ongoing", both: "Finished + ongoing" };
+  const fo = (x, y, w, h, html, cls) => `<foreignObject x="${x}" y="${y}" width="${w}" height="${h}"><div xmlns="http://www.w3.org/1999/xhtml" class="fo ${cls || ""}">${html}</div></foreignObject>`;
+
+  function vennSVG(narrow) {
+    const V = NC.venn; const list = (a) => `<ul>${a.map((i) => `<li>${esc(i)}</li>`).join("")}</ul>`;
+    if (narrow) {
+      return `<svg viewBox="0 0 380 600" role="img" aria-label="Venn diagram: renew the mind, process the past, unveiling">
+        <circle class="venn-a" cx="190" cy="190" r="170"/><circle class="venn-b" cx="190" cy="410" r="170"/>
+        ${fo(85, 70, 210, 160, `<b>${esc(V.left.title)}</b><span>${esc(V.left.sub)}</span>${list(V.left.items.slice(0, 3))}`, "center")}
+        ${fo(85, 372, 210, 160, `<b>${esc(V.right.title)}</b><span>${esc(V.right.sub)}</span>${list(V.right.items.slice(0, 3))}`, "center")}
+        ${fo(95, 250, 190, 100, `<b class="vc">${esc(V.centre.title)}</b><span>${esc(V.centre.sub)}</span>`, "center")}</svg>`;
+    }
+    return `<svg viewBox="0 0 860 440" role="img" aria-label="Venn diagram: renew the mind, process the past, unveiling">
+      <circle class="venn-a" cx="310" cy="220" r="205"/><circle class="venn-b" cx="550" cy="220" r="205"/>
+      ${fo(140, 100, 190, 240, `<b>${esc(V.left.title)}</b><span>${esc(V.left.sub)}</span>${list(V.left.items)}`)}
+      ${fo(530, 100, 190, 240, `<b>${esc(V.right.title)}</b><span>${esc(V.right.sub)}</span>${list(V.right.items)}`)}
+      ${fo(352, 112, 156, 230, `<b class="vc">${esc(V.centre.title)}</b><span>${esc(V.centre.sub)}</span>${list(V.centre.items)}`, "center")}</svg>`;
+  }
+
+  function timelineSVG() {
+    const T = NC.timeline; const W = 960; const x = (i) => 70 + i * 117; const ax = 178;
+    const rx = x(4), endX = x(7);
+    const ev = T.events.map((e) => `
+      <g class="tl-ev ${e.key ? "key" : ""} ${e.now ? "now" : ""}"><circle cx="${x(e.x)}" cy="${ax}" r="${e.key || e.now ? 9 : 6}"/>
+      ${fo(x(e.x) - 56, ax + 16, 112, 92, `<b>${esc(e.label)}</b><span>${esc(e.ref)}</span>`, "center tl-lab")}</g>`).join("");
+    return `<svg viewBox="0 0 ${W} 300" class="wide-svg" role="img" aria-label="Timeline of the two ages">
+      <rect class="tl-overlap" x="${rx}" y="36" width="${endX - rx}" height="${ax - 46}" rx="10"/>
+      <text class="tl-ol-text" x="${(rx + endX) / 2}" y="52" text-anchor="middle">${esc(T.overlap)}</text>
+      <rect class="tl-old" x="${x(1)}" y="66" width="${endX - x(1)}" height="28" rx="14"/>
+      <text class="tl-band-text" x="${x(1) + 14}" y="84">${esc(T.oldAge)}</text>
+      <rect class="tl-new" x="${rx}" y="104" width="${W - rx - 10}" height="28" rx="14"/>
+      <text class="tl-band-text new" x="${rx + 14}" y="122">${esc(T.newAge)} →</text>
+      <line class="tl-axis" x1="40" y1="${ax}" x2="${W - 20}" y2="${ax}"/>${ev}</svg>`;
+  }
+
+  function mindTree(narrow) {
+    const M = NC.mindmap; const kinds = ["k1", "k2", "k3"];
+    if (narrow) {
+      return `<div class="mt-outline"><div class="mt-root">${esc(M.label)}</div>${M.children.map((b, i) => `
+        <div class="mt-branch ${kinds[i % 3]}"><b>${esc(b.label)}</b><ul>${b.children.map((c) => `<li>${esc(c.label)}</li>`).join("")}</ul></div>`).join("")}</div>`;
+    }
+    const W = 1120, H = 940, cx = W / 2, cy = H / 2, rx = 405, ry = 345, cw = 236;
+    const n = M.children.length; let links = "", cards = "";
+    M.children.forEach((b, i) => {
+      const a = -Math.PI / 2 + (i * 2 * Math.PI) / n; const x = cx + rx * Math.cos(a), y = cy + ry * Math.sin(a);
+      const h = 44 + b.children.length * 38;
+      const mx = cx + rx * 0.45 * Math.cos(a), my = cy + ry * 0.45 * Math.sin(a);
+      links += `<path class="mt-link ${kinds[i % 3]}" d="M${cx},${cy} Q${mx + 30 * Math.sin(a)},${my - 30 * Math.cos(a)} ${x},${y}"/>`;
+      cards += fo(x - cw / 2, y - h / 2, cw, h, `<b>${esc(b.label)}</b><ul>${b.children.map((c) => `<li>${esc(c.label)}</li>`).join("")}</ul>`, "mt-card " + kinds[i % 3]);
+    });
+    return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Mind map of new creation">${links}
+      <circle class="mt-hub" cx="${cx}" cy="${cy}" r="92"/>${fo(cx - 80, cy - 40, 160, 80, `<b>${esc(M.label)}</b>`, "center mt-hub-text")}${cards}</svg>`;
+  }
+
+  let wordFilter = "all";
+  function wordCards() {
+    return NC.words.filter((w) => wordFilter === "all" || w.tense === wordFilter || (wordFilter !== "all" && w.tense === "both")).map((w) => `
+      <article class="word">
+        <div class="word-head"><span class="greek" lang="grc">${esc(w.greek)}</span><span class="tense t-${w.tense}">${TENSE[w.tense]}</span></div>
+        <div><i>${esc(w.translit)}</i> · <b>${esc(w.gloss)}</b></div>
+        <a class="chip" href="${bible(w.ref.split(" · ")[0])}" target="_blank" rel="noopener">${esc(w.ref)}</a>
+        <p class="word-gram">${esc(w.grammar)}</p><p>${esc(w.meaning)}</p></article>`).join("");
+  }
+
+  function viewStudy() {
+    const sec = (id, eyebrow, title, body, lead) => `<section class="block" id="b-${id}"><div><span class="eyebrow">${eyebrow}</span><h2>${esc(title)}</h2>${lead ? `<p class="muted" style="max-width:var(--read);margin-top:8px">${esc(lead)}</p>` : ""}</div>${body}</section>`;
+    const jr = journal.nc || {};
+    const chips = (refs) => refs.map((r) => `<a class="chip" href="${bible(r)}" target="_blank" rel="noopener">${esc(r)}</a>`).join("");
+    const sChips = (ns) => ns.map((n) => sLink(n, "S" + n)).join("");
+    return `<article class="study fade-in">
+      <header class="study-hero">
+        <span class="eyebrow">In-depth study · drawing on Sessions 6, 15, 21–26, 32–36, 52–59 and wider sources</span>
+        <h1>${esc(NC.title)}</h1>
+        <blockquote class="study-q"><span class="eyebrow">The question</span><p>${esc(NC.question)}</p></blockquote>
+        <div class="study-a"><span class="eyebrow">The short answer</span><p>${esc(NC.shortAnswer)}</p></div>
+        <div class="pillars">${NC.pillars.map((p) => `<div class="pillar"><span class="tense t-${p.tense}">${TENSE[p.tense]}</span><b>${esc(p.word)}</b><p>${esc(p.text)}</p><div class="chips">${sChips(p.sessions)}</div></div>`).join("")}</div>
+      </header>
+      <nav class="jump" aria-label="Jump to section">${[["venn", "Synthesis"], ["mean", "Meaning"], ["greek", "Greek"], ["grammar", "Grammar"], ["memory", "Memory"], ["gallery", "Scripture"], ["critics", "Critics"], ["compare", "Compare"], ["map", "Mind map"], ["practice", "Practice"], ["reading", "Reading"], ["qz", "Quiz"]].map(([k, l]) => `<button class="chip" data-jump="${k}">${l}</button>`).join("")}</nav>
+
+      ${sec("venn", "1 · Synthesis", "Two answers, one gospel", `<div class="card venn">${diagramSlot(vennSVG)}</div><p class="d-note" style="max-width:var(--read)">${esc(NC.venn.note)}</p>`, "People usually set renewing the mind against processing the past. Scripture and the series hold them together.")}
+
+      ${sec("mean", "2 · Meaning", "What does ‘new creation’ mean?", `
+        <div class="lenses">${NC.lenses.map((l, i) => `<article class="lens"><div class="lens-n">${i + 1}</div><div class="stack" style="gap:8px"><div><span class="eyebrow">${esc(l.tag)}</span><h3>${esc(l.title)}</h3></div><p>${esc(l.text)}</p><div class="chips">${chips(l.scriptures)}</div><p class="src">${esc(l.source)}</p></div></article>`).join("")}</div>
+        <div class="card stack"><h3>Living between the ages</h3><div class="scroll-x">${diagramSlot(timelineSVG)}</div><p class="d-note">${esc(NC.timeline.note)}</p></div>`, "Four lenses, from the widest to the most personal. Each one is true, and together they explain why ‘new’ and ‘being renewed’ belong together.")}
+
+      ${sec("greek", "3 · Word study", "What the Greek actually says", `
+        <div class="chips" role="group" aria-label="Filter by tense">${[["all", "All words"], ["done", "Finished"], ["ongoing", "Ongoing"]].map(([k, l]) => `<button class="chip" data-wf="${k}" aria-pressed="${wordFilter === k}">${l}</button>`).join("")}</div>
+        <div class="words" id="words">${wordCards()}</div>`, "Notice how often the same verse or chapter holds a finished tense and an ongoing one.")}
+
+      ${sec("grammar", "4 · Paul’s pattern", "The grammar of grace", `<div class="card">${diagramSlot(NC.indicative)}</div>`, NC.indicative.note)}
+
+      ${sec("memory", "5 · How we are made", "Why the past still speaks", `<div class="card">${diagramSlot(NC.memory)}</div>`, NC.memory.note)}
+
+      ${sec("gallery", "6 · Biblical precedent", "Scripture processes the past", `<div class="gallery">${NC.gallery.map((g) => `
+        <article class="gal"><h3>${esc(g.name)}</h3>
+          <ol class="gal-flow"><li><span>Wound</span>${esc(g.wound)}</li><li><span>Encounter</span>${esc(g.encounter)}</li><li><span>After</span>${esc(g.after)}</li></ol>
+          <p class="gal-lesson">${esc(g.lesson)}</p><div class="chips">${chips(g.refs)}</div></article>`).join("")}</div>`, "Eight people in Scripture who faced their past rather than skipping it, and what changed.")}
+
+      ${sec("critics", "7 · Objections", "Answering the critics", `<div class="acc objections">${NC.objections.map((o, i) => `
+        <details ${i === 0 ? "open" : ""}><summary><span class="obj-sum"><span class="obj-n">${i + 1}</span><span><b>${esc(o.claim)}</b>${o.cites.length ? `<small>Often cites ${esc(o.cites.join(", "))}</small>` : ""}<em>${esc(o.short)}</em></span></span></summary>
+          <div class="body"><p>${esc(o.answer)}</p>
+            <div class="cols-2"><div class="stack" style="gap:6px"><span class="eyebrow">Scripture</span><div class="chips">${chips(o.scriptures)}</div></div>
+            ${o.sessions.length ? `<div class="stack" style="gap:6px"><span class="eyebrow">In the series</span><div class="chips">${sChips(o.sessions)}</div></div>` : ""}</div>
+            <div class="grant"><span class="eyebrow">What the critic gets right</span><p>${esc(o.grant)}</p></div></div></details>`).join("")}</div>`, "Ten common objections, stated fairly, answered from Scripture and the series, and each with what it gets right.")}
+
+      ${sec("compare", "8 · Approaches", "Three approaches compared", `<div class="scroll-x"><table class="cmp"><thead><tr><th></th>${NC.compare.columns.map((c, i) => `<th class="${i === 2 ? "hl" : ""}">${esc(c)}</th>`).join("")}</tr></thead>
+        <tbody>${NC.compare.rows.map((r) => `<tr><th>${esc(r.aspect)}</th>${r.values.map((v, i) => `<td class="${i === 2 ? "hl" : ""}">${esc(v)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`)}
+
+      ${sec("map", "9 · The whole picture", "Mind map: new creation and the soul", `<div class="card mt-wrap">${diagramSlot(mindTree)}</div>`)}
+
+      ${sec("practice", "10 · Practice", "Processing a memory from the finished work", `
+        <div class="card">${diagramSlot(NC.practice)}</div>
+        <div class="card stack"><h3>${esc(NC.decision.title)}</h3>${diagramSlot(NC.decision)}</div>
+        <div class="guard"><span class="eyebrow">Guardrails</span><ul>${NC.guardrails.map((g) => `<li>${esc(g)}</li>`).join("")}</ul></div>`, "This is not a technique for making yourself new. It is a way of staying present while the Spirit unveils what is already true.")}
+
+      ${sec("reading", "11 · Further study", "Sources and reading", `<div class="reading">${NC.reading.map((g) => `<div class="read-group"><h3>${esc(g.group)}</h3><ul>${g.items.map((it) => `<li><a href="https://www.google.com/search?q=${encodeURIComponent(it.title + " " + it.author)}" target="_blank" rel="noopener"><b>${esc(it.title)}</b></a><span class="muted"> · ${esc(it.author)}</span><p>${esc(it.note)}</p></li>`).join("")}</ul></div>`).join("")}</div>`, "Theology, formation, neuroscience, and the critics’ own best books, so you can weigh both sides.")}
+
+      <section class="block" id="b-rf"><div><span class="eyebrow">12 · Reflect</span><h2>Make it personal</h2><p class="muted" style="font-size:var(--fs-sm)">Your answers stay in this browser only.</p></div>
+        <div class="reflect">${NC.reflection.map((r, i) => `<div><label for="rf-nc-${i}">${esc(r)}</label><textarea id="rf-nc-${i}" data-ri="${i}">${esc(jr[i] || "")}</textarea></div>`).join("")}<span class="saved" id="savedNote" hidden>Saved</span></div></section>
+      <section class="block" id="b-qz"><div><span class="eyebrow">13 · Review</span><h2>Check your understanding</h2></div><div id="ncQuiz">${quizHTML(NC.quiz)}</div></section>
+      <p class="muted" style="font-size:var(--fs-xs)">${esc(D.extras.careNote)}</p>
+    </article>`;
+  }
+  function wireStudy() {
+    app.querySelectorAll("[data-jump]").forEach((b) => b.addEventListener("click", () => document.getElementById("b-" + b.dataset.jump).scrollIntoView({ behavior: "smooth", block: "start" })));
+    app.querySelectorAll("[data-wf]").forEach((b) => b.addEventListener("click", () => {
+      wordFilter = b.dataset.wf; document.getElementById("words").innerHTML = wordCards();
+      app.querySelectorAll("[data-wf]").forEach((x) => x.setAttribute("aria-pressed", String(x.dataset.wf === wordFilter)));
+    }));
+    let t; app.querySelectorAll(".reflect textarea").forEach((ta) => ta.addEventListener("input", () => {
+      journal.nc = journal.nc || {}; journal.nc[ta.dataset.ri] = ta.value; clearTimeout(t);
+      t = setTimeout(() => { store.set("journal", journal); const sn = document.getElementById("savedNote"); sn.hidden = false; setTimeout(() => { sn.hidden = true; }, 1200); }, 400);
+    }));
+    wireQuiz(document.getElementById("ncQuiz"), NC.quiz);
   }
 
   /* ================= ROUTER ================= */
@@ -558,6 +710,7 @@
       case "toolkit": html = viewToolkit(); break;
       case "glossary": html = viewGlossary(); break;
       case "quiz": html = viewQuiz(); break;
+      case "newcreation": html = viewStudy(); break;
       default: html = viewHome(); r = "home";
     }
     app.innerHTML = html;
@@ -566,6 +719,7 @@
     app.querySelectorAll("[data-go]").forEach((b) => b.addEventListener("click", () => { location.hash = "s" + b.dataset.go; }));
     if (r === "map") drawMap();
     if (r === "sessions") wireSession(byN.has(n) ? n : 1);
+    if (r === "newcreation") wireStudy();
     if (r === "cases") app.querySelectorAll("[data-cf]").forEach((b) => b.addEventListener("click", () => { caseFilter = b.dataset.cf; route(); }));
     if (r === "toolkit") {
       app.querySelectorAll("[data-sit]").forEach((b) => b.addEventListener("click", () => { sitSel = b.dataset.sit; const y = window.scrollY; route(); window.scrollTo(0, y); document.getElementById("sitPanel").scrollIntoView({ behavior: "smooth", block: "start" }); }));

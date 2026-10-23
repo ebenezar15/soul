@@ -100,6 +100,7 @@ def main():
         "sessions": load_sessions(),
         "volumes": VOLUMES,
         "extras": json.loads((ROOT / "data" / "extras.json").read_text()),
+        "study": json.loads((ROOT / "data" / "study-newcreation.json").read_text()),
     }
     blob = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     tpl = (ROOT / "src" / "template.html").read_text()
